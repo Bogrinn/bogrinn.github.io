@@ -356,7 +356,7 @@
 	},
 	{
 		"abr": "bearofleet",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Bearofleet"
 	},
@@ -908,7 +908,7 @@
 	},
 	{
 		"abr": "chort",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Chort"
 	},
@@ -1358,7 +1358,7 @@
 	},
 	{
 		"abr": "ekimmara",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Ekimmara"
 	},
@@ -1640,7 +1640,7 @@
 	},
 	{
 		"abr": "fleder",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Fleder"
 	},
@@ -1664,7 +1664,7 @@
 	},
 	{
 		"abr": "fogler",
-		"price": 208,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Fogler"
 	},
@@ -7520,7 +7520,7 @@
 	},
 	{
 		"abr": "goldenegg(fert.)",
-		"price": 2,
+		"price": -10,
 		"category": "Eggs",
 		"defname": "EggSyulipia_GoldenChickenFertilized"
 	},
@@ -11071,83 +11071,53 @@
 		"defname": "RC2_RawYams"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
+		"abr": "book",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_Book"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
+		"abr": "bookcase(short)",
+		"price": 198,
 		"category": "Furniture",
-		"defname": "RGK_bedSingleGuest"
+		"defname": "Jecrell_BookcaseShort"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
+		"abr": "bookcase(tall)",
+		"price": 400,
 		"category": "Furniture",
-		"defname": "RGK_bedSingleBGuest"
+		"defname": "Jecrell_Bookcase"
 	},
 	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
+		"abr": "crudetorturetools",
+		"price": 25,
+		"category": "Torture",
+		"defname": "WCE2_CrudeTortureTools"
 	},
 	{
-		"abr": "guestclassydoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "GL_ClassyDoubleBedGuest"
+		"abr": "electricpapermakingstation",
+		"price": 408,
+		"category": "Production",
+		"defname": "RimWriter_PapermakingBenchElectric"
 	},
 	{
-		"abr": "guestcryptosleepsuspender",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
+		"abr": "growthstimulator",
+		"price": 83,
+		"category": "Torture",
+		"defname": "WCE2_GrowthStimulator"
 	},
 	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
+		"abr": "journal",
+		"price": 38,
+		"category": "Items",
+		"defname": "Jecrell_BookJournal"
 	},
 	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleGuest"
-	},
-	{
-		"abr": "guestdoublebed2",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleBGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
+		"abr": "medicaltorturetools",
+		"price": 83,
+		"category": "Torture",
+		"defname": "WCE2_MedicalTortureTools"
 	}
 	],
-	"total": 1864
+	"total": 1866
 }
