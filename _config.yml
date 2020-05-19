@@ -29,7 +29,7 @@ url: 'https://bogrinn.github.io' # the base hostname & protocol for your site, e
 twitter_username: '@Bogrinne'
 github_username: 'Bogrinn'
 
-remote_theme: Sylhare/Type-on-Strap
+remote_theme: SirRandoo/Type-on-Strap
 
 # Build settings
 # theme: minima
