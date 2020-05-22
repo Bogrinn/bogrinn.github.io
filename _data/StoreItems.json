@@ -2750,7 +2750,7 @@
 	},
 	{
 		"abr": "bxvibrosword",
-		"price": 1308,
+		"price": 5000,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_CIS_BX_Vibroblade"
 	},
@@ -3638,7 +3638,7 @@
 	},
 	{
 		"abr": "echanivibrosword",
-		"price": 5000,
+		"price": 10000,
 		"category": "Melee weapons",
 		"defname": "PJ_Vibrosword"
 	},
@@ -4742,7 +4742,7 @@
 	},
 	{
 		"abr": "mandovibrocleaver",
-		"price": 5000,
+		"price": 10000,
 		"category": "Melee weapons",
 		"defname": "PJ_Vibrocleaver"
 	},
@@ -5636,7 +5636,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": -10,
+		"price": 15000,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -6350,19 +6350,19 @@
 	},
 	{
 		"abr": "vibrodouble-blade",
-		"price": 5000,
+		"price": 1000,
 		"category": "Melee weapons",
 		"defname": "PJ_Vibrodouble"
 	},
 	{
 		"abr": "vibroscythe",
-		"price": 5000,
+		"price": 7500,
 		"category": "Melee weapons",
 		"defname": "PJ_VScythe"
 	},
 	{
 		"abr": "vibroaxe",
-		"price": 5000,
+		"price": 7500,
 		"category": "Melee weapons",
 		"defname": "PJ_Vibroaxe"
 	},
@@ -7232,7 +7232,7 @@
 	},
 	{
 		"abr": "archotechsubdermalarmor",
-		"price": 4667,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechSubdermalArmor"
 	},
@@ -10771,101 +10771,395 @@
 		"defname": "VFEPD_DecalWordSmallZone"
 	},
 	{
-		"abr": "guestadvancedbed",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
+		"abr": "aiwha",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "Aiwha"
 	},
 	{
-		"abr": "guestadvanceddoublebed",
-		"price": 1483,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
+		"abr": "aiwhaleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Aiwha"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
+		"abr": "ammobox",
+		"price": 600,
 		"category": "Furniture",
-		"defname": "BedGuest"
+		"defname": "JDSAmmo_BoxA"
 	},
 	{
-		"abr": "guestbedroll",
-		"price": 137,
+		"abr": "ammobox",
+		"price": 1983,
 		"category": "Furniture",
-		"defname": "BedrollGuest"
+		"defname": "JDSAmmo_BoxB"
 	},
 	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
+		"abr": "ammobox",
+		"price": 3142,
 		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
+		"defname": "JDSAmmo_BoxC"
 	},
 	{
-		"abr": "guestdoublebed",
-		"price": 292,
+		"abr": "ammocrate",
+		"price": 169,
 		"category": "Furniture",
-		"defname": "DoubleBedGuest"
+		"defname": "JDSAmmo_Crate"
 	},
 	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
+		"abr": "ammocratepiles",
+		"price": 1533,
 		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
+		"defname": "JDSAmmo_Crate_Piles"
 	},
 	{
-		"abr": "guestergonomicbed",
-		"price": 450,
+		"abr": "bankvault",
+		"price": 21983,
 		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
+		"defname": "JDSBank_Vault"
 	},
 	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
+		"abr": "barrel",
+		"price": 204,
 		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
+		"defname": "JDS_Wooden_Barrel"
 	},
 	{
-		"abr": "guesthospitalbed",
+		"abr": "barrelpile",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Barrel_Pile"
+	},
+	{
+		"abr": "beercrate",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "JDSBeer_Crate"
+	},
+	{
+		"abr": "cratea",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate"
+	},
+	{
+		"abr": "cratea2",
+		"price": 400,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Crate_Two"
+	},
+	{
+		"abr": "cratea3",
 		"price": 667,
 		"category": "Furniture",
-		"defname": "HospitalBedGuest"
+		"defname": "JDS_Wooden_Crate_Three"
 	},
 	{
-		"abr": "guestoperatingtable",
-		"price": 508,
+		"abr": "cratea4",
+		"price": 1167,
 		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
+		"defname": "JDS_Wooden_Crate_four"
 	},
 	{
-		"abr": "guestroyalbed",
-		"price": 1467,
+		"abr": "crateb",
+		"price": 237,
 		"category": "Furniture",
-		"defname": "RoyalBedGuest"
+		"defname": "JDS_Wooden_Crate_B"
 	},
 	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
+		"abr": "cratec",
+		"price": 237,
 		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
+		"defname": "JDS_Wooden_Crate_C"
 	},
 	{
-		"abr": "guestsimplebed",
-		"price": 137,
+		"abr": "cratelarge",
+		"price": 1675,
 		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
+		"defname": "JDS_Wooden_Crate_Large"
 	},
 	{
-		"abr": "guestslabbed",
-		"price": 111,
+		"abr": "industrialdumpster",
+		"price": 1783,
 		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
+		"defname": "JDSIndustrial_Dumpster"
 	},
 	{
-		"abr": "zombrella",
-		"price": -10,
+		"abr": "industrialshelf(empty)",
+		"price": 1717,
+		"category": "Furniture",
+		"defname": "JDSIndustrial_shelf_empty"
+	},
+	{
+		"abr": "industrialshelf(full)",
+		"price": 5783,
+		"category": "Furniture",
+		"defname": "JDSIndustrial_shelf"
+	},
+	{
+		"abr": "krill",
+		"price": 25,
+		"category": "Animal",
+		"defname": "Krill"
+	},
+	{
+		"abr": "krillshell",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Krill"
+	},
+	{
+		"abr": "metalcrate",
+		"price": 264,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate"
+	},
+	{
+		"abr": "metalcratebiggerpile",
+		"price": 1525,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Bigger_Pile"
+	},
+	{
+		"abr": "metalcratepile",
+		"price": 800,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Pile"
+	},
+	{
+		"abr": "metalcratesmallpile",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "JDS_Metal_Crate_Small_Pile"
+	},
+	{
+		"abr": "metalshelfa(empty)",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "JDSMetal_Shelf_A"
+	},
+	{
+		"abr": "metalshelfb(empty)",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "JDSMetal_Shelf_B"
+	},
+	{
+		"abr": "militarygradecratelarge",
+		"price": 2225,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_crate_Large"
+	},
+	{
+		"abr": "militarygradecratelong",
+		"price": 917,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_Crate_Long"
+	},
+	{
+		"abr": "militarygradecratesmall",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "JDSMilitaryGradeCrateSmall"
+	},
+	{
+		"abr": "militarygradecratesmallpile",
+		"price": 3008,
+		"category": "Furniture",
+		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
+	},
+	{
+		"abr": "palletbox",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "JDSPallet_Box"
+	},
+	{
+		"abr": "palletcontainer",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "JDSPallet_Container"
+	},
+	{
+		"abr": "shippingcontainerblue",
+		"price": 9033,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerBlue"
+	},
+	{
+		"abr": "shippingcontainergreen",
+		"price": 9783,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerGreen"
+	},
+	{
+		"abr": "shippingcontainerred",
+		"price": 9783,
+		"category": "Furniture",
+		"defname": "JDSShippingContainerRed"
+	},
+	{
+		"abr": "toolbox",
+		"price": 4092,
+		"category": "Furniture",
+		"defname": "JDSTool_Box"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Red"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Blue"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Green"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Violet"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Yellow"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Orange"
+	},
+	{
+		"abr": "(old)walllamp",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "autoglassdoor",
+		"price": 17,
 		"category": "Misc",
-		"defname": "Zombrella"
+		"defname": "AutoDoorGlass"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp"
+	},
+	{
+		"abr": "ceilinglamp(blue)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Blue"
+	},
+	{
+		"abr": "ceilinglamp(green)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Green"
+	},
+	{
+		"abr": "ceilinglamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Orange"
+	},
+	{
+		"abr": "ceilinglamp(red)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Red"
+	},
+	{
+		"abr": "ceilinglamp(violet)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Violet"
+	},
+	{
+		"abr": "ceilinglamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Yellow"
+	},
+	{
+		"abr": "electricglassworks",
+		"price": 255,
+		"category": "Production",
+		"defname": "GlassworkTable"
+	},
+	{
+		"abr": "fueledglassworks",
+		"price": 268,
+		"category": "Production",
+		"defname": "FueledGlassworkTable"
+	},
+	{
+		"abr": "glass",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "Glass"
+	},
+	{
+		"abr": "glassdoor",
+		"price": 17,
+		"category": "Misc",
+		"defname": "DoorGlass"
+	},
+	{
+		"abr": "glassworkstv",
+		"price": 1417,
+		"category": "Recreation",
+		"defname": "GlassMonitorLarge"
+	},
+	{
+		"abr": "largecircularglass",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "LargeCircularGlass"
+	},
+	{
+		"abr": "outdoorgroundlamp",
+		"price": 36,
+		"category": "Furniture",
+		"defname": "OutdoorGroundLamp"
+	},
+	{
+		"abr": "reinforcedglass",
+		"price": 30,
+		"category": "Manufactured",
+		"defname": "ReinforcedGlass"
+	},
+	{
+		"abr": "reinforcedglassworks",
+		"price": 600,
+		"category": "Production",
+		"defname": "ReinforcedGlassworkTable"
+	},
+	{
+		"abr": "table",
+		"price": 62,
+		"category": "Furniture",
+		"defname": "GlassTableShort"
 	}
 	],
-	"total": 1811
+	"total": 1868
 }
