@@ -344,7 +344,7 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -2198,7 +2198,7 @@
 	},
 	{
 		"abr": "adegancrystal(green)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_AdeganCrystal"
 	},
@@ -2300,7 +2300,7 @@
 	},
 	{
 		"abr": "ambansniperrifle",
-		"price": 1092,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_Mando_AmbanSniperRifle"
 	},
@@ -3170,37 +3170,37 @@
 	},
 	{
 		"abr": "colorcrystal(azure)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalAzure"
 	},
 	{
 		"abr": "colorcrystal(blue)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalBlue"
 	},
 	{
 		"abr": "colorcrystal(cyan)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalCyan"
 	},
 	{
 		"abr": "colorcrystal(green)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystal"
 	},
 	{
 		"abr": "colorcrystal(purple)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalPurple"
 	},
 	{
 		"abr": "colorcrystal(yellow)",
-		"price": 150,
+		"price": 800,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalYellow"
 	},
@@ -3356,7 +3356,7 @@
 	},
 	{
 		"abr": "damindcrystal(ltazure)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_DamindCrystal"
 	},
@@ -3380,7 +3380,7 @@
 	},
 	{
 		"abr": "dc-15ablaster",
-		"price": 942,
+		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_REP_DC15Carbine"
 	},
@@ -3392,7 +3392,7 @@
 	},
 	{
 		"abr": "dc-17handblaster",
-		"price": 425,
+		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_REP_DC17HandBlaster"
 	},
@@ -3500,7 +3500,7 @@
 	},
 	{
 		"abr": "dlt-19heavyblasterrifle",
-		"price": 1725,
+		"price": 4500,
 		"category": "Ranged weapons",
 		"defname": "PJ_DLT19Rifle"
 	},
@@ -3536,7 +3536,7 @@
 	},
 	{
 		"abr": "dragitecrystal(ltpurple)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_DragiteCrystal"
 	},
@@ -3728,7 +3728,7 @@
 	},
 	{
 		"abr": "eralamcrystal(silver)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_EralamCrystal"
 	},
@@ -3830,7 +3830,7 @@
 	},
 	{
 		"abr": "firkranncrystal(silver)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_FirkrannCrystal"
 	},
@@ -4154,7 +4154,7 @@
 	},
 	{
 		"abr": "hurrikainecrystal(indigopurple)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_HurCrystal"
 	},
@@ -4460,7 +4460,7 @@
 	},
 	{
 		"abr": "kaiburrcrystal(red-orange)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KaiburrCrystal"
 	},
@@ -4490,7 +4490,7 @@
 	},
 	{
 		"abr": "kraytdragonpearl(black)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_BlackPearl"
 	},
@@ -4958,7 +4958,7 @@
 	},
 	{
 		"abr": "moncalamarispearblaster",
-		"price": 942,
+		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_MonCal_SpearBlaster"
 	},
@@ -5294,7 +5294,7 @@
 	},
 	{
 		"abr": "pontitecrystal(iceblue)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_PontiteCrystal"
 	},
@@ -5714,7 +5714,7 @@
 	},
 	{
 		"abr": "rubatcrystal(bronze)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_RubatCrystal"
 	},
@@ -6086,7 +6086,7 @@
 	},
 	{
 		"abr": "syntheticcrystal(red)",
-		"price": 3000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_KyberCrystalRed"
 	},
@@ -6314,7 +6314,7 @@
 	},
 	{
 		"abr": "ultimapearl(pale)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_UltimaPearl"
 	},
@@ -6452,19 +6452,19 @@
 	},
 	{
 		"abr": "westar-34blasterpistol",
-		"price": 425,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_Mando_WESTAR34Blaster"
 	},
 	{
 		"abr": "westar-35blasterpistol",
-		"price": 425,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_Mando_WESTAR35Blaster"
 	},
 	{
 		"abr": "westar-44blasterpistol",
-		"price": 425,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_Mando_WESTAR44Blaster"
 	},
@@ -11006,49 +11006,49 @@
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Red"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Blue"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Green"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Violet"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Yellow"
 	},
 	{
 		"abr": "(old)ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CeilingLamp_Orange"
 	},
 	{
 		"abr": "(old)walllamp",
-		"price": 45,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
@@ -11159,7 +11159,55 @@
 		"price": 62,
 		"category": "Furniture",
 		"defname": "GlassTableShort"
-	}
+	},
+	{
+		"abr": "walllight",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Blue"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Green"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Orange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Red"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Violet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Yellow"
+	},
+	{
+		"abr": "window",
+		"price": 25,
+		"category": "Misc",
+		"defname": "Window"
+	},
 	],
-	"total": 1868
+	"total": 1876
 }
