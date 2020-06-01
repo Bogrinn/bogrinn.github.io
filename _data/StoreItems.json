@@ -763,12 +763,6 @@
 		"defname": "HorseshoesPin"
 	},
 	{
-		"abr": "human",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Human"
-	},
-	{
 		"abr": "humanleather",
 		"price": 7,
 		"category": "Leathers",
@@ -1555,12 +1549,6 @@
 		"defname": "VFE_TailorCabinet"
 	},
 	{
-		"abr": "techprint(repulsortechnology)",
-		"price": 1667,
-		"category": "Techprints",
-		"defname": "Techprint_VFES_RepulsorTechnology"
-	},
-	{
 		"abr": "telescope",
 		"price": 583,
 		"category": "Recreation",
@@ -2300,7 +2288,7 @@
 	},
 	{
 		"abr": "ambansniperrifle",
-		"price": 2000,
+		"price": 15000,
 		"category": "Ranged weapons",
 		"defname": "O21_Gun_Mando_AmbanSniperRifle"
 	},
@@ -2318,7 +2306,7 @@
 	},
 	{
 		"abr": "ankarressapphire(dkblue)",
-		"price": 8333,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_AnkSapphire"
 	},
@@ -2498,7 +2486,7 @@
 	},
 	{
 		"abr": "baraboreingot(orange)",
-		"price": 5000,
+		"price": -10,
 		"category": "Saber crystals",
 		"defname": "PJ_BarabIngot"
 	},
@@ -2540,7 +2528,7 @@
 	},
 	{
 		"abr": "battery",
-		"price": 333,
+		"price": 1000,
 		"category": "Power",
 		"defname": "Battery"
 	},
@@ -5246,7 +5234,7 @@
 	},
 	{
 		"abr": "painstopper",
-		"price": 367,
+		"price": 15000,
 		"category": "Prosthetic",
 		"defname": "Painstopper"
 	},
@@ -6125,12 +6113,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "Wall_SterileTeal"
-	},
-	{
-		"abr": "techprint(mechaniterestoration)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_MechaniteRestoration"
 	},
 	{
 		"abr": "techprofsubpersonacore",
@@ -7220,7 +7202,7 @@
 	},
 	{
 		"abr": "archotechcortex",
-		"price": 4667,
+		"price": 15000,
 		"category": "Archotech",
 		"defname": "ArchotechCortex"
 	},
@@ -7238,19 +7220,19 @@
 	},
 	{
 		"abr": "aureancornea",
-		"price": 1833,
+		"price": 3733,
 		"category": "Cyborg",
 		"defname": "ANN_AureanCornea"
 	},
 	{
 		"abr": "aurum",
-		"price": 2333,
+		"price": 2933,
 		"category": "Cyborg",
 		"defname": "ANN_Aurum"
 	},
 	{
 		"abr": "autonomicviruskiller",
-		"price": 2667,
+		"price": 15000,
 		"category": "Cyborg",
 		"defname": "ANN_Autonomicviruskiller"
 	},
@@ -7268,7 +7250,7 @@
 	},
 	{
 		"abr": "berserkerchip",
-		"price": 2500,
+		"price": 3800,
 		"category": "Cyborg",
 		"defname": "ANN_BerserkerChip"
 	},
@@ -7292,7 +7274,7 @@
 	},
 	{
 		"abr": "blackpearl",
-		"price": 1667,
+		"price": 3067,
 		"category": "Cyborg",
 		"defname": "ANN_BlackPearl"
 	},
@@ -7340,19 +7322,19 @@
 	},
 	{
 		"abr": "combatai",
-		"price": 2833,
+		"price": 3633,
 		"category": "Cyborg",
 		"defname": "ANN_CombatAI"
 	},
 	{
 		"abr": "compressionjaw",
-		"price": 833,
+		"price": 3200,
 		"category": "Cyborg",
 		"defname": "ANN_CompressionJaw"
 	},
 	{
 		"abr": "compressionstomach",
-		"price": 833,
+		"price": 3010,
 		"category": "Cyborg",
 		"defname": "ANN_CompressionStomach"
 	},
@@ -7370,7 +7352,7 @@
 	},
 	{
 		"abr": "cyclopsvisor",
-		"price": 2333,
+		"price": 4500,
 		"category": "Cyborg",
 		"defname": "ANN_CyclopsVisor"
 	},
@@ -7388,7 +7370,7 @@
 	},
 	{
 		"abr": "elasticachilles",
-		"price": 2167,
+		"price": 10100,
 		"category": "Cyborg",
 		"defname": "ANN_ElasticAchilles"
 	},
@@ -7406,31 +7388,31 @@
 	},
 	{
 		"abr": "energetickidney",
-		"price": 833,
+		"price": 2733,
 		"category": "Cyborg",
 		"defname": "ANN_EnergeticKidney"
 	},
 	{
 		"abr": "energeticlung",
-		"price": 833,
+		"price": 2133,
 		"category": "Cyborg",
 		"defname": "ANN_EnergeticLung"
 	},
 	{
 		"abr": "energycore",
-		"price": 3333,
+		"price": 10000,
 		"category": "Cyborg",
 		"defname": "ANN_EnergyCore"
 	},
 	{
 		"abr": "energyfist",
-		"price": 1667,
+		"price": 4500,
 		"category": "Cyborg",
 		"defname": "ANN_EnergyFist"
 	},
 	{
 		"abr": "energylink",
-		"price": 2500,
+		"price": 6000,
 		"category": "Cyborg",
 		"defname": "ANN_EnergyLink"
 	},
@@ -7448,7 +7430,7 @@
 	},
 	{
 		"abr": "flashlight",
-		"price": 833,
+		"price": 2100,
 		"category": "Cyborg",
 		"defname": "ANN_FlashLight"
 	},
@@ -7466,7 +7448,7 @@
 	},
 	{
 		"abr": "greenthumb",
-		"price": 1167,
+		"price": 2100,
 		"category": "Cyborg",
 		"defname": "ANN_Greenthumb"
 	},
@@ -7502,7 +7484,7 @@
 	},
 	{
 		"abr": "hoverfeet",
-		"price": 1333,
+		"price": 2933,
 		"category": "Cyborg",
 		"defname": "ANN_HoverFeet"
 	},
@@ -7514,7 +7496,7 @@
 	},
 	{
 		"abr": "independenteye",
-		"price": 1667,
+		"price": 3267,
 		"category": "Cyborg",
 		"defname": "ANN_IndependentEye"
 	},
@@ -7556,7 +7538,7 @@
 	},
 	{
 		"abr": "laserdetection",
-		"price": 1167,
+		"price": 3067,
 		"category": "Cyborg",
 		"defname": "ANN_LaserDetection"
 	},
@@ -7568,7 +7550,7 @@
 	},
 	{
 		"abr": "lionheart",
-		"price": 2500,
+		"price": 10000,
 		"category": "Cyborg",
 		"defname": "ANN_Lionheart"
 	},
@@ -7598,37 +7580,37 @@
 	},
 	{
 		"abr": "mindtwist",
-		"price": 1000,
+		"price": 2100,
 		"category": "Cyborg",
 		"defname": "ANN_Mindtwist"
 	},
 	{
 		"abr": "musclewire",
-		"price": 2167,
+		"price": 3367,
 		"category": "Cyborg",
 		"defname": "ANN_Musclewire"
 	},
 	{
 		"abr": "musechip",
-		"price": 2333,
+		"price": 3333,
 		"category": "Cyborg",
 		"defname": "ANN_MuseChip"
 	},
 	{
 		"abr": "neuroenhancer",
-		"price": 2833,
+		"price": 3533,
 		"category": "Cyborg",
 		"defname": "ANN_NeuroEnhancer"
 	},
 	{
 		"abr": "neuromodbooster",
-		"price": 1833,
+		"price": 8500,
 		"category": "Mind",
 		"defname": "ANN_NeuromodBooster"
 	},
 	{
 		"abr": "outerblade",
-		"price": 2000,
+		"price": 3100,
 		"category": "Cyborg",
 		"defname": "ANN_OuterBlade"
 	},
@@ -7640,7 +7622,7 @@
 	},
 	{
 		"abr": "passiongiver",
-		"price": 1833,
+		"price": 6000,
 		"category": "Mind",
 		"defname": "ANN_PassionGiver"
 	},
@@ -7658,7 +7640,7 @@
 	},
 	{
 		"abr": "powerarms",
-		"price": 2333,
+		"price": 3133,
 		"category": "Cyborg",
 		"defname": "ANN_PowerArms"
 	},
@@ -7718,7 +7700,7 @@
 	},
 	{
 		"abr": "sensoricearside",
-		"price": 1333,
+		"price": 3500,
 		"category": "Cyborg",
 		"defname": "ANN_SensoricEarside"
 	},
@@ -7742,7 +7724,7 @@
 	},
 	{
 		"abr": "shadowrunner",
-		"price": 2000,
+		"price": 3000,
 		"category": "Cyborg",
 		"defname": "ANN_Shadowrunner"
 	},
@@ -7892,39 +7874,15 @@
 	},
 	{
 		"abr": "synchronizer",
-		"price": 3000,
+		"price": 4100,
 		"category": "Cyborg",
 		"defname": "ANN_Synchronizer"
-	},
-	{
-		"abr": "techprint(archotechshipcomponents)",
-		"price": 6167,
-		"category": "Techprints",
-		"defname": "Techprint_Research_SRTSArchoComps"
 	},
 	{
 		"abr": "techprint(cyberneticorganism)",
 		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_ANN_CyberneticOrganism"
-	},
-	{
-		"abr": "techprint(thegenesis)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_Research_SRTSMkIV"
-	},
-	{
-		"abr": "techprint(thepelican)",
-		"price": 3400,
-		"category": "Techprints",
-		"defname": "Techprint_Research_SRTSMkIIIp"
-	},
-	{
-		"abr": "techprint(thephoenix)",
-		"price": 4600,
-		"category": "Techprints",
-		"defname": "Techprint_Research_SRTSMkIII"
 	},
 	{
 		"abr": "thermostat",
@@ -11209,5 +11167,5 @@
 		"defname": "Window"
 	},
 	],
-	"total": 1876
+	"total": 1875
 }
