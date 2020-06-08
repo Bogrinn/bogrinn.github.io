@@ -44,7 +44,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -53,11 +53,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
       "name": "asexual",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 6500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "addPrice": 3000,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -81,7 +81,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -103,7 +103,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 4000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -131,7 +131,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 5000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -322,7 +322,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -331,7 +331,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
       "name": "gay",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -368,7 +368,7 @@
     {
       "addPrice": 3000,
       "bypassLimit": false,
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "conflicts": [],
       "defName": "GreatMemory",
@@ -395,7 +395,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 8000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -427,7 +427,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 10000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -457,7 +457,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 7500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -488,7 +488,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -750,7 +750,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 1,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -762,7 +762,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] doesn't see any problem with having multiple partners. [PAWN_pronoun] doesn't mind if [PAWN_possessive] partner romances other people, but will be less happy in a restraining, monogamous relationship.",
       "name": "polyamorous",
-      "removePrice": 5500,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -885,7 +885,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 5000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -900,7 +900,7 @@
       ]
     },
     {
-      "addPrice": 3000,
+      "addPrice": 10000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1035,7 +1035,7 @@
       ]
     },
     {
-      "addPrice": 3000,
+      "addPrice": 9000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1098,7 +1098,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 15000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
