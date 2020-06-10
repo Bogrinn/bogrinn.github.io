@@ -1646,7 +1646,7 @@
 	},
 	{
 		"abr": "uranium",
-		"price": 60,
+		"price": 20,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
@@ -1754,7 +1754,7 @@
 	},
 	{
 		"abr": "campfire",
-		"price": 41,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Campfire"
 	},
@@ -1862,7 +1862,7 @@
 	},
 	{
 		"abr": "torchlamp",
-		"price": 41,
+		"price": -10,
 		"category": "Misc",
 		"defname": "TorchLamp"
 	},
@@ -2246,19 +2246,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 8667,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": 8667,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 8667,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -2468,7 +2468,7 @@
 	},
 	{
 		"abr": "blizzarisk",
-		"price": 833,
+		"price": 1500,
 		"category": "Animal",
 		"defname": "AA_Blizzarisk"
 	},
@@ -4508,7 +4508,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 5000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -4712,7 +4712,7 @@
 	},
 	{
 		"abr": "archotechbioadapter",
-		"price": 4667,
+		"price": 5667,
 		"category": "Archotech",
 		"defname": "ArchotechBioadapter"
 	},
@@ -4724,7 +4724,7 @@
 	},
 	{
 		"abr": "archotechregenerator",
-		"price": 4667,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechRegenerator"
 	},
@@ -5132,7 +5132,7 @@
 	},
 	{
 		"abr": "plumbingvalve",
-		"price": 50,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "plumbingValve"
 	},
@@ -8486,49 +8486,49 @@
 	},
 	{
 		"abr": "autoglassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AutoDoorGlass"
 	},
 	{
 		"abr": "ceilinglamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp"
 	},
 	{
 		"abr": "ceilinglamp(blue)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Blue"
 	},
 	{
 		"abr": "ceilinglamp(green)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Green"
 	},
 	{
 		"abr": "ceilinglamp(orange)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Orange"
 	},
 	{
 		"abr": "ceilinglamp(red)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Red"
 	},
 	{
 		"abr": "ceilinglamp(violet)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Violet"
 	},
 	{
 		"abr": "ceilinglamp(yellow)",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GLCeilingLamp_Yellow"
 	},
@@ -8552,7 +8552,7 @@
 	},
 	{
 		"abr": "glassdoor",
-		"price": 17,
+		"price": -10,
 		"category": "Misc",
 		"defname": "DoorGlass"
 	},
@@ -8636,7 +8636,7 @@
 	},
 	{
 		"abr": "window",
-		"price": 25,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Window"
 	},
@@ -8864,7 +8864,7 @@
 	},
 	{
 		"abr": "alphageneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_AlphaGenetic"
 	},
@@ -9128,7 +9128,7 @@
 	},
 	{
 		"abr": "archotechcentipedemeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_GR_ArchotechCentipede"
 	},
@@ -9350,7 +9350,7 @@
 	},
 	{
 		"abr": "beargeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_BearGenetic"
 	},
@@ -9662,7 +9662,7 @@
 	},
 	{
 		"abr": "boomalopegeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_BoomalopeGenetic"
 	},
@@ -9698,7 +9698,7 @@
 	},
 	{
 		"abr": "boomsnake",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Boomsnake"
 	},
@@ -9812,13 +9812,13 @@
 	},
 	{
 		"abr": "cargoshuttle",
-		"price": 3925,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CargoShuttle"
 	},
 	{
 		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleCargoRace"
 	},
@@ -9920,7 +9920,7 @@
 	},
 	{
 		"abr": "catwolf",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Catwolf"
 	},
@@ -10010,13 +10010,13 @@
 	},
 	{
 		"abr": "chemfuelpump",
-		"price": 49,
+		"price": -10,
 		"category": "Oil",
 		"defname": "ChemfuelHopper"
 	},
 	{
 		"abr": "chemfuelsiphon",
-		"price": 49,
+		"price": -10,
 		"category": "Oil",
 		"defname": "ChemfuelSiphon"
 	},
@@ -10124,7 +10124,7 @@
 	},
 	{
 		"abr": "chickengeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ChickenGenetic"
 	},
@@ -10340,13 +10340,13 @@
 	},
 	{
 		"abr": "coldwaterpipe",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "waterPipe"
 	},
 	{
 		"abr": "coldwatervalve",
-		"price": 50,
+		"price": -10,
 		"category": "Misc",
 		"defname": "waterValve"
 	},
@@ -10376,7 +10376,7 @@
 	},
 	{
 		"abr": "consoleloom",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "controllerLoom"
 	},
@@ -10394,7 +10394,7 @@
 	},
 	{
 		"abr": "coolantvalve",
-		"price": 50,
+		"price": -10,
 		"category": "Misc",
 		"defname": "coolantValve"
 	},
@@ -10730,7 +10730,7 @@
 	},
 	{
 		"abr": "felinegeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_FelineGenetic"
 	},
@@ -10910,13 +10910,13 @@
 	},
 	{
 		"abr": "glitternetcable",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GNGlitterNetCable"
 	},
 	{
 		"abr": "glitternetcable(hidden)",
-		"price": 37,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GNGlitterNetCableHidden"
 	},
@@ -11078,13 +11078,13 @@
 	},
 	{
 		"abr": "heavycargoshuttle",
-		"price": 6292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HeavyShuttle"
 	},
 	{
 		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleHeavyRace"
 	},
@@ -11120,7 +11120,7 @@
 	},
 	{
 		"abr": "highvoltage",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HighVoltage"
 	},
@@ -11420,7 +11420,7 @@
 	},
 	{
 		"abr": "humanoidgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_HumanoidGenetic"
 	},
@@ -11450,19 +11450,19 @@
 	},
 	{
 		"abr": "hybridimplantplasteelwiremesh(tier2)",
-		"price": 83,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantPlasteelWireMesh"
 	},
 	{
 		"abr": "hybridimplantsteelwiremesh(tier1)",
-		"price": 75,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantSteelWireMesh"
 	},
 	{
 		"abr": "hybridimplanturaniumwiremesh(tier3)",
-		"price": 133,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_ImplantUraniumWireMesh"
 	},
@@ -11630,7 +11630,7 @@
 	},
 	{
 		"abr": "insectoidgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_InsectoidGenetic"
 	},
@@ -12062,7 +12062,7 @@
 	},
 	{
 		"abr": "mechanoidactivecomponents",
-		"price": 167,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_MechanoidGenetic"
 	},
@@ -12332,7 +12332,7 @@
 	},
 	{
 		"abr": "muffalogeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_MuffaloGenetic"
 	},
@@ -12572,7 +12572,7 @@
 	},
 	{
 		"abr": "non-specializedgeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_NonSpecializedGenetic"
 	},
@@ -12590,7 +12590,7 @@
 	},
 	{
 		"abr": "nuclearstomach",
-		"price": 1717,
+		"price": 15000,
 		"category": "Bionic",
 		"defname": "NuclearStomach"
 	},
@@ -12620,7 +12620,7 @@
 	},
 	{
 		"abr": "oilpipeline",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "OilPipeline"
 	},
@@ -12974,13 +12974,13 @@
 	},
 	{
 		"abr": "personalshuttle",
-		"price": 1792,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PersonalShuttle"
 	},
 	{
 		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
 	},
@@ -13022,7 +13022,7 @@
 	},
 	{
 		"abr": "pipelinevalve",
-		"price": 50,
+		"price": -10,
 		"category": "Oil",
 		"defname": "pipelineValve"
 	},
@@ -13274,7 +13274,7 @@
 	},
 	{
 		"abr": "psylinkneuroformer",
-		"price": 4333,
+		"price": 10000,
 		"category": "Items",
 		"defname": "PsychicAmplifier"
 	},
@@ -13424,7 +13424,7 @@
 	},
 	{
 		"abr": "r.t.g",
-		"price": 4333,
+		"price": -10,
 		"category": "Nuclear",
 		"defname": "RimatomicsRTG"
 	},
@@ -13580,7 +13580,7 @@
 	},
 	{
 		"abr": "refineryunloadingbay",
-		"price": 49,
+		"price": -10,
 		"category": "Oil",
 		"defname": "RefineryLoadingBay"
 	},
@@ -13652,7 +13652,7 @@
 	},
 	{
 		"abr": "reptiliangeneticmaterial",
-		"price": 75,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ReptilianGenetic"
 	},
@@ -13700,7 +13700,7 @@
 	},
 	{
 		"abr": "rodent/leporidgeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_RodentGenetic"
 	},
@@ -13736,7 +13736,7 @@
 	},
 	{
 		"abr": "ruinedgeneticmaterial",
-		"price": 2,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_RuinedGenetic"
 	},
@@ -14270,7 +14270,7 @@
 	},
 	{
 		"abr": "steamvalve",
-		"price": 50,
+		"price": -10,
 		"category": "Misc",
 		"defname": "steamValve"
 	},
@@ -14468,13 +14468,13 @@
 	},
 	{
 		"abr": "thermalconduit",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipHeatConduit"
 	},
 	{
 		"abr": "thorturbine",
-		"price": 2017,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Turbine"
 	},
@@ -14546,7 +14546,7 @@
 	},
 	{
 		"abr": "thrumbogeneticmaterial",
-		"price": 167,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_ThrumboGenetic"
 	},
@@ -14918,7 +14918,7 @@
 	},
 	{
 		"abr": "wolfgeneticmaterial",
-		"price": 17,
+		"price": -10,
 		"category": "Genetic materials",
 		"defname": "GR_WolfGenetic"
 	},
@@ -15086,7 +15086,7 @@
 	},
 	{
 		"abr": "zeusturbine",
-		"price": 6075,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BigTurbine"
 	},
@@ -15108,102 +15108,6 @@
 		"category": "Headgear",
 		"defname": "SAW_SovHeliHelmet"
 	},
-	{
-		"abr": "guestadvancedbed",
-		"price": 833,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
-	},
-	{
-		"abr": "guestadvanceddoublebed",
-		"price": 1483,
-		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "zombrella",
-		"price": -10,
-		"category": "Misc",
-		"defname": "Zombrella"
-	}
 	],
-	"total": 2534
+	"total": 2526
 }
