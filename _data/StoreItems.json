@@ -2264,7 +2264,7 @@
 	},
 	{
 		"abr": "archotechshieldgenerator",
-		"price": 4667,
+		"price": 6000,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
@@ -3836,7 +3836,7 @@
 	},
 	{
 		"abr": "ocularjelly",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_OcularJelly"
 	},
@@ -4502,7 +4502,7 @@
 	},
 	{
 		"abr": "uraniumslugturret",
-		"price": 2408,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
@@ -8738,7 +8738,7 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -8840,7 +8840,7 @@
 	},
 	{
 		"abr": "alc",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "ALC"
 	},
@@ -9098,7 +9098,7 @@
 	},
 	{
 		"abr": "anti-armorrocketlauncher",
-		"price": 1667,
+		"price": 1000,
 		"category": "Ranged weapons",
 		"defname": "Gun_AntiArmor_Rocket"
 	},
@@ -9200,7 +9200,7 @@
 	},
 	{
 		"abr": "atom",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "ATOM"
 	},
@@ -9302,7 +9302,7 @@
 	},
 	{
 		"abr": "beamsplitter",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "BeamSplitter"
 	},
@@ -10154,7 +10154,7 @@
 	},
 	{
 		"abr": "chickencat",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Chickencat"
 	},
@@ -10532,7 +10532,7 @@
 	},
 	{
 		"abr": "depleteduranium",
-		"price": 100,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "DepletedUraniumPellets"
 	},
@@ -10586,7 +10586,7 @@
 	},
 	{
 		"abr": "driveactuator",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "DriveActuator"
 	},
@@ -10682,7 +10682,7 @@
 	},
 	{
 		"abr": "ers",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "ERS"
 	},
@@ -11114,7 +11114,7 @@
 	},
 	{
 		"abr": "hel",
-		"price": 1083,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCHEL"
 	},
@@ -11810,7 +11810,7 @@
 	},
 	{
 		"abr": "lensmodule",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "LenseModule"
 	},
@@ -11942,19 +11942,19 @@
 	},
 	{
 		"abr": "mechassembler",
-		"price": 467,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MechAssembler"
 	},
 	{
 		"abr": "mechcapsule",
-		"price": 467,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MechCapsule"
 	},
 	{
 		"abr": "mechdropbeacon",
-		"price": 105,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MechDropBeacon"
 	},
@@ -12164,7 +12164,7 @@
 	},
 	{
 		"abr": "meps",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "MEPS"
 	},
@@ -12194,7 +12194,7 @@
 	},
 	{
 		"abr": "missilefuselage",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "MissileFuselage"
 	},
@@ -12638,7 +12638,7 @@
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 5000,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechCluster"
 	},
@@ -13082,13 +13082,13 @@
 	},
 	{
 		"abr": "plutonium",
-		"price": 100,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "Plutonium"
 	},
 	{
 		"abr": "plutoniumprocessor",
-		"price": 2642,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PlutoniumProcessor"
 	},
@@ -13226,7 +13226,7 @@
 	},
 	{
 		"abr": "psychicawakeningserum",
-		"price": 30000,
+		"price": 15000,
 		"category": "Artifacts",
 		"defname": "PsychicAwakeningSerum"
 	},
@@ -13274,7 +13274,7 @@
 	},
 	{
 		"abr": "psylinkneuroformer",
-		"price": 10000,
+		"price": 15000,
 		"category": "Items",
 		"defname": "PsychicAmplifier"
 	},
@@ -13682,7 +13682,7 @@
 	},
 	{
 		"abr": "rimatomicsresearchbench",
-		"price": 1375,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NuclearResearchBench"
 	},
@@ -13808,7 +13808,7 @@
 	},
 	{
 		"abr": "scad",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "SCAD"
 	},
@@ -14264,7 +14264,7 @@
 	},
 	{
 		"abr": "steampipe",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "steamPipe"
 	},
@@ -14378,7 +14378,7 @@
 	},
 	{
 		"abr": "targetingchip",
-		"price": 67,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "TargetingChip"
 	},
@@ -14732,7 +14732,7 @@
 	},
 	{
 		"abr": "turbineblades",
-		"price": 2,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "turbineBlade"
 	},
@@ -14768,7 +14768,7 @@
 	},
 	{
 		"abr": "uraniumpellets",
-		"price": 3,
+		"price": -10,
 		"category": "Rimatomics product",
 		"defname": "UraniumPellets"
 	},
@@ -15108,6 +15108,252 @@
 		"category": "Headgear",
 		"defname": "SAW_SovHeliHelmet"
 	},
+	{
+		"abr": "advancedradiationblocker",
+		"price": 792,
+		"category": "Furniture",
+		"defname": "RadiologyBlockerAdvanced"
+	},
+	{
+		"abr": "intermediateirradiator",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "RadiologyIrradiatorIntermediate"
+	},
+	{
+		"abr": "intermediateradiationblocker",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "RadiologyBlockerIntermediate"
+	},
+	{
+		"abr": "irradiationchamber",
+		"price": 178,
+		"category": "Misc",
+		"defname": "RadiologyRadiationChamber"
+	},
+	{
+		"abr": "irradiator",
+		"price": 650,
+		"category": "Furniture",
+		"defname": "RadiologyIrradiator"
+	},
+	{
+		"abr": "mutatedarm",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedArm"
+	},
+	{
+		"abr": "mutatedbrain",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedBrain"
+	},
+	{
+		"abr": "mutatedear",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedEar"
+	},
+	{
+		"abr": "mutatedeye",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedEye"
+	},
+	{
+		"abr": "mutatedhand",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedHand"
+	},
+	{
+		"abr": "mutatedhead",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedHead"
+	},
+	{
+		"abr": "mutatedheart",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedHeart"
+	},
+	{
+		"abr": "mutatedkidney",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedKidney"
+	},
+	{
+		"abr": "mutatedleg",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedLeg"
+	},
+	{
+		"abr": "mutatedliver",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedLiver"
+	},
+	{
+		"abr": "mutatedlung",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedLung"
+	},
+	{
+		"abr": "mutatedneck",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedNeck"
+	},
+	{
+		"abr": "mutatedshoulder",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedShoulder"
+	},
+	{
+		"abr": "mutatedstomach",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedStomach"
+	},
+	{
+		"abr": "mutatedtorso",
+		"price": 833,
+		"category": "Body parts",
+		"defname": "MutatedTorso"
+	},
+	{
+		"abr": "mutationmonitor",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "RadiologyMonitorMutation"
+	},
+	{
+		"abr": "radiationblocker",
+		"price": 284,
+		"category": "Furniture",
+		"defname": "RadiologyBlocker"
+	},
+	{
+		"abr": "radiationextender",
+		"price": 2933,
+		"category": "Furniture",
+		"defname": "RadiologyExtender"
+	},
+	{
+		"abr": "radiationfilter",
+		"price": 284,
+		"category": "Furniture",
+		"defname": "RadiologyFilter"
+	},
+	{
+		"abr": "radiationmonitor",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "RadiologyMonitor"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	}
 	],
-	"total": 2526
+	"total": 2559
 }
