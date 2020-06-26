@@ -638,7 +638,7 @@
 	},
 	{
 		"abr": "grandstatue",
-		"price": 1125,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_StatueGrand"
 	},
@@ -878,7 +878,7 @@
 	},
 	{
 		"abr": "largestatue",
-		"price": 583,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_StatueLarge"
 	},
@@ -1424,7 +1424,7 @@
 	},
 	{
 		"abr": "smallstatue",
-		"price": 275,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_StatueSmall"
 	},
@@ -3668,19 +3668,19 @@
 	},
 	{
 		"abr": "mutantarm",
-		"price": 167,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantArm"
 	},
 	{
 		"abr": "mutanteye",
-		"price": 167,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantEye"
 	},
 	{
 		"abr": "mutantleg",
-		"price": 167,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantLeg"
 	},
@@ -4106,7 +4106,7 @@
 	},
 	{
 		"abr": "reinforcedwall",
-		"price": 52,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Reinforced_WallAT"
 	},
@@ -4622,13 +4622,13 @@
 	},
 	{
 		"abr": "heavyreinforcedembrasure",
-		"price": 68,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NEC_ReinforcedEmbrasure"
 	},
 	{
 		"abr": "heavyreinforcedwall",
-		"price": 68,
+		"price": -10,
 		"category": "Misc",
 		"defname": "NEC_ReinforcedWall"
 	},
@@ -4862,7 +4862,7 @@
 	},
 	{
 		"abr": "cyclopsvisor",
-		"price": 4500,
+		"price": 7500,
 		"category": "Cyborg",
 		"defname": "ANN_CyclopsVisor"
 	},
@@ -4874,7 +4874,7 @@
 	},
 	{
 		"abr": "dermalplating",
-		"price": 2500,
+		"price": 8000,
 		"category": "Cyborg",
 		"defname": "ANN_Dermalplating"
 	},
@@ -5102,7 +5102,7 @@
 	},
 	{
 		"abr": "neuromodbooster",
-		"price": 8500,
+		"price": 12000,
 		"category": "Mind",
 		"defname": "ANN_NeuromodBooster"
 	},
@@ -5120,7 +5120,7 @@
 	},
 	{
 		"abr": "passiongiver",
-		"price": 6000,
+		"price": 5000,
 		"category": "Mind",
 		"defname": "ANN_PassionGiver"
 	},
@@ -5138,7 +5138,7 @@
 	},
 	{
 		"abr": "powerarms",
-		"price": 3133,
+		"price": 9500,
 		"category": "Cyborg",
 		"defname": "ANN_PowerArms"
 	},
@@ -5504,7 +5504,7 @@
 	},
 	{
 		"abr": "zoom",
-		"price": 1500,
+		"price": 5000,
 		"category": "Cyborg",
 		"defname": "ANN_Zoom"
 	},
@@ -8684,7 +8684,7 @@
 	},
 	{
 		"abr": "metallovore",
-		"price": 250,
+		"price": 1000,
 		"category": "Animal",
 		"defname": "AA_Metallovore"
 	},
@@ -9758,7 +9758,7 @@
 	},
 	{
 		"abr": "bulletshield",
-		"price": 1667,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldGeneratorBullets"
 	},
@@ -10388,7 +10388,7 @@
 	},
 	{
 		"abr": "coolantpipe",
-		"price": 11,
+		"price": -10,
 		"category": "Misc",
 		"defname": "coolingPipe"
 	},
@@ -10430,7 +10430,7 @@
 	},
 	{
 		"abr": "count-downactivator",
-		"price": 107,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ActivatorCountdown"
 	},
@@ -10532,7 +10532,7 @@
 	},
 	{
 		"abr": "depleteduranium",
-		"price": -10,
+		"price": 13,
 		"category": "Rimatomics product",
 		"defname": "DepletedUraniumPellets"
 	},
@@ -10940,7 +10940,7 @@
 	},
 	{
 		"abr": "grandmeditationthrone",
-		"price": 2492,
+		"price": 5000,
 		"category": "Furniture",
 		"defname": "GrandThrone"
 	},
@@ -11822,7 +11822,7 @@
 	},
 	{
 		"abr": "liberator",
-		"price": 3942,
+		"price": -10,
 		"category": "Misc",
 		"defname": "MissileSilo"
 	},
@@ -11894,7 +11894,7 @@
 	},
 	{
 		"abr": "marauder",
-		"price": 2783,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCMarauder"
 	},
@@ -11918,7 +11918,7 @@
 	},
 	{
 		"abr": "masterarchotechdatabase",
-		"price": 12275,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GR_ArchotechDatabase"
 	},
@@ -12146,7 +12146,7 @@
 	},
 	{
 		"abr": "meditationthrone",
-		"price": 475,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "Throne"
 	},
@@ -12254,7 +12254,7 @@
 	},
 	{
 		"abr": "mortarshield",
-		"price": 1667,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldGeneratorMortar"
 	},
@@ -12482,7 +12482,7 @@
 	},
 	{
 		"abr": "napalmbomb",
-		"price": 383,
+		"price": -10,
 		"category": "Oil",
 		"defname": "NapalmBomb"
 	},
@@ -12500,7 +12500,7 @@
 	},
 	{
 		"abr": "napalmtrail",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Filth_NapalmTrail"
 	},
@@ -12590,7 +12590,7 @@
 	},
 	{
 		"abr": "nuclearstomach",
-		"price": 15000,
+		"price": 8500,
 		"category": "Bionic",
 		"defname": "NuclearStomach"
 	},
@@ -12614,7 +12614,7 @@
 	},
 	{
 		"abr": "obelisk",
-		"price": 2217,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCObelisk"
 	},
@@ -13172,7 +13172,7 @@
 	},
 	{
 		"abr": "proximityactivator",
-		"price": 107,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ActivatorProximity"
 	},
@@ -13412,7 +13412,7 @@
 	},
 	{
 		"abr": "punisher",
-		"price": 1725,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCRailgun"
 	},
@@ -13592,7 +13592,7 @@
 	},
 	{
 		"abr": "reinforcedduwall",
-		"price": 157,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RadiationShielding"
 	},
@@ -13748,7 +13748,7 @@
 	},
 	{
 		"abr": "sacs",
-		"price": 1167,
+		"price": -10,
 		"category": "Misc",
 		"defname": "PPCWeaponsConsole"
 	},
@@ -14222,7 +14222,7 @@
 	},
 	{
 		"abr": "squirralope",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Squirralope"
 	},
@@ -14360,7 +14360,7 @@
 	},
 	{
 		"abr": "tacs",
-		"price": 1258,
+		"price": -10,
 		"category": "Misc",
 		"defname": "RadarDish"
 	},
@@ -14696,7 +14696,7 @@
 	},
 	{
 		"abr": "trainingknife",
-		"price": 55,
+		"price": -10,
 		"category": "Melee training weapons",
 		"defname": "MeleeWeapon_TrainingKnife"
 	},
@@ -14732,7 +14732,7 @@
 	},
 	{
 		"abr": "turbineblades",
-		"price": -10,
+		"price": 5,
 		"category": "Rimatomics product",
 		"defname": "turbineBlade"
 	},
@@ -15140,91 +15140,91 @@
 	},
 	{
 		"abr": "mutatedarm",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedArm"
 	},
 	{
 		"abr": "mutatedbrain",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedBrain"
 	},
 	{
 		"abr": "mutatedear",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedEar"
 	},
 	{
 		"abr": "mutatedeye",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedEye"
 	},
 	{
 		"abr": "mutatedhand",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedHand"
 	},
 	{
 		"abr": "mutatedhead",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedHead"
 	},
 	{
 		"abr": "mutatedheart",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedHeart"
 	},
 	{
 		"abr": "mutatedkidney",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedKidney"
 	},
 	{
 		"abr": "mutatedleg",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedLeg"
 	},
 	{
 		"abr": "mutatedliver",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedLiver"
 	},
 	{
 		"abr": "mutatedlung",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedLung"
 	},
 	{
 		"abr": "mutatedneck",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedNeck"
 	},
 	{
 		"abr": "mutatedshoulder",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedShoulder"
 	},
 	{
 		"abr": "mutatedstomach",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedStomach"
 	},
 	{
 		"abr": "mutatedtorso",
-		"price": 833,
+		"price": -10,
 		"category": "Body parts",
 		"defname": "MutatedTorso"
 	},
@@ -15259,101 +15259,227 @@
 		"defname": "RadiologyMonitor"
 	},
 	{
-		"abr": "guestadvancedbed",
+		"abr": "bolttaser",
+		"price": 392,
+		"category": "Ranged weapons",
+		"defname": "TaserBolt"
+	},
+	{
+		"abr": "m26taser",
+		"price": 992,
+		"category": "Ranged weapons",
+		"defname": "M26RimTaser"
+	},
+	{
+		"abr": "pulsetaser",
+		"price": 550,
+		"category": "Ranged weapons",
+		"defname": "RimTaserPulse"
+	},
+	{
+		"abr": "taserrifle",
+		"price": 1125,
+		"category": "Ranged weapons",
+		"defname": "RimTaserRifle"
+	},
+	{
+		"abr": "tasersniper",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "RimTaserSniper"
+	},
+	{
+		"abr": "x12taser",
+		"price": 2375,
+		"category": "Ranged weapons",
+		"defname": "X12RimTaser"
+	},
+	{
+		"abr": "x2taser",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "X2RimTaser"
+	},
+	{
+		"abr": "x26taser",
+		"price": 1458,
+		"category": "Ranged weapons",
+		"defname": "X26RimTaser"
+	},
+	{
+		"abr": "x3taser",
 		"price": 833,
-		"category": "Furniture",
-		"defname": "Bed_AdvBedGuest"
+		"category": "Ranged weapons",
+		"defname": "X3RimTaser"
 	},
 	{
-		"abr": "guestadvanceddoublebed",
-		"price": 1483,
+		"abr": "wallsunlight",
+		"price": 16,
 		"category": "Furniture",
-		"defname": "Bed_AdvDoubleBedGuest"
+		"defname": "Lighting_MURWallSunLight"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "zombrella",
-		"price": 3333,
+		"abr": "advancedheatsink",
+		"price": 9225,
 		"category": "Misc",
-		"defname": "Zombrella"
-	}
+		"defname": "ShipHeatsinkAdv"
+	},
+	{
+		"abr": "advancedshieldgenerator",
+		"price": 27167,
+		"category": "Misc",
+		"defname": "ShipCombatShieldGeneratorADV"
+	},
+	{
+		"abr": "analyzerconsole",
+		"price": 29867,
+		"category": "Misc",
+		"defname": "AnalyzerConsole"
+	},
+	{
+		"abr": "antitontorpedo",
+		"price": 5000,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_AntiTon"
+	},
+	{
+		"abr": "archlitetorpedo",
+		"price": 10000000,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Archlite"
+	},
+	{
+		"abr": "archoferium",
+		"price": 15000,
+		"category": "Drugs",
+		"defname": "Archoferium"
+	},
+	{
+		"abr": "archomatter",
+		"price": 1167,
+		"category": "Textiles",
+		"defname": "Archomatter"
+	},
+	{
+		"abr": "archomattercombiner",
+		"price": 2500,
+		"category": "Misc",
+		"defname": "ArchoGenerator"
+	},
+	{
+		"abr": "archotechhivemind",
+		"price": 1188450,
+		"category": "Misc",
+		"defname": "ArchotechHivemind"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 8333,
+		"category": "Medicine",
+		"defname": "Archomeds"
+	},
+	{
+		"abr": "capitalheatcore",
+		"price": 92050,
+		"category": "Misc",
+		"defname": "ShipHeatsinkCapital"
+	},
+	{
+		"abr": "heavyairlock",
+		"price": 1725,
+		"category": "Misc",
+		"defname": "ShipAirlockHeavy"
+	},
+	{
+		"abr": "heavyshiphull(powered)",
+		"price": 342,
+		"category": "Misc",
+		"defname": "Ship_Beam_HeavyPow"
+	},
+	{
+		"abr": "heavyshiphull(unpowered)",
+		"price": 342,
+		"category": "Misc",
+		"defname": "Ship_Beam_Heavy"
+	},
+	{
+		"abr": "largearchotechengine",
+		"price": 218692,
+		"category": "Misc",
+		"defname": "EngineArchoLarge"
+	},
+	{
+		"abr": "lightedhullplating",
+		"price": 30,
+		"category": "Misc",
+		"defname": "ShipHullTileGlow"
+	},
+	{
+		"abr": "minichemreactor",
+		"price": 3200,
+		"category": "Misc",
+		"defname": "Ship_ReactorMini"
+	},
+	{
+		"abr": "miniheatsink",
+		"price": 18108,
+		"category": "Misc",
+		"defname": "ShipHeatsinkMini"
+	},
+	{
+		"abr": "shieldhullcorner(1x2)",
+		"price": 1158,
+		"category": "Misc",
+		"defname": "ShieldHullCorneronetwo"
+	},
+	{
+		"abr": "shieldhullcorner(1x3)",
+		"price": 1708,
+		"category": "Misc",
+		"defname": "ShieldHullCorneronethree"
+	},
+	{
+		"abr": "shieldhullcornerflipped(1x3)",
+		"price": 1708,
+		"category": "Misc",
+		"defname": "ShieldHullCorneronethreeFlip"
+	},
+	{
+		"abr": "shieldedairlock",
+		"price": 3400,
+		"category": "Misc",
+		"defname": "ShipAirlockShield"
+	},
+	{
+		"abr": "shieldedhullcorner(1x1)",
+		"price": 608,
+		"category": "Misc",
+		"defname": "ShieldHullCorneroneone"
+	},
+	{
+		"abr": "shieldedhullcornerflipped(1x2)",
+		"price": 1158,
+		"category": "Misc",
+		"defname": "ShieldHullCorneronetwoFlip"
+	},
+	{
+		"abr": "shieldedshiphull(powered)",
+		"price": 1300,
+		"category": "Misc",
+		"defname": "Ship_Beam_ShieldedPow"
+	},
+	{
+		"abr": "shieldedshiphull(unpowered)",
+		"price": 1300,
+		"category": "Misc",
+		"defname": "Ship_Beam_Shielded"
+	},
+	{
+		"abr": "shipplasteelglasswall",
+		"price": 350,
+		"category": "Misc",
+		"defname": "ShipGlassWall"
+	},
 	],
-	"total": 2559
+	"total": 2588
 }
