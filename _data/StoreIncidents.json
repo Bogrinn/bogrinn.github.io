@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 5000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 10000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -61,24 +51,14 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 500,
-		"karmatype": "Bad"
+		"price": 8000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "toxicfallout",
@@ -156,11 +136,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good"
@@ -182,7 +157,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -196,38 +171,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 3500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 3500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 6000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "mechanoidraid",
-		"price": 5000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -317,7 +262,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -331,5 +276,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 55
 }
