@@ -956,7 +956,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": -10,
+		"price": 1000,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -2360,7 +2360,7 @@
 	},
 	{
 		"abr": "bedbug",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_BedBug"
 	},
@@ -4424,7 +4424,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 10000,
+		"price": 20000,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -5297,54 +5297,6 @@
 		"price": 159658,
 		"category": "Buildings",
 		"defname": "SRTSMkIV"
-	},
-	{
-		"abr": "srts:dimensionalcomponents",
-		"price": 17375,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_DimShift"
-	},
-	{
-		"abr": "srts:electricalcomponents",
-		"price": 326,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_ElectricSystem"
-	},
-	{
-		"abr": "srts:enginecomponents",
-		"price": 1158,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Engines"
-	},
-	{
-		"abr": "srts:internalcomponents",
-		"price": 175,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Structural"
-	},
-	{
-		"abr": "srts:mechanicalcomponents",
-		"price": 265,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MechSystem"
-	},
-	{
-		"abr": "srts:neuralmeshplates",
-		"price": 708,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_MeshPlate"
-	},
-	{
-		"abr": "srts:nuclearreactorcomponents",
-		"price": 9117,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Reactor"
-	},
-	{
-		"abr": "srts:steelplates",
-		"price": 550,
-		"category": "Shuttle components",
-		"defname": "ShuttleComp_Plates"
 	},
 	{
 		"abr": "stalldoor",
@@ -8882,7 +8834,7 @@
 	},
 	{
 		"abr": "ancientjohnson-tanakadrive",
-		"price": 12208,
+		"price": -10,
 		"category": "Misc",
 		"defname": "JTDriveSalvage"
 	},
@@ -9182,7 +9134,7 @@
 	},
 	{
 		"abr": "armorskingland",
-		"price": 2458,
+		"price": 5500,
 		"category": "Bionic",
 		"defname": "ArmorskinGland"
 	},
@@ -9728,7 +9680,7 @@
 	},
 	{
 		"abr": "brainscantemplate",
-		"price": 167,
+		"price": -10,
 		"category": "Items",
 		"defname": "QE_BrainScannerFilled"
 	},
@@ -9812,7 +9764,7 @@
 	},
 	{
 		"abr": "cargoshuttle",
-		"price": -10,
+		"price": 10000,
 		"category": "Furniture",
 		"defname": "CargoShuttle"
 	},
@@ -10334,7 +10286,7 @@
 	},
 	{
 		"abr": "coagulator",
-		"price": 1717,
+		"price": 8500,
 		"category": "Bionic",
 		"defname": "Coagulator"
 	},
@@ -10502,7 +10454,7 @@
 	},
 	{
 		"abr": "cryo-stabilizedgenerator",
-		"price": 792,
+		"price": 2000,
 		"category": "Misc",
 		"defname": "GR_CryostabilizedEngine"
 	},
@@ -10814,7 +10766,7 @@
 	},
 	{
 		"abr": "gastro-analyzer",
-		"price": 1383,
+		"price": 2000,
 		"category": "Bionic",
 		"defname": "GastroAnalyzer"
 	},
@@ -10850,7 +10802,7 @@
 	},
 	{
 		"abr": "genomesequencetemplate",
-		"price": 167,
+		"price": -10,
 		"category": "Items",
 		"defname": "QE_GenomeSequencerFilled"
 	},
@@ -11066,7 +11018,7 @@
 	},
 	{
 		"abr": "healingenhancer",
-		"price": 1717,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "HealingEnhancer"
 	},
@@ -11078,7 +11030,7 @@
 	},
 	{
 		"abr": "heavycargoshuttle",
-		"price": -10,
+		"price": 17000,
 		"category": "Furniture",
 		"defname": "HeavyShuttle"
 	},
@@ -11534,7 +11486,7 @@
 	},
 	{
 		"abr": "immunoenhancer",
-		"price": 1717,
+		"price": 6000,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
 	},
@@ -12974,7 +12926,7 @@
 	},
 	{
 		"abr": "personalshuttle",
-		"price": -10,
+		"price": 5000,
 		"category": "Furniture",
 		"defname": "PersonalShuttle"
 	},
@@ -13226,13 +13178,13 @@
 	},
 	{
 		"abr": "psychicawakeningserum",
-		"price": 15000,
+		"price": 7000,
 		"category": "Artifacts",
 		"defname": "PsychicAwakeningSerum"
 	},
 	{
 		"abr": "psychicengram",
-		"price": 1667,
+		"price": 3000,
 		"category": "Artifacts",
 		"defname": "PsychicEngram"
 	},
@@ -14294,7 +14246,7 @@
 	},
 	{
 		"abr": "stoneskingland",
-		"price": 3200,
+		"price": 7500,
 		"category": "Bionic",
 		"defname": "StoneskinGland"
 	},
@@ -14672,7 +14624,7 @@
 	},
 	{
 		"abr": "toughskingland",
-		"price": 1717,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
 	},
@@ -15314,7 +15266,7 @@
 	},
 	{
 		"abr": "wallsunlight",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallSunLight"
 	},
@@ -15356,7 +15308,7 @@
 	},
 	{
 		"abr": "archomatter",
-		"price": 1167,
+		"price": 2000,
 		"category": "Textiles",
 		"defname": "Archomatter"
 	},
@@ -15369,7 +15321,7 @@
 	{
 		"abr": "archotechhivemind",
 		"price": 1188450,
-		"category": "Misc",
+		"category": "Production",
 		"defname": "ArchotechHivemind"
 	},
 	{
@@ -15386,19 +15338,19 @@
 	},
 	{
 		"abr": "heavyairlock",
-		"price": 1725,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipAirlockHeavy"
 	},
 	{
 		"abr": "heavyshiphull(powered)",
-		"price": 342,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Beam_HeavyPow"
 	},
 	{
 		"abr": "heavyshiphull(unpowered)",
-		"price": 342,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Beam_Heavy"
 	},
@@ -15407,12 +15359,6 @@
 		"price": 218692,
 		"category": "Misc",
 		"defname": "EngineArchoLarge"
-	},
-	{
-		"abr": "lightedhullplating",
-		"price": 30,
-		"category": "Misc",
-		"defname": "ShipHullTileGlow"
 	},
 	{
 		"abr": "minichemreactor",
@@ -15428,49 +15374,49 @@
 	},
 	{
 		"abr": "shieldhullcorner(1x2)",
-		"price": 1158,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldHullCorneronetwo"
 	},
 	{
 		"abr": "shieldhullcorner(1x3)",
-		"price": 1708,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldHullCorneronethree"
 	},
 	{
 		"abr": "shieldhullcornerflipped(1x3)",
-		"price": 1708,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldHullCorneronethreeFlip"
 	},
 	{
 		"abr": "shieldedairlock",
-		"price": 3400,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipAirlockShield"
 	},
 	{
 		"abr": "shieldedhullcorner(1x1)",
-		"price": 608,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldHullCorneroneone"
 	},
 	{
 		"abr": "shieldedhullcornerflipped(1x2)",
-		"price": 1158,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShieldHullCorneronetwoFlip"
 	},
 	{
 		"abr": "shieldedshiphull(powered)",
-		"price": 1300,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Beam_ShieldedPow"
 	},
 	{
 		"abr": "shieldedshiphull(unpowered)",
-		"price": 1300,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Ship_Beam_Shielded"
 	},
@@ -15480,6 +15426,192 @@
 		"category": "Misc",
 		"defname": "ShipGlassWall"
 	},
+	{
+		"abr": "shuttlelifesupport",
+		"price": -10,
+		"category": "Misc",
+		"defname": "Ship_LifeSupportMini"
+	},
+	{
+		"abr": "shuttleshieldgenerator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MiniShield"
+	},
+	{
+		"abr": "slagturret",
+		"price": 1517,
+		"category": "Misc",
+		"defname": "SlagTurret"
+	},
+	{
+		"abr": "smallarchotechengine",
+		"price": 103583,
+		"category": "Misc",
+		"defname": "Ship_Engine_SmallAdv"
+	},
+	{
+		"abr": "spacetechmedicine",
+		"price": 1667,
+		"category": "Medicine",
+		"defname": "Spacermeds"
+	},
+	{
+		"abr": "spinalbarrel:dominator",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalBarrelPlasmaAdv"
+	},
+	{
+		"abr": "spinalbarrel:haeloeruptor",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipSpinalArchobeam"
+	},
+	{
+		"abr": "starburstcannon",
+		"price": 31767,
+		"category": "Misc",
+		"defname": "ShipTurretStarburst"
+	},
+	{
+		"abr": "archoalgaefarm",
+		"price": 2500,
+		"category": "Misc",
+		"defname": "ArchoAlgaeFarm"
+	},
+	{
+		"abr": "archotechnanoconstructor",
+		"price": 70483,
+		"category": "Misc",
+		"defname": "ArchotechNanoconstructor"
+	},
+	{
+		"abr": "aronusmeatgrower",
+		"price": 2500,
+		"category": "Misc",
+		"defname": "AronusMeatGrower"
+	},
+	{
+		"abr": "meatlab",
+		"price": 817,
+		"category": "Misc",
+		"defname": "MeatLab"
+	},
+	{
+		"abr": "meatyaronusstew",
+		"price": 2500,
+		"category": "Meals",
+		"defname": "CookedAronusMeal"
+	},
+	{
+		"abr": "shuttledepleterturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTurret_DepleterMini"
+	},
+	{
+		"abr": "shuttleharasserturret",
+		"price": -10,
+		"category": "Misc",
+		"defname": "ShipTurret_HarasserMini"
+	},
+	{
+		"abr": "supercargoshuttle(hovermode)",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SuperShuttleCargoRace"
+	},
+	{
+		"abr": "supershuttle",
+		"price": 25000,
+		"category": "Furniture",
+		"defname": "SuperShuttle"
+	},
+	{
+		"abr": "syntheticbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RawCowMeat"
+	},
+	{
+		"abr": "syntheticchicken",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawChickenMeat"
+	},
+	{
+		"abr": "syntheticpork",
+		"price": 2,
+		"category": "Meat",
+		"defname": "RawPigMeat"
+	},
+	{
+		"abr": "ultratechheatcore",
+		"price": 5841792,
+		"category": "Misc",
+		"defname": "ShipHeatsinkUltra"
+	},
+	{
+		"abr": "shipvent",
+		"price": 114,
+		"category": "Misc",
+		"defname": "ShipVent"
+	},
+	{
+		"abr": "uraniumfuelpod",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "AntiProtonPods"
+	},
+	{
+		"abr": "archotechsubzerocooler",
+		"price": 59600,
+		"category": "Misc",
+		"defname": "SubzeroCooler"
+	},
+	{
+		"abr": "inactivezerocrystal",
+		"price": 13,
+		"category": "Vegetarian",
+		"defname": "ZeroCrystal"
+	},
+	{
+		"abr": "miniarchotechreactor",
+		"price": 56583,
+		"category": "Misc",
+		"defname": "Ship_ArchoReactor"
+	},
+	{
+		"abr": "rawarchomatteralgae",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "ArchoAlgae"
+	},
+	{
+		"abr": "rawaronusmeat",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "AronusMeat"
+	},
+	{
+		"abr": "shuttlestarburstcannon",
+		"price": 42350,
+		"category": "Misc",
+		"defname": "ShipTurretStarburstMini"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellowVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagentaVII"
+	}
 	],
-	"total": 2588
+	"total": 2618
 }
