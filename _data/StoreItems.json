@@ -9932,7 +9932,7 @@
 	},
 	{
 		"abr": "chargedrailgun",
-		"price": 3475,
+		"price": 12000,
 		"category": "Ranged weapons",
 		"defname": "MDGun_ChargedRailGun"
 	},
@@ -10262,13 +10262,13 @@
 	},
 	{
 		"abr": "circadianassistant",
-		"price": 1717,
+		"price": 6000,
 		"category": "Bionic",
 		"defname": "CircadianAssistant"
 	},
 	{
 		"abr": "circadianhalf-cycler",
-		"price": 1717,
+		"price": 7500,
 		"category": "Bionic",
 		"defname": "CircadianHalfCycler"
 	},
@@ -11744,7 +11744,7 @@
 	},
 	{
 		"abr": "learningassistant",
-		"price": 1717,
+		"price": 6000,
 		"category": "Bionic",
 		"defname": "LearningAssistant"
 	},
@@ -12158,7 +12158,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": -10,
+		"price": 8000,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -12908,19 +12908,19 @@
 	},
 	{
 		"abr": "personamonosword",
-		"price": -10,
+		"price": 15000,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "personaplasmasword",
-		"price": -10,
+		"price": 15000,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "personazeushammer",
-		"price": -10,
+		"price": 15000,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
@@ -13424,7 +13424,7 @@
 	},
 	{
 		"abr": "railgun",
-		"price": 2533,
+		"price": 8000,
 		"category": "Ranged weapons",
 		"defname": "MDGun_RailGun"
 	},
@@ -15044,7 +15044,7 @@
 	},
 	{
 		"abr": "zeushammer",
-		"price": -10,
+		"price": 8000,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
 	},
@@ -15611,7 +15611,229 @@
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightMagentaVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyanVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRoseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightVioletVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzureVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreenVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrangeVII"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "fremenstillsuit",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "DApparel_FStillSuit"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
+		"abr": "archogenetichive(thebuild-a-bug)",
+		"price": 37583,
+		"category": "Misc",
+		"defname": "BioHive"
+	},
+	{
+		"abr": "unstablearchomatterpowercell",
+		"price": 23200,
+		"category": "Misc",
+		"defname": "UnstableShipCell"
+	},
+	{
+		"abr": "archovendingmachine",
+		"price": 150658,
+		"category": "Production",
+		"defname": "ArchoVender"
+	},
+	{
+		"abr": "hypercapacitor",
+		"price": 3038008,
+		"category": "Misc",
+		"defname": "HyperCapacitor"
 	}
 	],
-	"total": 2618
+	"total": 2639
 }
