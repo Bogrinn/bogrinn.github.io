@@ -21,7 +21,7 @@
     "author": "Neceros",
     "name": "SRTS Expanded",
     "steamId": "1845423808",
-    "version": "1.0.0.0"
+    "version": "1.4.6"
   },
   {
     "author": "UnlimitedHugs",
@@ -63,7 +63,13 @@
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
-    "version": "1.0.0.0"
+    "version": "1.6.0"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7492.30881"
   },
   {
     "author": "Kentington and Thain",
@@ -105,7 +111,7 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "0.3.0.0"
+    "version": "0.4.2.0"
   },
   {
     "author": "Owlchemist",
@@ -117,7 +123,7 @@
     "author": "NotooShabby",
     "name": "Awesome Inventory",
     "steamId": "2050289408",
-    "version": "0.0.0.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
@@ -195,7 +201,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.0.1.9"
+    "version": "2.0.3.0"
   },
   {
     "author": "Ryflamer",
@@ -243,7 +249,7 @@
     "author": "Orion",
     "name": "Hospitality",
     "steamId": "753498552",
-    "version": "1.1.11"
+    "version": "1.1.12"
   },
   {
     "author": "AUTOMATIC",
@@ -279,13 +285,13 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.1.0.9"
+    "version": "1.1.0.10"
   },
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "0.1.1.0"
+    "version": null
   },
   {
     "author": "Shotgunfrenzy",
@@ -315,7 +321,7 @@
     "author": "Mlie",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.7.0"
+    "version": "1.0.8.0"
   },
   {
     "author": "Uuugggg",
@@ -402,7 +408,7 @@
     "version": "1.0.3"
   },
   {
-    "author": "Oskar Potocki, Helixien, Erin",
+    "author": "Oskar Potocki, Helixien, Erin, Luizi",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
     "version": "1.0.0"
@@ -516,10 +522,16 @@
     "version": null
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Radiology",
+    "steamId": "1617578581",
+    "version": "1.0.690.0907"
+  },
+  {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7457.37766"
+    "version": "1.0.7497.38708"
   },
   {
     "author": "Linq",
@@ -630,7 +642,7 @@
     "version": "1.5.6"
   },
   {
-    "author": "Rangel Reale (original), updated by Saucy_Pigeon",
+    "author": "Updated by Saucy_Pigeon",
     "name": "Pawn Badge Fan Fork",
     "steamId": "2112663412",
     "version": "0.1.0.0"
@@ -753,7 +765,7 @@
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
-    "version": null
+    "version": "1.0.0.0"
   },
   {
     "author": "NEPH, Maxim",
@@ -765,7 +777,7 @@
     "author": "Mlie",
     "name": "Centralized Climate Control (Continued)",
     "steamId": "2007268173",
-    "version": "1.0.10.0"
+    "version": "1.0.11.0"
   },
   {
     "author": "dninemfive",
@@ -777,19 +789,19 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.8.1460"
+    "version": "2.8.1469"
   },
   {
     "author": "Dubwise",
     "name": "Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2077"
+    "version": "1.7.2088"
   },
   {
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.756"
+    "version": "1.2.774"
   },
   {
     "author": "chicken305",
@@ -879,7 +891,7 @@
     "author": "NanoCE",
     "name": "Glass+Lights",
     "steamId": "826153738",
-    "version": "0.1.1.2"
+    "version": "1.1.3"
   },
   {
     "author": "Smash Phil",
@@ -918,6 +930,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Survivalmaster, Snake",
+    "name": "RimTaser Reloaded",
+    "steamId": "1745038195",
+    "version": null
+  },
+  {
     "author": "Roolo",
     "name": "Dual Wield",
     "steamId": "1628211313",
@@ -930,16 +948,16 @@
     "version": null
   },
   {
-    "author": "Avius",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "0.10.7459.31627"
-  },
-  {
     "author": "Saakra",
     "name": "Empire",
     "steamId": "2006535182",
-    "version": "0.320"
+    "version": "0.331"
+  },
+  {
+    "author": "HIGGS",
+    "name": "DUNE: Stillsuits",
+    "steamId": "2005804382",
+    "version": null
   },
   {
     "author": "notfood",
@@ -948,15 +966,57 @@
     "version": "1.1.3.0"
   },
   {
+    "author": "Avius",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Ships",
+    "steamId": "2163702706",
+    "version": null
+  },
+  {
+    "author": "Stormtail",
+    "name": "Save Our Ship 2 - Extensions",
+    "steamId": "2125698178",
+    "version": null
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts",
+    "steamId": "2103563425",
+    "version": "1.0.0.3"
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)",
+    "steamId": "2022581505",
+    "version": "1.0.9.0"
+  },
+  {
+    "author": "NotooShabby",
+    "name": "Home Mover",
+    "steamId": "2092552843",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helldragger",
+    "name": "Save our ship 2 - Heat statistics",
+    "steamId": "2164286498",
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.20.302"
+  },
+  {
     "author": "YAYO",
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
     "version": null
-  },
-  {
-    "author": "user19990313",
-    "name": "RuntimeGC",
-    "steamId": "2046596586",
-    "version": "20.0.15.1"
   }
 ]
