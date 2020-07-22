@@ -6,24 +6,6 @@
     "version": "1.0.2.0"
   },
   {
-    "author": "Deon",
-    "name": "Royalty Textures Expanded",
-    "steamId": "2062377912",
-    "version": null
-  },
-  {
-    "author": "Mobius",
-    "name": "Royalty Tweaks",
-    "steamId": "2018384424",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -42,21 +24,75 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "notfood",
     "name": "FrameRateControl",
     "steamId": "1591142767",
     "version": "1.0.7378.41688"
   },
   {
+    "author": "Helixien",
+    "name": "ReGrowth: Biomes of The Rim - Wasteland",
+    "steamId": "2122461695",
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "[O21] Alien Race Toolbox",
     "steamId": "2059800009",
+    "version": null
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "aRandomKiwi, CrackaJack",
+    "name": "Android tiers - TX Series",
+    "steamId": "2010528561",
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Android Tiers + Vanilla Expanded Medical",
+    "steamId": "1956510084",
+    "version": null
+  },
+  {
+    "author": "RamRod",
+    "name": "Fallout Races: Playable Ghoul",
+    "steamId": "1908250492",
+    "version": null
+  },
+  {
+    "author": "RamRod",
+    "name": "Fallout Races: The Robots Pack 1.1",
+    "steamId": "2105771457",
+    "version": "1.21.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fallout Traits (Continued)",
+    "steamId": "2016437642",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "JonM0",
+    "name": "Medical System Expansion 2",
+    "steamId": "2056706586",
+    "version": "2.3.14"
+  },
+  {
+    "author": "Victorique, Aurani, Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": "1949064302",
+    "version": "3.3.4"
+  },
+  {
+    "author": "Ekai",
+    "name": "Fav Locker",
+    "steamId": "2160977038",
     "version": null
   },
   {
@@ -66,32 +102,14 @@
     "version": "1.6.0"
   },
   {
-    "author": "Avius",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "0.10.7492.30881"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": null
-  },
-  {
-    "author": "Antisodium",
-    "name": "SOS2 Enemy Ship Extension: StarSector",
-    "steamId": "2119580203",
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "2.11.893"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Core",
+    "author": "Oskar Potocki, XeoNovaDan, Orion",
+    "name": "Vanilla Factions Expanded - Core - Now with Faction Discovery!",
     "steamId": "2023507013",
     "version": "1.1.5.0"
   },
@@ -132,46 +150,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg",
-    "name": "Genetic Rim",
-    "steamId": "1113137502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "KongMD",
     "name": "Questionable Ethics Enhanced",
     "steamId": "1787359789",
     "version": "1.4.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Textures Expanded - Genetic Rim",
-    "steamId": "2105993995",
-    "version": null
-  },
-  {
-    "author": "Sarg",
-    "name": "GeneticRim Alpha Animals Patch",
-    "steamId": "1658356618",
-    "version": null
-  },
-  {
-    "author": "K",
-    "name": "GlitterNet",
-    "steamId": "1725544583",
-    "version": "0.5.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": "761421485",
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
   },
   {
     "author": "Madeline",
@@ -186,12 +174,6 @@
     "version": null
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Jecrell,lbmaian",
     "name": "Doors Expanded",
     "steamId": "1316188771",
@@ -202,12 +184,6 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.0.3.0"
-  },
-  {
-    "author": "Ryflamer",
-    "name": "[Ry]Draw a bead",
-    "steamId": "2007482587",
-    "version": null
   },
   {
     "author": "Anomalous",
@@ -246,12 +222,6 @@
     "version": "1.1.9"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.1.12"
-  },
-  {
     "author": "AUTOMATIC",
     "name": "High quality textures",
     "steamId": "1676969930",
@@ -285,7 +255,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.1.0.10"
+    "version": "1.1.0.12"
   },
   {
     "author": "Mehni",
@@ -297,12 +267,6 @@
     "author": "Shotgunfrenzy",
     "name": "[SF] Priority treatment 1.1",
     "steamId": "2012586738",
-    "version": null
-  },
-  {
-    "author": "Kriil",
-    "name": "Combat Training",
-    "steamId": "1542761308",
     "version": null
   },
   {
@@ -322,12 +286,6 @@
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
     "version": "1.0.8.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "TD Enhancement Pack",
-    "steamId": "1339135272",
-    "version": "1.3.8.0"
   },
   {
     "author": "PeteTimesSix",
@@ -402,12 +360,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Hair Expanded",
-    "steamId": "1888705256",
-    "version": "1.0.3"
-  },
-  {
     "author": "Oskar Potocki, Helixien, Erin, Luizi",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -430,6 +382,12 @@
     "name": "Vanilla Animals Expanded — Tundra",
     "steamId": "1895364585",
     "version": "1.0.3"
+  },
+  {
+    "author": "Arisher",
+    "name": "Brahmin Mod",
+    "steamId": "1912589516",
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -469,12 +427,6 @@
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Cats and Dogs",
-    "steamId": "1823540489",
-    "version": "1.0.1"
-  },
-  {
-    "author": "Oskar Potocki",
     "name": "Vanilla Animals Expanded — Arid Shrubland",
     "steamId": "1836900626",
     "version": "1.1.0"
@@ -492,36 +444,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded",
-    "steamId": "1814988282",
-    "version": "1.2.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": "1814383360",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": "1989352844",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Xeros08",
-    "name": "[1.1] Xenite Industries",
-    "steamId": "2008073296",
-    "version": null
-  },
-  {
-    "author": "Xeros08",
-    "name": "[1.1] Xenite Industries: Mechanite District",
-    "steamId": "2008073831",
-    "version": null
-  },
-  {
     "author": "AUTOMATIC",
     "name": "Radiology",
     "steamId": "1617578581",
@@ -532,12 +454,6 @@
     "name": "RIMMSqol",
     "steamId": "1084452457",
     "version": "1.0.7497.38708"
-  },
-  {
-    "author": "Linq",
-    "name": "[1.1] Psychology (unofficial)",
-    "steamId": "2016263135",
-    "version": "1.0.6"
   },
   {
     "author": "gguake",
@@ -624,10 +540,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Le Faux",
-    "name": "[LF] The Soviet-aghan war kit",
-    "steamId": "2050100143",
-    "version": null
+    "author": "OutboundLegend",
+    "name": "UN-Colony Vanilla Resources",
+    "steamId": "2097583669",
+    "version": "1.0.1.0"
   },
   {
     "author": "Wemd",
@@ -648,24 +564,6 @@
     "version": "0.1.0.0"
   },
   {
-    "author": "Lenin's Cat",
-    "name": "Pawn Badge - Soviet Navy",
-    "steamId": "2112979470",
-    "version": "0.1.0.0"
-  },
-  {
-    "author": "Lenin's Cat",
-    "name": "Pawn Badge - Soviet Army",
-    "steamId": "2112979140",
-    "version": "0.1.0.0"
-  },
-  {
-    "author": "Lenin's Cat",
-    "name": "Pawn Badge - Soviet Aviation",
-    "steamId": "2112978863",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Crustypeanut",
     "name": "[1.1] War Crimes Expanded 2 Core",
     "steamId": "2059450213",
@@ -676,12 +574,6 @@
     "name": "[WD] Antibiotics And Painkillers",
     "steamId": "1692811928",
     "version": null
-  },
-  {
-    "author": "Kikohi, Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "1.2.0.0"
   },
   {
     "author": "民火",
@@ -751,7 +643,7 @@
   },
   {
     "author": "Wemd",
-    "name": "[WD] Expanded Floors (Dropdown Menu Addon)",
+    "name": "[WD] Expanded Floors (Dropdown Menu)",
     "steamId": "1817883612",
     "version": null
   },
@@ -792,18 +684,6 @@
     "version": "2.8.1469"
   },
   {
-    "author": "Dubwise",
-    "name": "Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.2088"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.774"
-  },
-  {
     "author": "chicken305",
     "name": "Chickens Efficient Light",
     "steamId": "1498059716",
@@ -814,12 +694,6 @@
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Fluffy Breakdowns",
-    "steamId": "726244033",
-    "version": "4.3.53"
   },
   {
     "author": "Dubwise",
@@ -870,6 +744,24 @@
     "version": "1.0.6.0"
   },
   {
+    "author": "JangoD'soul",
+    "name": "[JDS] The Forge - Anvil",
+    "steamId": "1967561500",
+    "version": "1.1.7"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] The Forge - NCR Armory",
+    "steamId": "2108149360",
+    "version": "1.1.0"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] The Forge - Caesar Legion Armory",
+    "steamId": "2130579208",
+    "version": "1.1.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Optimization: Meats",
     "steamId": "1721970101",
@@ -891,31 +783,7 @@
     "author": "NanoCE",
     "name": "Glass+Lights",
     "steamId": "826153738",
-    "version": "1.1.3"
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Trade Ships Drop Spot",
-    "steamId": "1969732297",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Kentington",
-    "name": "Psychic Awakening",
-    "steamId": "1918756321",
-    "version": null
-  },
-  {
-    "author": "K",
-    "name": "PsiTech",
-    "steamId": "2078892294",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Stormtail",
-    "name": "PsiTech - Acolytes of the Storm",
-    "steamId": "2112521440",
-    "version": null
+    "version": "1.1.4"
   },
   {
     "author": "EarthyTurtle, zhrocks",
@@ -930,9 +798,69 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Survivalmaster, Snake",
-    "name": "RimTaser Reloaded",
-    "steamId": "1745038195",
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Kurtus_Mob",
+    "name": "The Brotherhood Compendium",
+    "steamId": "2010861354",
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "The Brotherhood Compendium - No Sharing Patch",
+    "steamId": "2128542833",
+    "version": null
+  },
+  {
+    "author": "Kurtus_Mob",
+    "name": "The Brotherhood Compendium - Gunplay Add-on",
+    "steamId": "2039219363",
+    "version": null
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "T-45b Power Armor",
+    "steamId": "1502931684",
+    "version": null
+  },
+  {
+    "author": "NetzachSloth",
+    "name": "The Brotherhood Compendium - T45b Power Armor Integration",
+    "steamId": "2128544950",
+    "version": null
+  },
+  {
+    "author": "Settlerking",
+    "name": "SK Fallout: Chinese Remnant (Reupload)",
+    "steamId": "2112029938",
+    "version": null
+  },
+  {
+    "author": "Kurtus_Mob",
+    "name": "The Wasteland Compendium",
+    "steamId": "1904406152",
+    "version": null
+  },
+  {
+    "author": "RamRod",
+    "name": "Fallout Stimpak",
+    "steamId": "2108399216",
+    "version": null
+  },
+  {
+    "author": "Kurtus_Mob",
+    "name": "Vertibird Transport",
+    "steamId": "1876532724",
+    "version": null
+  },
+  {
+    "author": "Twink315",
+    "name": "Vault-Tec - Handy things for your vault!",
+    "steamId": "1888778429",
     "version": null
   },
   {
@@ -954,12 +882,6 @@
     "version": "0.331"
   },
   {
-    "author": "HIGGS",
-    "name": "DUNE: Stillsuits",
-    "steamId": "2005804382",
-    "version": null
-  },
-  {
     "author": "notfood",
     "name": "ResearchPal",
     "steamId": "946390822",
@@ -969,18 +891,6 @@
     "author": "Avius",
     "name": "Locks",
     "steamId": "1157085076",
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Ships",
-    "steamId": "2163702706",
-    "version": null
-  },
-  {
-    "author": "Stormtail",
-    "name": "Save Our Ship 2 - Extensions",
-    "steamId": "2125698178",
     "version": null
   },
   {
@@ -1002,10 +912,52 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Helldragger",
-    "name": "Save our ship 2 - Heat statistics",
-    "steamId": "2164286498",
+    "author": "NilchEi",
+    "name": "Powerful Faction Bases",
+    "steamId": "1570960972",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Therapy",
+    "steamId": "1076950211",
     "version": null
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "0",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Lady Elizabeth",
+    "name": "Pawn Badge - Brotherhood of Steel Ranks",
+    "steamId": "2173254313",
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators",
+    "steamId": "1399212509",
+    "version": null
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.1.0.0"
+  },
+  {
+    "author": "drumad",
+    "name": "NightVision",
+    "steamId": "1464989530",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NotooShabby",
+    "name": "Smart Colonist Bar",
+    "steamId": "2162016781",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -1018,5 +970,11 @@
     "name": "Yayo's Combat 3",
     "steamId": "2038409475",
     "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Perfectly Generic Item",
+    "steamId": "2169353373",
+    "version": "1.0.0.0"
   }
 ]
