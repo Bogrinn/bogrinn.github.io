@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "cowboyhat",
-		"price": -10,
+		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
 	},
@@ -1934,7 +1934,7 @@
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": 9000,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -5612,7 +5612,7 @@
 	},
 	{
 		"abr": "agriculturalimplant",
-		"price": 3333,
+		"price": 10000,
 		"category": "Android",
 		"defname": "FarmingMindImplant"
 	},
@@ -5840,7 +5840,7 @@
 	},
 	{
 		"abr": "basiclaborchip",
-		"price": -10,
+		"price": 20000,
 		"category": "Android",
 		"defname": "BasicLaborMindImplant"
 	},
@@ -5930,7 +5930,7 @@
 	},
 	{
 		"abr": "blueprintsimplant",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "BuilderMindImplant"
 	},
@@ -6032,7 +6032,7 @@
 	},
 	{
 		"abr": "charismaimplant",
-		"price": 1667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "CharismaMindImplant"
 	},
@@ -6200,7 +6200,7 @@
 	},
 	{
 		"abr": "cuisineimplant",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "CookingMindImplant"
 	},
@@ -6302,7 +6302,7 @@
 	},
 	{
 		"abr": "engineeringimplant",
-		"price": 3333,
+		"price": 10000,
 		"category": "Android",
 		"defname": "MechanicMindImplant"
 	},
@@ -6380,7 +6380,7 @@
 	},
 	{
 		"abr": "fractalenhancement",
-		"price": 1333,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "FractalPill"
 	},
@@ -6392,7 +6392,7 @@
 	},
 	{
 		"abr": "geologicalimplant",
-		"price": 3333,
+		"price": 10000,
 		"category": "Android",
 		"defname": "GeoMindImplant"
 	},
@@ -6470,7 +6470,7 @@
 	},
 	{
 		"abr": "holyhandgrenade",
-		"price": 72,
+		"price": 10000,
 		"category": "Grenades",
 		"defname": "DRKGun_HHG"
 	},
@@ -7196,25 +7196,25 @@
 	},
 	{
 		"abr": "negotiatorimplant",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "NegotiationMindImplant"
 	},
 	{
 		"abr": "neuralhighways",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "SpeedMindImplant"
 	},
 	{
 		"abr": "neuro-cureframework",
-		"price": 3133,
+		"price": 10000,
 		"category": "Ultratech",
 		"defname": "NeurocureFramework"
 	},
 	{
 		"abr": "neuromuscularframework",
-		"price": 2283,
+		"price": 10000,
 		"category": "Bionic",
 		"defname": "NeuromuscularFramework"
 	},
@@ -7280,7 +7280,7 @@
 	},
 	{
 		"abr": "perfectlygenericitem",
-		"price": 2,
+		"price": -10,
 		"category": "Items",
 		"defname": "PerfectlyGenericItem"
 	},
@@ -7310,7 +7310,7 @@
 	},
 	{
 		"abr": "plasteelframecoverings",
-		"price": 1333,
+		"price": 8500,
 		"category": "Android",
 		"defname": "PlasteelPlating"
 	},
@@ -7340,7 +7340,7 @@
 	},
 	{
 		"abr": "positronicrewiring",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "PositronMindImplant"
 	},
@@ -7526,7 +7526,7 @@
 	},
 	{
 		"abr": "rxneuralchip",
-		"price": 250,
+		"price": 1500,
 		"category": "Android",
 		"defname": "ATPP_RXChip"
 	},
@@ -7652,19 +7652,19 @@
 	},
 	{
 		"abr": "skymindrelaytower",
-		"price": 1292,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindRelayTower"
 	},
 	{
 		"abr": "skymindv1antenna",
-		"price": 1400,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindLAN"
 	},
 	{
 		"abr": "skymindv2antenna",
-		"price": 4967,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ATPP_SkyMindWAN"
 	},
@@ -7676,7 +7676,7 @@
 	},
 	{
 		"abr": "soldierimplant",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "SoldierMindImplant"
 	},
@@ -7712,7 +7712,7 @@
 	},
 	{
 		"abr": "steelframing",
-		"price": 833,
+		"price": 1500,
 		"category": "Android",
 		"defname": "SteelPlating"
 	},
@@ -8000,7 +8000,7 @@
 	},
 	{
 		"abr": "tricorderimplant",
-		"price": 2667,
+		"price": 10000,
 		"category": "Android",
 		"defname": "SurgeonMindImplant"
 	},
@@ -8720,13 +8720,13 @@
 	},
 	{
 		"abr": "archotechfinger",
-		"price": 500,
+		"price": 2000,
 		"category": "Archotech",
 		"defname": "ArchotechFinger"
 	},
 	{
 		"abr": "archotechfoot",
-		"price": 2250,
+		"price": 6000,
 		"category": "Archotech",
 		"defname": "ArchotechFoot"
 	},
@@ -8738,19 +8738,19 @@
 	},
 	{
 		"abr": "archotechhand",
-		"price": 2000,
+		"price": 5000,
 		"category": "Archotech",
 		"defname": "ArchotechHand"
 	},
 	{
 		"abr": "archotechinternalsupport",
-		"price": 583,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechInternalSupport"
 	},
 	{
 		"abr": "archotechtoe",
-		"price": 333,
+		"price": 1000,
 		"category": "Archotech",
 		"defname": "ArchotechToe"
 	},
@@ -8786,25 +8786,25 @@
 	},
 	{
 		"abr": "mutantfinger",
-		"price": 10,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantFinger"
 	},
 	{
 		"abr": "mutantfoot",
-		"price": 50,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantFoot"
 	},
 	{
 		"abr": "mutanthand",
-		"price": 50,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantHand"
 	},
 	{
 		"abr": "mutanttoe",
-		"price": 10,
+		"price": -10,
 		"category": "Natural",
 		"defname": "AA_MutantToe"
 	},
@@ -8897,7 +8897,13 @@
 		"price": 33,
 		"category": "Natural",
 		"defname": "Tibia"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
 	}
 	],
-	"total": 1483
+	"total": 1484
 }
