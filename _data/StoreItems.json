@@ -1922,13 +1922,13 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": 7000,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": -10,
+		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
@@ -5702,7 +5702,7 @@
 	},
 	{
 		"abr": "archotechlightsensor",
-		"price": -10,
+		"price": 7500,
 		"category": "Android",
 		"defname": "MDEye"
 	},
@@ -7064,7 +7064,7 @@
 	},
 	{
 		"abr": "n.solutionunit",
-		"price": 2667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticCow"
 	},
@@ -7718,7 +7718,7 @@
 	},
 	{
 		"abr": "stimpak",
-		"price": 95,
+		"price": 1000,
 		"category": "Drugs",
 		"defname": "FCPStimpak"
 	},
@@ -8898,12 +8898,6 @@
 		"category": "Natural",
 		"defname": "Tibia"
 	},
-	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "Zombrella"
-	}
 	],
-	"total": 1484
+	"total": 1483
 }
