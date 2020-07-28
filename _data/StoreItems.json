@@ -98,7 +98,7 @@
 	},
 	{
 		"abr": "beartrap",
-		"price": 236,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_BearTrap"
 	},
@@ -3458,7 +3458,7 @@
 	},
 	{
 		"abr": "psychicpylon",
-		"price": 2167,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFES_PsychicPylon"
 	},
@@ -5438,7 +5438,7 @@
 	},
 	{
 		"abr": "advancedbatterypack",
-		"price": 2833,
+		"price": 8000,
 		"category": "Android",
 		"defname": "NanowireBattery"
 	},
@@ -5672,31 +5672,31 @@
 	},
 	{
 		"abr": "archotecharchotechbio-reactor",
-		"price": -10,
+		"price": 6667,
 		"category": "Android",
 		"defname": "MolecularDecomposer"
 	},
 	{
 		"abr": "archotechbatterypack",
-		"price": -10,
+		"price": 12000,
 		"category": "Android",
 		"defname": "SecretBatteryPack"
 	},
 	{
 		"abr": "archotechcoolantpump",
-		"price": -10,
+		"price": 2000,
 		"category": "Android",
 		"defname": "SecretCoolantPump"
 	},
 	{
 		"abr": "archotechhearingsensor",
-		"price": -10,
+		"price": 1500,
 		"category": "Android",
 		"defname": "ArchHearingS"
 	},
 	{
 		"abr": "archotechheatsink",
-		"price": -10,
+		"price": 2000,
 		"category": "Android",
 		"defname": "SecretHeatsink"
 	},
@@ -5708,13 +5708,13 @@
 	},
 	{
 		"abr": "archotechmechanitestorage",
-		"price": -10,
+		"price": 14000,
 		"category": "Android",
 		"defname": "ArchotechNanites"
 	},
 	{
 		"abr": "archotechpowerconverter",
-		"price": -10,
+		"price": 5833,
 		"category": "Android",
 		"defname": "QuantumConverter"
 	},
@@ -6134,7 +6134,7 @@
 	},
 	{
 		"abr": "compositeframeplating",
-		"price": 1667,
+		"price": 8500,
 		"category": "Android",
 		"defname": "CompositePlating"
 	},
@@ -6206,7 +6206,7 @@
 	},
 	{
 		"abr": "cyberneticarm",
-		"price": 10000,
+		"price": 8500,
 		"category": "Android",
 		"defname": "CyberReplacementArm"
 	},
@@ -6230,7 +6230,7 @@
 	},
 	{
 		"abr": "deathclaw",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "DRKDeathclaw"
 	},
@@ -6242,7 +6242,7 @@
 	},
 	{
 		"abr": "deathclawegg(fert.)",
-		"price": 3333,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DRKDeathclawEgg"
 	},
@@ -6428,7 +6428,7 @@
 	},
 	{
 		"abr": "goldeneye",
-		"price": 26,
+		"price": 1500,
 		"category": "Prosthetic",
 		"defname": "GoldenEye"
 	},
@@ -7712,7 +7712,7 @@
 	},
 	{
 		"abr": "steelframing",
-		"price": 1500,
+		"price": 2000,
 		"category": "Android",
 		"defname": "SteelPlating"
 	},
@@ -8462,7 +8462,7 @@
 	},
 	{
 		"abr": "vault-tecsurvivalmeal",
-		"price": 20,
+		"price": -10,
 		"category": "Meals",
 		"defname": "Vtsurvival"
 	},
@@ -8744,7 +8744,7 @@
 	},
 	{
 		"abr": "archotechinternalsupport",
-		"price": 10000,
+		"price": 7500,
 		"category": "Archotech",
 		"defname": "ArchotechInternalSupport"
 	},
@@ -8898,6 +8898,12 @@
 		"category": "Natural",
 		"defname": "Tibia"
 	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	}
 	],
-	"total": 1483
+	"total": 1484
 }
