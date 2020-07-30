@@ -20,6 +20,101 @@
       "stats": []
     },
     {
+      "addPrice": 10000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "actiongirl",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "defName": "FT_ActionBoy",
+      "degree": 0,
+      "description": "There's no time to waste! [PAWN_nameDef] has increased movement and work speed.",
+      "name": "actionboy",
+      "removePrice": 5500,
+      "stats": [
+        "+0.20 Move speed",
+        "+20% Global work speed",
+        "+20% Eating speed"
+      ]
+    },
+    {
+      "addPrice": 10000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "actionboy",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "defName": "FT_ActionGirl",
+      "degree": 0,
+      "description": "There's no time to waste! [PAWN_nameDef] has increased movement and work speed.",
+      "name": "actiongirl",
+      "removePrice": 5500,
+      "stats": [
+        "+0.20 Move speed",
+        "+20% Global work speed",
+        "+20% Eating speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp",
+        "rooted"
+      ],
+      "defName": "FT_Agility",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has good reflexes and moves with finesse. [PAWN_pronoun] will land and dodge more attacks in melee combat.",
+      "name": "agile",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Hunting stealth",
+        "+0.20 Move speed",
+        "+5.0 Melee hit chance",
+        "+5.0 Melee dodge chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "bloodlust",
+        "ghoulish"
+      ],
+      "defName": "FT_AnimalFriend",
+      "degree": 0,
+      "description": "[PAWN_nameDef] has a passion for animals. [PAWN_pronoun] gets bonuses to all animal interactions.",
+      "name": "animalfriend",
+      "removePrice": 5500,
+      "stats": [
+        "+5% Hunting stealth",
+        "+10% Animal gather speed",
+        "+10% Animal gather yield",
+        "+5.00% Tame animal chance",
+        "+5.00% Train animal chance"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -179,6 +274,28 @@
       ]
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "idiotsavant",
+        "annoyingvoice"
+      ],
+      "defName": "FT_Charisma",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a charismatic personality. [PAWN_pronoun] gets bonuses to all human-like social interactions.",
+      "name": "charismatic",
+      "removePrice": 5500,
+      "stats": [
+        "+10.00% Negotiation ability",
+        "+20.00% Social impact",
+        "+5.00% Trade price improvement"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -229,6 +346,31 @@
       "name": "depressive",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "defName": "FT_Endurance",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has good health and an enduring personality. [PAWN_pronoun] is better at handling stressful situations than others.",
+      "name": "enduring",
+      "removePrice": 5500,
+      "stats": [
+        "+10% Pain shock threshold",
+        "-10% Mental break threshold",
+        "+10% Immunity gain speed",
+        "-15% Toxic sensitivity",
+        "-15% Psychic sensitivity"
+      ]
     },
     {
       "addPrice": 3000,
@@ -282,6 +424,45 @@
       "stats": []
     },
     {
+      "addPrice": 10000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "oblivious"
+      ],
+      "defName": "FT_FortuneFinder",
+      "degree": 0,
+      "description": "[PAWN_nameDef] seems to discover hidden wealth where ever [PAWN_pronoun] goes.",
+      "name": "fortunefinder",
+      "removePrice": 5500,
+      "stats": [
+        "+5 Foraged food amount",
+        "+10% Mining yield",
+        "+10% Animal gather yield",
+        "+10% Plant harvest yield",
+        "+10.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "strongback",
+        "verystrongback"
+      ],
+      "defName": "FT_FrailBack",
+      "degree": 0,
+      "description": "[PAWN_nameDef] has a frail back so [PAWN_pronoun] can't carry as much as the average person.",
+      "name": "frailback",
+      "removePrice": 5500,
+      "stats": [
+        "-25 Carrying capacity"
+      ]
+    },
+    {
       "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
@@ -293,6 +474,28 @@
       "name": "gay",
       "removePrice": 1,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "radresistant",
+        "animalfriend"
+      ],
+      "defName": "FT_Ghoulish",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is still human, mostly. [PAWN_pronoun] is immune to the effects of toxic fallout but their ghoulish appearance makes interacting with others difficult.",
+      "name": "ghoulish",
+      "removePrice": 5500,
+      "stats": [
+        "-100% Toxic sensitivity",
+        "+30% Immunity gain speed",
+        "-20.00% Social impact",
+        "-10.00% Tame animal chance",
+        "-10.00% Train animal chance"
+      ]
     },
     {
       "addPrice": 3000,
@@ -319,7 +522,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.",
       "name": "greatmemory",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -337,6 +540,25 @@
       "name": "greedy",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 15000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "brawler",
+        "wimp"
+      ],
+      "defName": "FT_GunNut",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a gun nut, [PAWN_pronoun] loves guns. [PAWN_pronoun] gets a mood bonus while holding a ranged weapon.",
+      "name": "gunnut",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Aiming time",
+        "+5.0 Shooting accuracy (people)"
+      ]
     },
     {
       "addPrice": 8000,
@@ -357,6 +579,44 @@
       ]
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "name": "hateshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "charismatic",
+        "verycharismatic",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive"
+      ],
+      "defName": "FT_IdiotSavant",
+      "degree": 0,
+      "description": "[PAWN_nameDef] isn't stupid! [PAWN_pronoun] is just... different. [PAWN_pronoun] learns twice as fast but works slower than normal, [PAWN_pronoun] is also incapable handling some tasks.",
+      "name": "idiotsavant",
+      "removePrice": 5500,
+      "stats": [
+        "+100% Global learning factor",
+        "-25% Global work speed"
+      ]
+    },
+    {
       "addPrice": 10000,
       "bypassLimit": false,
       "canAdd": true,
@@ -372,6 +632,61 @@
       "removePrice": 3000,
       "stats": [
         "+35% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "toosmart"
+      ],
+      "defName": "FT_Intelligence",
+      "degree": 1,
+      "description": "[PAWN_nameDef] is smarter than average. [PAWN_pronoun] learns faster and has a good understanding of the world around [PAWN_objective].",
+      "name": "intelligent",
+      "removePrice": 5500,
+      "stats": [
+        "+10% Research speed",
+        "+15% Global learning factor",
+        "+5.00% Negotiation ability",
+        "+5.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp"
+      ],
+      "defName": "FT_Intimidation",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has an intimidating personality, this gives [PAWN_objective] an advantage in social interactions.",
+      "name": "intimidating",
+      "removePrice": 5500,
+      "stats": [
+        "+10.00% Negotiation ability",
+        "+20.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Intolerance",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "name": "intolerance",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
       ]
     },
     {
@@ -410,7 +725,7 @@
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 8500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -463,6 +778,19 @@
       ]
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "name": "loveshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -474,6 +802,21 @@
       "name": "masochist",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [],
+      "defName": "MechAtlas",
+      "degree": 0,
+      "description": "A mechanized infantry unit, they do not think or feel.",
+      "name": "mech",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
     },
     {
       "addPrice": 3000,
@@ -566,6 +909,27 @@
       ]
     },
     {
+      "addPrice": 15000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp",
+        "rooted"
+      ],
+      "defName": "FT_Agility",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has great reflexes and moves like a ninja. [PAWN_pronoun] will land and dodge more attacks in melee combat.",
+      "name": "ninja-like",
+      "removePrice": 5500,
+      "stats": [
+        "+30% Hunting stealth",
+        "+0.40 Move speed",
+        "+5.0 Melee hit chance",
+        "+10.0 Melee dodge chance"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -577,6 +941,34 @@
       "name": "nudist",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "intelligent",
+        "veryintelligent",
+        "fastlearner",
+        "toosmart",
+        "perceptive",
+        "veryperceptive",
+        "fortunefinder",
+        "scrounger"
+      ],
+      "defName": "FT_Oblivious",
+      "degree": 0,
+      "description": "[PAWN_nameDef] isn't very aware of [PAWN_possessive] surroundings, or anything at all really. [PAWN_pronoun]",
+      "name": "oblivious",
+      "removePrice": 5500,
+      "stats": [
+        "-10.00% Social impact",
+        "-10.00% Negotiation ability",
+        "-5.00% Trade price improvement",
+        "-5.00% Train animal chance",
+        "-5.00% Tame animal chance"
+      ]
     },
     {
       "addPrice": 3000,
@@ -592,6 +984,30 @@
       "stats": []
     },
     {
+      "addPrice": 8000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "defName": "FT_Perception",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a good awareness of [PAWN_possessive] surroundings and has a good understanding of how [PAWN_possessive] actions affects others.",
+      "name": "perceptive",
+      "removePrice": 5500,
+      "stats": [
+        "+10.00% Social impact",
+        "+10.00% Negotiation ability",
+        "+5.00% Trade price improvement",
+        "+5.00% Train animal chance",
+        "+5.00% Tame animal chance"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -603,6 +1019,22 @@
       "name": "pessimist",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FT_AimOffset",
+      "degree": -1,
+      "description": "[PAWN_nameDef] has poor hand-eye coordination and will miss [PAWN_possessive] target more often in combat.",
+      "name": "pooraim",
+      "removePrice": 5500,
+      "stats": [
+        "-5.0 Shooting accuracy (people)",
+        "-5.0 Melee hit chance"
+      ]
     },
     {
       "addPrice": 3000,
@@ -706,6 +1138,23 @@
       "stats": []
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FT_QuickHands",
+      "degree": 0,
+      "description": "[PAWN_nameDef] has quick hands. When it comes to [PAWN_possessive] hands, [PAWN_nameDef] never hesitates.",
+      "name": "quickhands",
+      "removePrice": 5500,
+      "stats": [
+        "-15% Aiming time",
+        "+15% Global work speed",
+        "+5.0 Melee hit chance"
+      ]
+    },
+    {
       "addPrice": 5000,
       "bypassLimit": false,
       "canAdd": true,
@@ -718,6 +1167,48 @@
       "removePrice": 3000,
       "stats": [
         "+50% Rest rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "ghoulish"
+      ],
+      "defName": "FT_RadResistant",
+      "degree": 0,
+      "description": "[PAWN_nameDef]'s body has built up a resistance to the negative effects of toxic fallout.",
+      "name": "radresistant",
+      "removePrice": 5500,
+      "stats": [
+        "-50% Toxic sensitivity",
+        "+15% Immunity gain speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "actionboy",
+        "actiongirl",
+        "wimp"
+      ],
+      "defName": "FT_Rooted",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is part tree! [PAWN_pronoun] can really take a beating!",
+      "name": "rooted",
+      "removePrice": 5500,
+      "stats": [
+        "-0.20 Move speed",
+        "+20% Pain shock threshold",
+        "+10% Immunity gain speed"
       ]
     },
     {
@@ -734,6 +1225,44 @@
       "stats": []
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FT_Scrapper",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is good at working with scrap metal. [PAWN_pronoun] is great with a smelter and is efficient when using building materials. ",
+      "name": "scrapper",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Smelting speed",
+        "+10% Repair success chance",
+        "+10% Construct success chance",
+        "+10% Construction speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "oblivious"
+      ],
+      "defName": "FT_Scrounger",
+      "degree": 0,
+      "description": "[PAWN_nameDef] knows how to scavenge and gather for resources quickly.",
+      "name": "scrounger",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Mining speed",
+        "+20% Animal gather speed",
+        "+20% Plant work speed",
+        "+20% Eating speed"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -745,6 +1274,34 @@
       "name": "sickly",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SimpleMindedRobot",
+      "degree": 0,
+      "description": "Robots do not understand emotions on a logical level.",
+      "name": "simpleminded",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SimpleMindedAndroid",
+      "degree": 0,
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
+      "name": "simpleminded",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
     },
     {
       "addPrice": 3000,
@@ -832,6 +1389,66 @@
       "removePrice": 3000,
       "stats": [
         "-9% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FT_AimOffset",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has great hand-eye coordination and will miss [PAWN_possessive] target less often in combat.",
+      "name": "steadyaim",
+      "removePrice": 5500,
+      "stats": [
+        "+5.0 Shooting accuracy (people)",
+        "+5.0 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "frailback"
+      ],
+      "defName": "FT_StrongBack",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a strong back which allows [PAWN_objective] to carry more than most people.",
+      "name": "strongback",
+      "removePrice": 5500,
+      "stats": [
+        "+50 Carrying capacity"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "intelligent",
+        "veryintelligent",
+        "fastlearner",
+        "toosmart",
+        "perceptive",
+        "veryperceptive"
+      ],
+      "defName": "FT_Stupid",
+      "degree": 0,
+      "description": "[PAWN_nameDef] isn't very smart. [PAWN_pronoun] can mess up doing just about anything.",
+      "name": "stupid",
+      "removePrice": 5500,
+      "stats": [
+        "-10% Research speed",
+        "-25% Global learning factor",
+        "-10.00% Negotiation ability",
+        "-5.00% Trade price improvement",
+        "-5% Construct success chance",
+        "-5% Repair success chance"
       ]
     },
     {
@@ -974,6 +1591,94 @@
       "stats": []
     },
     {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "idiotsavant",
+        "annoyingvoice"
+      ],
+      "defName": "FT_Charisma",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has a very charismatic personality. [PAWN_pronoun] gets bonuses to all human-like social interactions.",
+      "name": "verycharismatic",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Negotiation ability",
+        "+30.00% Social impact",
+        "+10.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "defName": "FT_Endurance",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has exceptional health and a very enduring personality. [PAWN_pronoun] is capable of handling high stress situations that others cannot.",
+      "name": "veryenduring",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Pain shock threshold",
+        "-20% Mental break threshold",
+        "+15% Immunity gain speed",
+        "-30% Toxic sensitivity",
+        "-30% Psychic sensitivity"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "toosmart"
+      ],
+      "defName": "FT_Intelligence",
+      "degree": 2,
+      "description": "[PAWN_nameDef] is very smart. [PAWN_pronoun] learns faster and has a great understanding of the world around [PAWN_objective].",
+      "name": "veryintelligent",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Research speed",
+        "+30% Global learning factor",
+        "+10.00% Negotiation ability",
+        "+10.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp"
+      ],
+      "defName": "FT_Intimidation",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has a very intimidating personality, this gives [PAWN_objective] a big advantage in social interactions.",
+      "name": "veryintimidating",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Negotiation ability",
+        "+30.00% Social impact",
+        "+5.00% Trade price improvement"
+      ]
+    },
+    {
       "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
@@ -987,6 +1692,47 @@
       "stats": [
         "+40% Global work speed",
         "+14% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "defName": "FT_Perception",
+      "degree": 2,
+      "description": "[PAWN_nameDef] is very aware of [PAWN_possessive] surroundings and has a great understanding of how [PAWN_possessive] actions affects others.",
+      "name": "veryperceptive",
+      "removePrice": 5500,
+      "stats": [
+        "+20.00% Social impact",
+        "+20.00% Negotiation ability",
+        "+10.00% Trade price improvement",
+        "+5.00% Train animal chance",
+        "+5.00% Tame animal chance"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "frailback"
+      ],
+      "defName": "FT_StrongBack",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has a very strong back or is part mule or something. [PAWN_pronoun] can carry twice as much as a normal person.",
+      "name": "verystrongback",
+      "removePrice": 5500,
+      "stats": [
+        "+75 Carrying capacity"
       ]
     },
     {
@@ -1058,752 +1804,6 @@
       "name": "xenophobe",
       "removePrice": 3000,
       "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SimpleMindedRobot",
-      "degree": 0,
-      "description": "Robots do not understand emotions on a logical level.",
-      "name": "simpleminded",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "strongback",
-        "verystrongback"
-      ],
-      "defName": "FT_FrailBack",
-      "degree": 0,
-      "description": "[PAWN_nameDef] has a frail back so [PAWN_pronoun] can't carry as much as the average person.",
-      "name": "frailback",
-      "removePrice": 5500,
-      "stats": [
-        "-25 Carrying capacity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "frailback"
-      ],
-      "defName": "FT_StrongBack",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has a strong back which allows [PAWN_objective] to carry more than most people.",
-      "name": "strongback",
-      "removePrice": 5500,
-      "stats": [
-        "+50 Carrying capacity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "frailback"
-      ],
-      "defName": "FT_StrongBack",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has a very strong back or is part mule or something. [PAWN_pronoun] can carry twice as much as a normal person.",
-      "name": "verystrongback",
-      "removePrice": 5500,
-      "stats": [
-        "+75 Carrying capacity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "bloodlust",
-        "ghoulish"
-      ],
-      "defName": "FT_AnimalFriend",
-      "degree": 0,
-      "description": "[PAWN_nameDef] has a passion for animals. [PAWN_pronoun] gets bonuses to all animal interactions.",
-      "name": "animalfriend",
-      "removePrice": 5500,
-      "stats": [
-        "+5% Hunting stealth",
-        "+10% Animal gather speed",
-        "+10% Animal gather yield",
-        "+5.00% Tame animal chance",
-        "+5.00% Train animal chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "radresistant",
-        "animalfriend"
-      ],
-      "defName": "FT_Ghoulish",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is still human, mostly. [PAWN_pronoun] is immune to the effects of toxic fallout but their ghoulish appearance makes interacting with others difficult.",
-      "name": "ghoulish",
-      "removePrice": 5500,
-      "stats": [
-        "-100% Toxic sensitivity",
-        "+30% Immunity gain speed",
-        "-20.00% Social impact",
-        "-10.00% Tame animal chance",
-        "-10.00% Train animal chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "ghoulish"
-      ],
-      "defName": "FT_RadResistant",
-      "degree": 0,
-      "description": "[PAWN_nameDef]'s body has built up a resistance to the negative effects of toxic fallout.",
-      "name": "radresistant",
-      "removePrice": 5500,
-      "stats": [
-        "-50% Toxic sensitivity",
-        "+15% Immunity gain speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "actiongirl",
-        "slowpoke",
-        "fastwalker",
-        "jogger",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "defName": "FT_ActionBoy",
-      "degree": 0,
-      "description": "There's no time to waste! [PAWN_nameDef] has increased movement and work speed.",
-      "name": "actionboy",
-      "removePrice": 5500,
-      "stats": [
-        "+0.20 Move speed",
-        "+20% Global work speed",
-        "+20% Eating speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "actionboy",
-        "slowpoke",
-        "fastwalker",
-        "jogger",
-        "industrious",
-        "hardworker",
-        "lazy",
-        "slothful"
-      ],
-      "defName": "FT_ActionGirl",
-      "degree": 0,
-      "description": "There's no time to waste! [PAWN_nameDef] has increased movement and work speed.",
-      "name": "actiongirl",
-      "removePrice": 5500,
-      "stats": [
-        "+0.20 Move speed",
-        "+20% Global work speed",
-        "+20% Eating speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FT_QuickHands",
-      "degree": 0,
-      "description": "[PAWN_nameDef] has quick hands. When it comes to [PAWN_possessive] hands, [PAWN_nameDef] never hesitates.",
-      "name": "quickhands",
-      "removePrice": 5500,
-      "stats": [
-        "-15% Aiming time",
-        "+15% Global work speed",
-        "+5.0 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "fastlearner",
-        "toosmart",
-        "charismatic",
-        "verycharismatic",
-        "intelligent",
-        "veryintelligent",
-        "perceptive",
-        "veryperceptive"
-      ],
-      "defName": "FT_IdiotSavant",
-      "degree": 0,
-      "description": "[PAWN_nameDef] isn't stupid! [PAWN_pronoun] is just... different. [PAWN_pronoun] learns twice as fast but works slower than normal, [PAWN_pronoun] is also incapable handling some tasks.",
-      "name": "idiotsavant",
-      "removePrice": 5500,
-      "stats": [
-        "+100% Global learning factor",
-        "-25% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "abrasive",
-        "bloodlust",
-        "idiotsavant",
-        "annoyingvoice"
-      ],
-      "defName": "FT_Charisma",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has a charismatic personality. [PAWN_pronoun] gets bonuses to all human-like social interactions.",
-      "name": "charismatic",
-      "removePrice": 5500,
-      "stats": [
-        "+10.00% Negotiation ability",
-        "+20.00% Social impact",
-        "+5.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "abrasive",
-        "bloodlust",
-        "idiotsavant",
-        "annoyingvoice"
-      ],
-      "defName": "FT_Charisma",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has a very charismatic personality. [PAWN_pronoun] gets bonuses to all human-like social interactions.",
-      "name": "verycharismatic",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Negotiation ability",
-        "+30.00% Social impact",
-        "+10.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "brawler",
-        "wimp"
-      ],
-      "defName": "FT_GunNut",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is a gun nut, [PAWN_pronoun] loves guns. [PAWN_pronoun] gets a mood bonus while holding a ranged weapon.",
-      "name": "gunnut",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Aiming time",
-        "+5.0 Shooting accuracy (people)"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "slowpoke",
-        "fastwalker",
-        "jogger",
-        "actionboy",
-        "actiongirl",
-        "wimp"
-      ],
-      "defName": "FT_Rooted",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is part tree! [PAWN_pronoun] can really take a beating!",
-      "name": "rooted",
-      "removePrice": 5500,
-      "stats": [
-        "-0.20 Move speed",
-        "+20% Pain shock threshold",
-        "+10% Immunity gain speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "FT_Intimidation",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has an intimidating personality, this gives [PAWN_objective] an advantage in social interactions.",
-      "name": "intimidating",
-      "removePrice": 5500,
-      "stats": [
-        "+10.00% Negotiation ability",
-        "+20.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "FT_Intimidation",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has a very intimidating personality, this gives [PAWN_objective] a big advantage in social interactions.",
-      "name": "veryintimidating",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Negotiation ability",
-        "+30.00% Social impact",
-        "+5.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FT_Scrapper",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is good at working with scrap metal. [PAWN_pronoun] is great with a smelter and is efficient when using building materials. ",
-      "name": "scrapper",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Smelting speed",
-        "+10% Repair success chance",
-        "+10% Construct success chance",
-        "+10% Construction speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "oblivious"
-      ],
-      "defName": "FT_FortuneFinder",
-      "degree": 0,
-      "description": "[PAWN_nameDef] seems to discover hidden wealth where ever [PAWN_pronoun] goes.",
-      "name": "fortunefinder",
-      "removePrice": 5500,
-      "stats": [
-        "+5 Foraged food amount",
-        "+10% Mining yield",
-        "+10% Animal gather yield",
-        "+10% Plant harvest yield",
-        "+10.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FT_AimOffset",
-      "degree": -1,
-      "description": "[PAWN_nameDef] has poor hand-eye coordination and will miss [PAWN_possessive] target more often in combat.",
-      "name": "pooraim",
-      "removePrice": 5500,
-      "stats": [
-        "-5.0 Shooting accuracy (people)",
-        "-5.0 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FT_AimOffset",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has great hand-eye coordination and will miss [PAWN_possessive] target less often in combat.",
-      "name": "steadyaim",
-      "removePrice": 5500,
-      "stats": [
-        "+5.0 Shooting accuracy (people)",
-        "+5.0 Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp",
-        "rooted"
-      ],
-      "defName": "FT_Agility",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has good reflexes and moves with finesse. [PAWN_pronoun] will land and dodge more attacks in melee combat.",
-      "name": "agile",
-      "removePrice": 5500,
-      "stats": [
-        "+15% Hunting stealth",
-        "+0.20 Move speed",
-        "+5.0 Melee hit chance",
-        "+5.0 Melee dodge chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp",
-        "rooted"
-      ],
-      "defName": "FT_Agility",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has great reflexes and moves like a ninja. [PAWN_pronoun] will land and dodge more attacks in melee combat.",
-      "name": "ninja-like",
-      "removePrice": 5500,
-      "stats": [
-        "+30% Hunting stealth",
-        "+0.40 Move speed",
-        "+5.0 Melee hit chance",
-        "+10.0 Melee dodge chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "intelligent",
-        "veryintelligent",
-        "fastlearner",
-        "toosmart",
-        "perceptive",
-        "veryperceptive"
-      ],
-      "defName": "FT_Stupid",
-      "degree": 0,
-      "description": "[PAWN_nameDef] isn't very smart. [PAWN_pronoun] can mess up doing just about anything.",
-      "name": "stupid",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Research speed",
-        "-25% Global learning factor",
-        "-10.00% Negotiation ability",
-        "-5.00% Trade price improvement",
-        "-5% Construct success chance",
-        "-5% Repair success chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "idiotsavant",
-        "stupid",
-        "toosmart"
-      ],
-      "defName": "FT_Intelligence",
-      "degree": 1,
-      "description": "[PAWN_nameDef] is smarter than average. [PAWN_pronoun] learns faster and has a good understanding of the world around [PAWN_objective].",
-      "name": "intelligent",
-      "removePrice": 5500,
-      "stats": [
-        "+10% Research speed",
-        "+15% Global learning factor",
-        "+5.00% Negotiation ability",
-        "+5.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "idiotsavant",
-        "stupid",
-        "toosmart"
-      ],
-      "defName": "FT_Intelligence",
-      "degree": 2,
-      "description": "[PAWN_nameDef] is very smart. [PAWN_pronoun] learns faster and has a great understanding of the world around [PAWN_objective].",
-      "name": "veryintelligent",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Research speed",
-        "+30% Global learning factor",
-        "+10.00% Negotiation ability",
-        "+10.00% Trade price improvement"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "intelligent",
-        "veryintelligent",
-        "fastlearner",
-        "toosmart",
-        "perceptive",
-        "veryperceptive",
-        "fortunefinder",
-        "scrounger"
-      ],
-      "defName": "FT_Oblivious",
-      "degree": 0,
-      "description": "[PAWN_nameDef] isn't very aware of [PAWN_possessive] surroundings, or anything at all really. [PAWN_pronoun]",
-      "name": "oblivious",
-      "removePrice": 5500,
-      "stats": [
-        "-10.00% Social impact",
-        "-10.00% Negotiation ability",
-        "-5.00% Trade price improvement",
-        "-5.00% Train animal chance",
-        "-5.00% Tame animal chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "idiotsavant",
-        "stupid",
-        "abrasive",
-        "oblivious"
-      ],
-      "defName": "FT_Perception",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has a good awareness of [PAWN_possessive] surroundings and has a good understanding of how [PAWN_possessive] actions affects others.",
-      "name": "perceptive",
-      "removePrice": 5500,
-      "stats": [
-        "+10.00% Social impact",
-        "+10.00% Negotiation ability",
-        "+5.00% Trade price improvement",
-        "+5.00% Train animal chance",
-        "+5.00% Tame animal chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "idiotsavant",
-        "stupid",
-        "abrasive",
-        "oblivious"
-      ],
-      "defName": "FT_Perception",
-      "degree": 2,
-      "description": "[PAWN_nameDef] is very aware of [PAWN_possessive] surroundings and has a great understanding of how [PAWN_possessive] actions affects others.",
-      "name": "veryperceptive",
-      "removePrice": 5500,
-      "stats": [
-        "+20.00% Social impact",
-        "+20.00% Negotiation ability",
-        "+10.00% Trade price improvement",
-        "+5.00% Train animal chance",
-        "+5.00% Tame animal chance"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "oblivious"
-      ],
-      "defName": "FT_Scrounger",
-      "degree": 0,
-      "description": "[PAWN_nameDef] knows how to scavenge and gather for resources quickly.",
-      "name": "scrounger",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Mining speed",
-        "+20% Animal gather speed",
-        "+20% Plant work speed",
-        "+20% Eating speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp",
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile"
-      ],
-      "defName": "FT_Endurance",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has good health and an enduring personality. [PAWN_pronoun] is better at handling stressful situations than others.",
-      "name": "enduring",
-      "removePrice": 5500,
-      "stats": [
-        "+10% Pain shock threshold",
-        "-10% Mental break threshold",
-        "+10% Immunity gain speed",
-        "-15% Toxic sensitivity",
-        "-15% Psychic sensitivity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp",
-        "iron-willed",
-        "steadfast",
-        "nervous",
-        "volatile"
-      ],
-      "defName": "FT_Endurance",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has exceptional health and a very enduring personality. [PAWN_pronoun] is capable of handling high stress situations that others cannot.",
-      "name": "veryenduring",
-      "removePrice": 5500,
-      "stats": [
-        "+20% Pain shock threshold",
-        "-20% Mental break threshold",
-        "+15% Immunity gain speed",
-        "-30% Toxic sensitivity",
-        "-30% Psychic sensitivity"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "SimpleMindedAndroid",
-      "degree": 0,
-      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
-      "name": "simpleminded",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "MechAtlas",
-      "degree": 0,
-      "description": "A mechanized infantry unit, they do not think or feel.",
-      "name": "mech",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Intolerance",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
-      "name": "intolerance",
-      "removePrice": 5500,
-      "stats": [
-        "-90.00% Social impact"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FeelingsTowardHumanity",
-      "degree": 1,
-      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
-      "name": "loveshumanity",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "FeelingsTowardHumanity",
-      "degree": 2,
-      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
-      "name": "hateshumanity",
-      "removePrice": 5500,
-      "stats": []
     }
   ],
   "races": [
@@ -1811,7 +1811,7 @@
       "defName": "Assaultron",
       "enabled": true,
       "name": "assaultron",
-      "price": 2500
+      "price": 9000
     },
     {
       "defName": "Ghoul",
@@ -1821,7 +1821,7 @@
     },
     {
       "defName": "GlowingGhoul",
-      "enabled": true,
+      "enabled": false,
       "name": "glowingone",
       "price": 1667
     },
@@ -1833,7 +1833,7 @@
     },
     {
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "m7mechanisedinfantry",
       "price": 30000
     },
@@ -1893,19 +1893,19 @@
     },
     {
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "t3android",
-      "price": 8000
+      "price": 25000
     },
     {
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "t4android",
-      "price": 10000
+      "price": 35000
     },
     {
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "t5android",
       "price": 13333
     },
@@ -1917,7 +1917,7 @@
     },
     {
       "defName": "ATPP_Android2ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "tx2iandroid",
       "price": 5833
     },
@@ -1929,7 +1929,7 @@
     },
     {
       "defName": "ATPP_Android2KITX",
-      "enabled": true,
+      "enabled": false,
       "name": "tx2kiandroid",
       "price": 9167
     },
@@ -1937,25 +1937,25 @@
       "defName": "ATPP_Android3TX",
       "enabled": true,
       "name": "tx3android",
-      "price": 9667
+      "price": 25000
     },
     {
       "defName": "ATPP_Android3ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "tx3iandroid",
-      "price": 9667
+      "price": 25000
     },
     {
       "defName": "ATPP_Android4TX",
-      "enabled": true,
+      "enabled": false,
       "name": "tx4android",
-      "price": 11667
+      "price": 35000
     },
     {
       "defName": "ATPP_Android4ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "tx4iandroid",
-      "price": 11667
+      "price": 35000
     }
   ]
 }
