@@ -67,7 +67,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 15000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -85,8 +85,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -173,7 +173,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -182,14 +182,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
       "name": "asexual",
-      "removePrice": 3500,
+      "removePrice": 1,
       "stats": []
     },
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -277,14 +277,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
-      "removePrice": 3500,
+      "removePrice": 1,
       "stats": []
     },
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -351,8 +351,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -418,8 +418,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -485,8 +485,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -620,8 +620,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -768,8 +768,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -863,8 +863,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -932,8 +932,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1014,8 +1014,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1112,8 +1112,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -1184,8 +1184,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -1257,8 +1257,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1324,8 +1324,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1428,8 +1428,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "icemage",
         "arcanemage",
@@ -1511,7 +1511,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -1520,14 +1520,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
       "name": "gay",
-      "removePrice": 3500,
+      "removePrice": 1,
       "stats": []
     },
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -1601,8 +1601,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1736,7 +1736,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 5000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1783,8 +1783,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1855,8 +1855,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "arcanemage",
@@ -1924,7 +1924,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 12000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1957,7 +1957,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 8000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1988,7 +1988,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 8000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2036,8 +2036,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2104,8 +2104,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2172,8 +2172,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -2246,8 +2246,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "arcanemage",
@@ -2313,7 +2313,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 10000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2372,7 +2372,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] has a magical gift. [PAWN_pronoun] can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "name": "magicallygifted",
-      "removePrice": 3500,
+      "removePrice": 1,
       "stats": [
         "+0.10 Move speed",
         "+10% Medical tend speed",
@@ -2382,7 +2382,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 10000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2413,8 +2413,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2481,8 +2481,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2574,8 +2574,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2646,8 +2646,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -2804,8 +2804,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -2892,8 +2892,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2970,7 +2970,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 9000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3029,7 +3029,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is physically adept and has potential to learn special combat forms.",
       "name": "physicallyadept",
-      "removePrice": 3500,
+      "removePrice": 1,
       "stats": [
         "+0.20 Move speed",
         "+20% Global work speed",
@@ -3073,8 +3073,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -3146,8 +3146,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3319,8 +3319,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3389,7 +3389,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 12000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3404,8 +3404,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3476,8 +3476,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -3592,8 +3592,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -3653,8 +3653,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3781,8 +3781,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3879,8 +3879,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3956,8 +3956,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -4025,8 +4025,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -4113,8 +4113,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -4236,7 +4236,7 @@
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 8500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4334,8 +4334,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -4445,8 +4445,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "icemage",
         "arcanemage",
@@ -4516,8 +4516,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -4593,8 +4593,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "icemage",
         "arcanemage",
@@ -4681,8 +4681,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -4782,97 +4782,97 @@
       "defName": "Alien_Bullgor",
       "enabled": true,
       "name": "bullgor",
-      "price": 1
+      "price": 10000
     },
     {
       "defName": "O21_Alien_DarkElf",
       "enabled": true,
       "name": "darkelf",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "FG_Human",
       "enabled": true,
       "name": "fighter",
-      "price": 1
+      "price": 2917
     },
     {
       "defName": "O21_Alien_Gith",
       "enabled": true,
       "name": "gith",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "O21_Alien_Goblin",
       "enabled": true,
       "name": "goblin",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_Gor",
       "enabled": true,
       "name": "gor",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "O21_Alien_HalfOrc",
       "enabled": true,
       "name": "half-orc",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "O21_Alien_Hobgoblin",
       "enabled": true,
       "name": "hobgoblin",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_HornedSkaven",
       "enabled": true,
       "name": "hornedskaven",
-      "price": 1
+      "price": 4167
     },
     {
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1
+      "price": 2917
     },
     {
       "defName": "O21_Alien_Kobold",
       "enabled": true,
       "name": "kobold",
-      "price": 1
+      "price": 2500
     },
     {
       "defName": "Races_Lizardman",
       "enabled": true,
       "name": "lizardman",
-      "price": 1
+      "price": 2500
     },
     {
       "defName": "MK_Human",
       "enabled": false,
       "name": "monk",
-      "price": 1
+      "price": 2917
     },
     {
       "defName": "O21_Alien_MoonElf",
       "enabled": true,
       "name": "moonelf",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_SkavenMoulder",
       "enabled": true,
       "name": "moulderskaven",
-      "price": 1
+      "price": 4167
     },
     {
       "defName": "NG_Druid_Race",
       "enabled": false,
       "name": "ng_druid",
-      "price": 1
+      "price": 2917
     },
     {
       "defName": "NG_Geomancer_Race",
@@ -4890,55 +4890,169 @@
       "defName": "O21_Alien_Orc",
       "enabled": true,
       "name": "orc",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_Skaven",
       "enabled": true,
       "name": "skaven",
-      "price": 1
+      "price": 2500
     },
     {
       "defName": "O21_Alien_SunElf",
       "enabled": true,
       "name": "sunelf",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Thrumkin",
       "enabled": true,
       "name": "thrumkin",
-      "price": 1
+      "price": 4167
     },
     {
       "defName": "O21_Alien_Tiefling",
       "enabled": true,
       "name": "tiefling",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_Ungor",
       "enabled": true,
       "name": "ungor",
-      "price": 1
+      "price": 2000
     },
     {
       "defName": "Alien_SkavenStorm",
       "enabled": true,
       "name": "vermin",
-      "price": 1
+      "price": 2617
     },
     {
       "defName": "O21_Alien_WoodElf",
       "enabled": true,
       "name": "woodelf",
-      "price": 1
+      "price": 3333
     },
     {
       "defName": "Alien_Zhthyhl",
       "enabled": true,
       "name": "zhthy'hl",
-      "price": 1
+      "price": 2917
+    },
+    {
+      "defName": "WoW_BloodElf",
+      "enabled": true,
+      "name": "bloodelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Draenei",
+      "enabled": true,
+      "name": "draenei",
+      "price": 5833
+    },
+    {
+      "defName": "WoW_Dwarf",
+      "enabled": true,
+      "name": "dwarf",
+      "price": 4167
+    },
+    {
+      "defName": "WoW_Forsaken",
+      "enabled": true,
+      "name": "forsaken",
+      "price": 3333
+    },
+    {
+      "defName": "WoW_ForsakenHighElf",
+      "enabled": true,
+      "name": "forsakenhighelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_ForsakenNightElf",
+      "enabled": true,
+      "name": "forsakennightelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Gnome",
+      "enabled": true,
+      "name": "gnome",
+      "price": 4167
+    },
+    {
+      "defName": "WoW_Goblin",
+      "enabled": true,
+      "name": "goblin",
+      "price": 4167
+    },
+    {
+      "defName": "WoW_HighElf",
+      "enabled": true,
+      "name": "highelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Human",
+      "enabled": true,
+      "name": "azerothianhuman",
+      "price": 3333
+    },
+    {
+      "defName": "WoW_NightElf",
+      "enabled": true,
+      "name": "nightelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Orc",
+      "enabled": true,
+      "name": "orc",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Skeleton",
+      "enabled": true,
+      "name": "skeleton",
+      "price": 1667
+    },
+    {
+      "defName": "WoW_Tauren",
+      "enabled": true,
+      "name": "tauren",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Troll",
+      "enabled": true,
+      "name": "troll",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Worgen",
+      "enabled": true,
+      "name": "worgen",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_VoidElf",
+      "enabled": true,
+      "name": "voidelf",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_MagharOrc",
+      "enabled": true,
+      "name": "mag'harorc",
+      "price": 5000
+    },
+    {
+      "defName": "WoW_Nightborne",
+      "enabled": true,
+      "name": "nightborne",
+      "price": 5000
     }
   ]
 }
