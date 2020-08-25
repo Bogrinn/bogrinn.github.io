@@ -27,7 +27,7 @@
       "stats": []
     },
     {
-      "addPrice": 15000,
+      "addPrice": 12000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1635,7 +1635,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "conflicts": [],
       "defName": "GreatMemory",
@@ -2275,7 +2275,7 @@
       ]
     },
     {
-      "addPrice": 4000,
+      "addPrice": 8000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4617,6 +4617,12 @@
   ],
   "races": [
     {
+      "defName": "Alien_Bullgor",
+      "enabled": true,
+      "name": "bullgor",
+      "price": 10333
+    },
+    {
       "defName": "O21_Alien_DarkElf",
       "enabled": true,
       "name": "darkelf",
@@ -4632,6 +4638,12 @@
       "defName": "O21_Alien_Goblin",
       "enabled": true,
       "name": "goblin",
+      "price": 3333
+    },
+    {
+      "defName": "Alien_Gor",
+      "enabled": true,
+      "name": "gor",
       "price": 3333
     },
     {
@@ -4657,6 +4669,12 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "defName": "O21_Alien_Illithid",
+      "enabled": true,
+      "name": "illithid",
+      "price": 20333
     },
     {
       "defName": "O21_Alien_Kobold",
@@ -4686,7 +4704,7 @@
       "defName": "O21_Alien_Orc",
       "enabled": true,
       "name": "orc",
-      "price": 3333
+      "price": 4333
     },
     {
       "defName": "Alien_Skaven",
@@ -4704,7 +4722,7 @@
       "defName": "Thrumkin",
       "enabled": true,
       "name": "thrumkin",
-      "price": 10000
+      "price": 15000
     },
     {
       "defName": "O21_Alien_Tiefling",
@@ -4713,10 +4731,22 @@
       "price": 3333
     },
     {
+      "defName": "Alien_Ungor",
+      "enabled": true,
+      "name": "ungor",
+      "price": 2000
+    },
+    {
       "defName": "Alien_SkavenStorm",
       "enabled": true,
       "name": "vermin",
       "price": 2617
+    },
+    {
+      "defName": "O21_Alien_Warforged",
+      "enabled": false,
+      "name": "warforged",
+      "price": 4167
     },
     {
       "defName": "O21_Alien_WoodElf",
@@ -4729,36 +4759,6 @@
       "enabled": true,
       "name": "zhthy'hl",
       "price": 2917
-    },
-    {
-      "defName": "O21_Alien_Illithid",
-      "enabled": true,
-      "name": "illithid",
-      "price": 3333
-    },
-    {
-      "defName": "O21_Alien_Warforged",
-      "enabled": true,
-      "name": "warforged",
-      "price": 4167
-    },
-    {
-      "defName": "Alien_Bullgor",
-      "enabled": true,
-      "name": "bullgor",
-      "price": 3333
-    },
-    {
-      "defName": "Alien_Gor",
-      "enabled": true,
-      "name": "gor",
-      "price": 3333
-    },
-    {
-      "defName": "Alien_Ungor",
-      "enabled": true,
-      "name": "ungor",
-      "price": 2000
     }
   ]
 }
