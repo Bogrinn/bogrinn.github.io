@@ -727,12 +727,6 @@
 		"defname": "VCEF_RawHerring"
 	},
 	{
-		"abr": "hologram",
-		"price": -10,
-		"category": "Art",
-		"defname": "VFE_HologramOn"
-	},
-	{
 		"abr": "hoopstonering",
 		"price": -10,
 		"category": "Recreation",
@@ -1010,7 +1004,7 @@
 	},
 	{
 		"abr": "neutroamine",
-		"price": -10,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
 	},
@@ -1754,7 +1748,7 @@
 	},
 	{
 		"abr": "medicinecabinet",
-		"price": 203,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LWM_Medicine_Cabinet"
 	},
@@ -2774,7 +2768,7 @@
 	},
 	{
 		"abr": "wildpawn",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Wildpawn"
 	},
@@ -2786,7 +2780,7 @@
 	},
 	{
 		"abr": "wildpod",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Wildpod"
 	},
@@ -3188,7 +3182,7 @@
 	},
 	{
 		"abr": "adamantite",
-		"price": -10,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "WoW_adamantite"
 	},
@@ -3206,55 +3200,55 @@
 	},
 	{
 		"abr": "ambroisenarm",
-		"price": 3050,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedArm"
 	},
 	{
 		"abr": "ambroisenear",
-		"price": 1892,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedEar"
 	},
 	{
 		"abr": "ambroiseneye",
-		"price": 1892,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedEye"
 	},
 	{
 		"abr": "ambroisenfinger",
-		"price": 2167,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedFinger"
 	},
 	{
 		"abr": "ambroisenfoot",
-		"price": 2617,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedFoot"
 	},
 	{
 		"abr": "ambroisenhand",
-		"price": 2617,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedHand"
 	},
 	{
 		"abr": "ambroisenleg",
-		"price": 3050,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedLeg"
 	},
 	{
 		"abr": "ambroisennose",
-		"price": 1892,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedNose"
 	},
 	{
 		"abr": "ambroisentoe",
-		"price": 2167,
+		"price": -10,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedToe"
 	},
@@ -3278,7 +3272,7 @@
 	},
 	{
 		"abr": "arcalleum",
-		"price": 22,
+		"price": 170,
 		"category": "Raw resources",
 		"defname": "TM_Arcalleum"
 	},
@@ -3644,19 +3638,19 @@
 	},
 	{
 		"abr": "bracersofdefense",
-		"price": 1483,
+		"price": 7500,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
 		"abr": "bracersofdeflection",
-		"price": 1558,
+		"price": 12000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDeflection"
 	},
 	{
 		"abr": "bracersofthepacifist",
-		"price": 6375,
+		"price": 18000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
@@ -3668,19 +3662,19 @@
 	},
 	{
 		"abr": "brewofthedreams",
-		"price": 16667,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "WitcherTrials_Brew_Dreams"
 	},
 	{
 		"abr": "brewoftheelders",
-		"price": 16667,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "WitcherTrials_Brew_Elders"
 	},
 	{
 		"abr": "brewofthegrasses",
-		"price": 16667,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "WitcherTrials_Brew_Grasses"
 	},
@@ -4742,7 +4736,7 @@
 	},
 	{
 		"abr": "heavycrossbow",
-		"price": 304,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MMr_crossbow_heavy"
 	},
@@ -5534,7 +5528,7 @@
 	},
 	{
 		"abr": "manaweave",
-		"price": 15,
+		"price": 30,
 		"category": "Textiles",
 		"defname": "TM_Manaweave"
 	},
@@ -5978,7 +5972,7 @@
 	},
 	{
 		"abr": "ratogre",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RatOgreBlade"
 	},
@@ -6056,25 +6050,25 @@
 	},
 	{
 		"abr": "ringofblood",
-		"price": 3167,
+		"price": 10000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfBlood"
 	},
 	{
 		"abr": "ringofkeenintellect",
-		"price": 3500,
+		"price": 10000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfKeenIntellect"
 	},
 	{
 		"abr": "ringofmalice",
-		"price": 3167,
+		"price": 10000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfMalice"
 	},
 	{
 		"abr": "ringoftheeternalblue",
-		"price": 3333,
+		"price": 10000,
 		"category": "Apparel",
 		"defname": "TM_Artifact_RingOfEternalBlue"
 	},
@@ -6530,7 +6524,7 @@
 	},
 	{
 		"abr": "throwingrocks",
-		"price": 11,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Throwing_Rocks"
 	},
@@ -6824,37 +6818,37 @@
 	},
 	{
 		"abr": "ambrandy(excellent)",
-		"price": 2000,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyExcellent"
 	},
 	{
 		"abr": "ambrandy(good)",
-		"price": 1500,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyGood"
 	},
 	{
 		"abr": "ambrandy(legendary)",
-		"price": 4167,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyLegendary"
 	},
 	{
 		"abr": "ambrandy(masterwork)",
-		"price": 2833,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyMasterwork"
 	},
 	{
 		"abr": "ambrandy(normal)",
-		"price": 1000,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyNormal"
 	},
 	{
 		"abr": "ambrandy(poor)",
-		"price": 750,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "VBE_AmbrandyPoor"
 	},
@@ -6914,25 +6908,25 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 4667,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "archotechshieldgenerator",
-		"price": 4667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFES_ShieldGenerator_Archotech"
 	},
@@ -7292,61 +7286,61 @@
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargelmg",
-		"price": 2833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeLMG"
 	},
 	{
 		"abr": "chargeminigun",
-		"price": 5458,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeMinigun"
 	},
 	{
 		"abr": "chargepistol",
-		"price": 1008,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargePistol"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "chargerocketlauncher",
-		"price": 11667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeRocketLauncher"
 	},
 	{
 		"abr": "chargeshotgun",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeShotgun"
 	},
 	{
 		"abr": "chargesmg",
-		"price": 1508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSMG"
 	},
 	{
 		"abr": "chargesniperrifle",
-		"price": 2050,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSniperRifle"
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1358,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
@@ -7568,7 +7562,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -7982,7 +7976,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -8204,7 +8198,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -8726,7 +8720,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -8792,19 +8786,19 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -8864,19 +8858,19 @@
 	},
 	{
 		"abr": "personamonosword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "personaplasmasword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "personazeushammer",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
@@ -8906,7 +8900,7 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -9314,7 +9308,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -9326,7 +9320,7 @@
 	},
 	{
 		"abr": "rocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_RocketLauncher"
 	},
@@ -9560,73 +9554,73 @@
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": 1250,
+		"price": -10,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -9824,7 +9818,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 15000,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -9872,7 +9866,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -9890,7 +9884,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -10322,7 +10316,7 @@
 	},
 	{
 		"abr": "winebarrel",
-		"price": 95,
+		"price": -10,
 		"category": "Production",
 		"defname": "VFEM_WineBarrel"
 	},
@@ -10334,13 +10328,13 @@
 	},
 	{
 		"abr": "witcher'ssilversword",
-		"price": 16667,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "WitcherTrials_Melee_SilverSword"
 	},
 	{
 		"abr": "witcher'ssteelsword",
-		"price": 16667,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "WitcherTrials_Melee_SteelSword"
 	},
@@ -10418,7 +10412,7 @@
 	},
 	{
 		"abr": "worldeaterdragon",
-		"price": 12667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Eater_Void_Dragon"
 	},
@@ -10499,6 +10493,138 @@
 		"price": 717,
 		"category": "Melee weapons",
 		"defname": "MM_zweihander"
+	},
+	{
+		"abr": "combatdummy",
+		"price": 257,
+		"category": "Misc",
+		"defname": "CombatDummy"
+	},
+	{
+		"abr": "curtain(tribal)(1x1)",
+		"price": 88,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribal"
+	},
+	{
+		"abr": "curtain(tribal)(2x1)",
+		"price": 177,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalDouble"
+	},
+	{
+		"abr": "curtain(tribal)(3x1)",
+		"price": 265,
+		"category": "Buildings",
+		"defname": "HeronCurtainTribalTriple"
+	},
+	{
+		"abr": "trainingbbgun",
+		"price": 131,
+		"category": "Ranged training weapons",
+		"defname": "Gun_TrainingBBGun"
+	},
+	{
+		"abr": "trainingbow",
+		"price": 74,
+		"category": "Ranged training weapons",
+		"defname": "Bow_TrainingShort"
+	},
+	{
+		"abr": "trainingknife",
+		"price": 55,
+		"category": "Melee training weapons",
+		"defname": "MeleeWeapon_TrainingKnife"
+	},
+	{
+		"abr": "angelmoth",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AA_AngelMoth"
+	},
+	{
+		"abr": "angelmothegg(fert.)",
+		"price": 1,
+		"category": "Eggs (fert.)",
+		"defname": "AA_AngelMothEggFertilized"
+	},
+	{
+		"abr": "angelmothlarva",
+		"price": 25,
+		"category": "Animal",
+		"defname": "AA_AngelMothLarva"
+	},
+	{
+		"abr": "cryogenicgun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_CryogenicGun"
+	},
+	{
+		"abr": "demolishercharges",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_DemolisherCharges"
+	},
+	{
+		"abr": "elephanttusk",
+		"price": 200,
+		"category": "Melee weapons",
+		"defname": "TM_ElephantTusk"
+	},
+	{
+		"abr": "mothsilk",
+		"price": 9,
+		"category": "Textiles",
+		"defname": "AA_MothSilk"
+	},
+	{
+		"abr": "ray-hound",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AA_RayHound"
+	},
+	{
+		"abr": "ruunbled",
+		"price": 13333,
+		"category": "Melee weapons",
+		"defname": "TM_Ruunbled"
+	},
+	{
+		"abr": "thrumbosaber",
+		"price": 5833,
+		"category": "Melee weapons",
+		"defname": "TM_ThrumboSaber"
+	},
+	{
+		"abr": "wizardhat",
+		"price": 333,
+		"category": "Magic equipment",
+		"defname": "TM_WizardHat"
+	},
+	{
+		"abr": "zoraimask(a)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskA"
+	},
+	{
+		"abr": "zoraimask(b)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskB"
+	},
+	{
+		"abr": "zoraimask(c)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskC"
+	},
+	{
+		"abr": "zoraimask(d)",
+		"price": 83,
+		"category": "Headgear",
+		"defname": "O21_DNI_ZoraiMaskD"
 	},
 	{
 		"abr": "guestbed",
@@ -10613,7 +10739,13 @@
 		"price": 3333,
 		"category": "Misc",
 		"defname": "Zombrella"
+	},
+	{
+		"abr": "hologrambase",
+		"price": 400,
+		"category": "Art",
+		"defname": "HologramBase"
 	}
 	],
-	"total": 1769
+	"total": 1791
 }
