@@ -7610,13 +7610,13 @@
 	},
 	{
 		"abr": "elderbrain",
-		"price": 16667,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "O21_Item_ElderBrain"
 	},
 	{
 		"abr": "elderbrainpool",
-		"price": 17283,
+		"price": -10,
 		"category": "Misc",
 		"defname": "O21_Building_ElderBrainPool"
 	},
@@ -10586,7 +10586,7 @@
 	},
 	{
 		"abr": "ruunbled",
-		"price": 13333,
+		"price": 40000,
 		"category": "Melee weapons",
 		"defname": "TM_Ruunbled"
 	},
@@ -10626,126 +10626,6 @@
 		"category": "Headgear",
 		"defname": "O21_DNI_ZoraiMaskD"
 	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleGuest"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "RGK_bedSingleBGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestclassydoublebed",
-		"price": 942,
-		"category": "Furniture",
-		"defname": "GL_ClassyDoubleBedGuest"
-	},
-	{
-		"abr": "guestcryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleGuest"
-	},
-	{
-		"abr": "guestdoublebed2",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "RGK_bedDoubleBGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guestergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_ErgonomicGuest"
-	},
-	{
-		"abr": "guestergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomicGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestoperatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTableGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "guestroyalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_KingsizeGuest"
-	},
-	{
-		"abr": "guestsimplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_SimpleGuest"
-	},
-	{
-		"abr": "guestslabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlabGuest"
-	},
-	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Misc",
-		"defname": "Zombrella"
-	},
-	{
-		"abr": "hologrambase",
-		"price": 400,
-		"category": "Art",
-		"defname": "HologramBase"
-	}
 	],
-	"total": 1791
+	"total": 1778
 }
