@@ -21,7 +21,7 @@
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
-    "version": "3.4.966"
+    "version": "3.7.1004"
   },
   {
     "author": "erdelf",
@@ -42,10 +42,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion",
-    "name": "Vanilla Factions Expanded - Core - Now with Faction Discovery!",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
-    "version": "1.1.8.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "Syrchalis",
@@ -114,6 +114,12 @@
     "version": null
   },
   {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": "2215217049",
+    "version": null
+  },
+  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
@@ -153,7 +159,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.2.1"
+    "version": "2.5.2.2"
   },
   {
     "author": "Meltup",
@@ -306,7 +312,7 @@
     "version": "1.1.0"
   },
   {
-    "author": "Oskar Potocki",
+    "author": "Oskar Potocki, Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art",
     "steamId": "1968134023",
     "version": "1.0.3"
@@ -460,12 +466,6 @@
     "name": "Level Up!",
     "steamId": "1701592470",
     "version": "1.0.0"
-  },
-  {
-    "author": "Linkolas",
-    "name": "LinkableDoors (unofficial)",
-    "steamId": "2019849258",
-    "version": null
   },
   {
     "author": "Undereastern, Owlchemist",
@@ -630,12 +630,6 @@
     "version": "1.1.3.0"
   },
   {
-    "author": "void",
-    "name": "Terraform Rimworld",
-    "steamId": "1874652867",
-    "version": null
-  },
-  {
     "author": "Weilbyte",
     "name": "RenameColony",
     "steamId": "1359645236",
@@ -663,7 +657,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7529.16115"
+    "version": "1.0.7539.5466"
   },
   {
     "author": "Nandonalt, Tejko, Alias",
@@ -699,12 +693,6 @@
     "author": "Neceros",
     "name": "Simply More Bridges - Medieval",
     "steamId": "1880852663",
-    "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": "1508850027",
     "version": null
   },
   {
@@ -774,12 +762,6 @@
     "version": "4.0.7.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "0",
-    "version": "1.0.1.2"
-  },
-  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
@@ -831,13 +813,55 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "1.3.2.0"
+    "version": "1.3.7.0"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Sheep Happens",
     "steamId": "2164203879",
     "version": "1.0.2.0"
+  },
+  {
+    "author": "zymex",
+    "name": "No more sleeping Z's",
+    "steamId": "2024071585",
+    "version": null
+  },
+  {
+    "author": "nkuznia",
+    "name": "Build Near Anima Trees",
+    "steamId": "0",
+    "version": null
+  },
+  {
+    "author": "Helldragger",
+    "name": "Combat Training - Forked",
+    "steamId": "2196035723",
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": "1969732297",
+    "version": "1.0.0"
+  },
+  {
+    "author": "sisco",
+    "name": "Buildable Terrain v1",
+    "steamId": "1420979918",
+    "version": null
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "TRIBeagle updated by Captain Waifu",
+    "name": "GloomyEmbrasure",
+    "steamId": "2058178495",
+    "version": null
   },
   {
     "author": "XeoNovaDan",
@@ -852,9 +876,57 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nykot",
+    "name": "Sandy's RPG Style Inventory [1.2]",
+    "steamId": "2204419561",
+    "version": "1.0.0"
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": "753498552",
     "version": "1.2.03"
+  },
+  {
+    "author": "balistafreak",
+    "name": "Standalone Hot Spring",
+    "steamId": "2205980094",
+    "version": null
+  },
+  {
+    "author": "民火",
+    "name": "Appearance clothes",
+    "steamId": "1537867047",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "notfood",
+    "name": "More Than Capable",
+    "steamId": "1803932954",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Antlantas",
+    "name": "Uncanny Dodge",
+    "steamId": "2209786569",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Easy Extra Apparel Layers",
+    "steamId": "2212276413",
+    "version": null
+  },
+  {
+    "author": "Jecrell,lbmaian",
+    "name": "Doors Expanded (Dev)",
+    "steamId": "2195733555",
+    "version": "1.3.2.1"
   }
 ]
