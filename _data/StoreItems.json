@@ -1766,7 +1766,7 @@
 	},
 	{
 		"abr": "skip",
-		"price": 305,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "LWM_DeepStorage_Skip"
 	},
@@ -3890,7 +3890,7 @@
 	},
 	{
 		"abr": "combatpower:psionic",
-		"price": 4750,
+		"price": 12000,
 		"category": "Skill books",
 		"defname": "BookOfPsionic"
 	},
@@ -4094,7 +4094,7 @@
 	},
 	{
 		"abr": "diamond",
-		"price": 12,
+		"price": 50,
 		"category": "Raw resources",
 		"defname": "Diamond"
 	},
@@ -6758,7 +6758,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -7886,7 +7886,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -8114,7 +8114,7 @@
 	},
 	{
 		"abr": "cygor",
-		"price": 5833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ClovenCygor"
 	},
@@ -8402,7 +8402,7 @@
 	},
 	{
 		"abr": "juice",
-		"price": 2,
+		"price": 50,
 		"category": "Meals",
 		"defname": "VBE_Juice"
 	},
@@ -8666,7 +8666,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -9962,49 +9962,49 @@
 	},
 	{
 		"abr": "tubetelevision",
-		"price": 525,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
 	},
 	{
 		"abr": "uncookedfinesoup",
-		"price": 400,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupFine"
 	},
 	{
 		"abr": "uncookedfinestew",
-		"price": 400,
+		"price": -10,
 		"category": "Uncooked stew",
 		"defname": "VCE_UncookedStewFine"
 	},
 	{
 		"abr": "uncookedgourmetsoup",
-		"price": 625,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupGourmet"
 	},
 	{
 		"abr": "uncookedlavishsoup",
-		"price": 500,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupLavish"
 	},
 	{
 		"abr": "uncookedlavishstew",
-		"price": 500,
+		"price": -10,
 		"category": "Uncooked stew",
 		"defname": "VCE_UncookedStewLavish"
 	},
 	{
 		"abr": "uncookedsimplesoup",
-		"price": 200,
+		"price": -10,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupSimple"
 	},
 	{
 		"abr": "uncookedsimplestew",
-		"price": 200,
+		"price": -10,
 		"category": "Uncooked stew",
 		"defname": "VCE_UncookedStewSimple"
 	},
@@ -10022,7 +10022,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -10626,6 +10626,180 @@
 		"category": "Headgear",
 		"defname": "O21_DNI_ZoraiMaskD"
 	},
+	{
+		"abr": "animacrown",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Apparel_AnimaCrown"
+	},
+	{
+		"abr": "animafiber",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "AnimaFiber"
+	},
+	{
+		"abr": "animastaff",
+		"price": 2500,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_AnimaStaff"
+	},
+	{
+		"abr": "animatribalwear",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "Apparel_AnimaTribal"
+	},
+	{
+		"abr": "hologrambase",
+		"price": 400,
+		"category": "Art",
+		"defname": "HologramBase"
+	},
+	{
+		"abr": "animawarmask",
+		"price": 600,
+		"category": "Headgear",
+		"defname": "Apparel_AnimaWarMask"
+	},
+	{
+		"abr": "animawarveil",
+		"price": 358,
+		"category": "Headgear",
+		"defname": "Apparel_AnimaWarVeil"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestclassydoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed2",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleBGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
+		"abr": "demonhide",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "TM_Demonhide"
+	},
+	{
+		"abr": "demon'sfang",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "TM_DemonFang"
+	},
+	{
+		"abr": "demonscale",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "TM_Demonscale"
+	}
 	],
-	"total": 1778
+	"total": 1800
 }
