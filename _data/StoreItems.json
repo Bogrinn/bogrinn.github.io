@@ -3200,55 +3200,55 @@
 	},
 	{
 		"abr": "ambroisenarm",
-		"price": -10,
+		"price": 9050,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedArm"
 	},
 	{
 		"abr": "ambroisenear",
-		"price": -10,
+		"price": 7892,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedEar"
 	},
 	{
 		"abr": "ambroiseneye",
-		"price": -10,
+		"price": 7892,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedEye"
 	},
 	{
 		"abr": "ambroisenfinger",
-		"price": -10,
+		"price": 8167,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedFinger"
 	},
 	{
 		"abr": "ambroisenfoot",
-		"price": -10,
+		"price": 8617,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedFoot"
 	},
 	{
 		"abr": "ambroisenhand",
-		"price": -10,
+		"price": 8617,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedHand"
 	},
 	{
 		"abr": "ambroisenleg",
-		"price": -10,
+		"price": 9050,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedLeg"
 	},
 	{
 		"abr": "ambroisennose",
-		"price": -10,
+		"price": 7892,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedNose"
 	},
 	{
 		"abr": "ambroisentoe",
-		"price": -10,
+		"price": 8167,
 		"category": "Simple parts",
 		"defname": "AmbroisenMedToe"
 	},
@@ -5414,7 +5414,7 @@
 	},
 	{
 		"abr": "magespell:powernode",
-		"price": 1017,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_PowerNode"
 	},
@@ -6536,7 +6536,7 @@
 	},
 	{
 		"abr": "thrumboaxe",
-		"price": 7750,
+		"price": 9750,
 		"category": "Melee weapons",
 		"defname": "TM_ThrumboAxe"
 	},
@@ -8793,7 +8793,7 @@
 	{
 		"abr": "orbitalmechclustertargeter",
 		"price": -10,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
@@ -9081,7 +9081,7 @@
 	{
 		"abr": "psylinkneuroformer",
 		"price": 4333,
-		"category": "Items",
+		"category": "Archotech",
 		"defname": "PsychicAmplifier"
 	},
 	{
@@ -9867,7 +9867,7 @@
 	{
 		"abr": "tornadogenerator",
 		"price": -10,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "TornadoGenerator"
 	},
 	{
@@ -10592,7 +10592,7 @@
 	},
 	{
 		"abr": "thrumbosaber",
-		"price": 5833,
+		"price": 8833,
 		"category": "Melee weapons",
 		"defname": "TM_ThrumboSaber"
 	},
@@ -10667,6 +10667,84 @@
 		"price": 358,
 		"category": "Headgear",
 		"defname": "Apparel_AnimaWarVeil"
+	},
+	{
+		"abr": "beret",
+		"price": 141,
+		"category": "Headgear",
+		"defname": "Apparel_Beret"
+	},
+	{
+		"abr": "cape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_Cape"
+	},
+	{
+		"abr": "catoblepas",
+		"price": 667,
+		"category": "Animal",
+		"defname": "MM_Catoblepas"
+	},
+	{
+		"abr": "cerberus",
+		"price": 500,
+		"category": "Animal",
+		"defname": "MM_Cerberus"
+	},
+	{
+		"abr": "ceryneianhind",
+		"price": 583,
+		"category": "Animal",
+		"defname": "MM_CeryneianHind"
+	},
+	{
+		"abr": "demonhide",
+		"price": 27,
+		"category": "Leathers",
+		"defname": "TM_Demonhide"
+	},
+	{
+		"abr": "demon'sfang",
+		"price": 6150,
+		"category": "Melee weapons",
+		"defname": "TM_DemonFang"
+	},
+	{
+		"abr": "demonscale",
+		"price": 30,
+		"category": "Raw resources",
+		"defname": "TM_Demonscale"
+	},
+	{
+		"abr": "eltexskullcap",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Apparel_EltexSkullcap"
+	},
+	{
+		"abr": "gunlink",
+		"price": 575,
+		"category": "Headgear",
+		"defname": "Apparel_Gunlink"
+	},
+	{
+		"abr": "largenatureshrine",
+		"price": 1183,
+		"category": "Misc",
+		"defname": "NatureShrine_Large"
+	},
+	{
+		"abr": "smallnatureshrine",
+		"price": 592,
+		"category": "Misc",
+		"defname": "NatureShrine_Small"
+	},
+	{
+		"abr": "stelliccrown",
+		"price": 283,
+		"category": "Headgear",
+		"defname": "Apparel_CrownStellic"
 	},
 	{
 		"abr": "guestbed",
@@ -10781,25 +10859,7 @@
 		"price": 3333,
 		"category": "Misc",
 		"defname": "Zombrella"
-	},
-	{
-		"abr": "demonhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "TM_Demonhide"
-	},
-	{
-		"abr": "demon'sfang",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "TM_DemonFang"
-	},
-	{
-		"abr": "demonscale",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "TM_Demonscale"
 	}
 	],
-	"total": 1800
+	"total": 1810
 }
