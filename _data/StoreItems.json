@@ -1034,7 +1034,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": -10,
+		"price": 40,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -1190,7 +1190,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": -10,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "shelf(1x1)",
-		"price": 52,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Shelf_1x1c"
 	},
@@ -3740,7 +3740,7 @@
 	},
 	{
 		"abr": "broadshieldpack",
-		"price": 717,
+		"price": 3000,
 		"category": "Utility",
 		"defname": "Apparel_PackBroadshield"
 	},
@@ -3758,25 +3758,25 @@
 	},
 	{
 		"abr": "cannedeggs",
-		"price": 3,
+		"price": -10,
 		"category": "Meals",
 		"defname": "VCE_CannedAP"
 	},
 	{
 		"abr": "cannedfish",
-		"price": 3,
+		"price": 20,
 		"category": "Meals",
 		"defname": "VCE_CannedFish"
 	},
 	{
 		"abr": "cannedmeat",
-		"price": 3,
+		"price": 20,
 		"category": "Meals",
 		"defname": "VCE_CannedMeat"
 	},
 	{
 		"abr": "cannedproduce",
-		"price": 3,
+		"price": 20,
 		"category": "Meals",
 		"defname": "VCE_CannedProduce"
 	},
@@ -3962,7 +3962,7 @@
 	},
 	{
 		"abr": "decoy",
-		"price": 140,
+		"price": 400,
 		"category": "Security",
 		"defname": "VFES_Turret_Decoy"
 	},
@@ -4219,12 +4219,6 @@
 		"defname": "VCE_CookedSoupFine"
 	},
 	{
-		"abr": "finestew",
-		"price": 30,
-		"category": "Meals",
-		"defname": "VCE_CookedStewFine"
-	},
-	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
@@ -4274,7 +4268,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": -10,
+		"price": 1533,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -4316,7 +4310,7 @@
 	},
 	{
 		"abr": "gin",
-		"price": 20,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "VBE_Gin"
 	},
@@ -4430,7 +4424,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": -10,
+		"price": 4000,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -4604,7 +4598,7 @@
 	},
 	{
 		"abr": "jumppack",
-		"price": 717,
+		"price": 1500,
 		"category": "Utility",
 		"defname": "Apparel_PackJump"
 	},
@@ -4667,12 +4661,6 @@
 		"price": 50,
 		"category": "Meals",
 		"defname": "VCE_CookedSoupLavish"
-	},
-	{
-		"abr": "lavishstew",
-		"price": 63,
-		"category": "Meals",
-		"defname": "VCE_CookedStewLavish"
 	},
 	{
 		"abr": "learningassistant",
@@ -4778,7 +4766,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": -10,
+		"price": 2475,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -4814,7 +4802,7 @@
 	},
 	{
 		"abr": "modernlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_ModernLamp"
 	},
@@ -4910,7 +4898,7 @@
 	},
 	{
 		"abr": "outdoorlamp",
-		"price": 128,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Light_Streetlamp"
 	},
@@ -5450,7 +5438,7 @@
 	},
 	{
 		"abr": "siegeturret",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "AA_SiegeTurret"
 	},
@@ -5563,12 +5551,6 @@
 		"defname": "VCE_CookedSoupSimple"
 	},
 	{
-		"abr": "simplestew",
-		"price": 23,
-		"category": "Meals",
-		"defname": "VCE_CookedStewSimple"
-	},
-	{
 		"abr": "skilltrainer(animals)",
 		"price": -10,
 		"category": "Skilltrainers",
@@ -5665,12 +5647,6 @@
 		"defname": "Shell_Smoke"
 	},
 	{
-		"abr": "88mod4combatpistol",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_88mod4P"
-	},
-	{
 		"abr": "advancedbattery",
 		"price": 750,
 		"category": "Power",
@@ -5695,60 +5671,6 @@
 		"defname": "Bed_AdvDoubleBed"
 	},
 	{
-		"abr": "advancedsurgerytools",
-		"price": 233,
-		"category": "Medical Supplements Resources",
-		"defname": "MSAdvSurgeryTools"
-	},
-	{
-		"abr": "ancientcarpet2x1",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAD"
-	},
-	{
-		"abr": "ancientcarpet2x1",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAE"
-	},
-	{
-		"abr": "ancientcarpet2x2",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBD"
-	},
-	{
-		"abr": "ancientcarpet2x2",
-		"price": 567,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBE"
-	},
-	{
-		"abr": "ancientcarpet3x3",
-		"price": 1267,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCD"
-	},
-	{
-		"abr": "ancientcarpet3x3",
-		"price": 1267,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCE"
-	},
-	{
-		"abr": "ancientcryptosleepcasket",
-		"price": 617,
-		"category": "Misc",
-		"defname": "AvP_XenomorphCryptosleepCasket"
-	},
-	{
-		"abr": "androgen",
-		"price": 40,
-		"category": "Medical Supplements",
-		"defname": "MSAndrogen"
-	},
-	{
 		"abr": "angelmoth",
 		"price": 750,
 		"category": "Animal",
@@ -5762,129 +5684,15 @@
 	},
 	{
 		"abr": "angelmothlarva",
-		"price": 25,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_AngelMothLarva"
 	},
 	{
-		"abr": "animacrown",
-		"price": 833,
-		"category": "Headgear",
-		"defname": "Apparel_AnimaCrown"
-	},
-	{
-		"abr": "animafiber",
-		"price": 8,
-		"category": "Textiles",
-		"defname": "AnimaFiber"
-	},
-	{
-		"abr": "animastaff",
-		"price": 2500,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_AnimaStaff"
-	},
-	{
-		"abr": "animatribalwear",
-		"price": 500,
-		"category": "Apparel",
-		"defname": "Apparel_AnimaTribal"
-	},
-	{
-		"abr": "animawarmask",
-		"price": 625,
-		"category": "Headgear",
-		"defname": "Apparel_AnimaWarMask"
-	},
-	{
-		"abr": "animawarveil",
-		"price": 358,
-		"category": "Headgear",
-		"defname": "Apparel_AnimaWarVeil"
-	},
-	{
-		"abr": "antibacterialwipes",
-		"price": 3,
-		"category": "Medical Supplements",
-		"defname": "MSWipes"
-	},
-	{
-		"abr": "antinitesinjection",
-		"price": 883,
-		"category": "Injections and Stims",
-		"defname": "MSAntinites"
-	},
-	{
-		"abr": "antinitesvial",
-		"price": 320,
-		"category": "Medical Supplements Resources",
-		"defname": "MSAntinites_Vial"
-	},
-	{
-		"abr": "antiscepticbandages",
-		"price": 15,
-		"category": "Medicine",
-		"defname": "MSASBandage"
-	},
-	{
-		"abr": "antitox",
-		"price": 50,
-		"category": "Medical Supplements",
-		"defname": "MSAntitox"
-	},
-	{
-		"abr": "archivalcabinet",
-		"price": 234,
-		"category": "Misc",
-		"defname": "SadjuukResearchBD"
-	},
-	{
 		"abr": "archotechviolencegenerator",
-		"price": 5667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VPE_ArchotechViolenceGenerator"
-	},
-	{
-		"abr": "armoredplate",
-		"price": 23,
-		"category": "Manufactured",
-		"defname": "SadjuukArmoredPlate"
-	},
-	{
-		"abr": "artificialbackdisc",
-		"price": 68,
-		"category": "Medical Supplements Resources",
-		"defname": "MSBackDisc"
-	},
-	{
-		"abr": "artificialskin",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "AvP_Synthetic_Skin"
-	},
-	{
-		"abr": "asphaltconcrete",
-		"price": 7,
-		"category": "Manufactured",
-		"defname": "SadjuukAsphaltConcrete"
-	},
-	{
-		"abr": "aspirin",
-		"price": 37,
-		"category": "Medical Supplements",
-		"defname": "MSAspirin"
-	},
-	{
-		"abr": "assemblyrobot",
-		"price": 1900,
-		"category": "Misc",
-		"defname": "SadjuukAssemblyRobot"
-	},
-	{
-		"abr": "asthma(antihistamine)inhaler",
-		"price": 45,
-		"category": "Medical Supplements",
-		"defname": "MSInhaler"
 	},
 	{
 		"abr": "aureancornea",
@@ -5905,48 +5713,6 @@
 		"defname": "ANN_Autonomicviruskiller"
 	},
 	{
-		"abr": "badgerbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAU"
-	},
-	{
-		"abr": "badgerflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBU"
-	},
-	{
-		"abr": "basiccomponents",
-		"price": 6,
-		"category": "Manufactured",
-		"defname": "SadjuukBasicComponent"
-	},
-	{
-		"abr": "basicsurgerytools",
-		"price": 683,
-		"category": "Misc",
-		"defname": "SadjuukSurgeryAB"
-	},
-	{
-		"abr": "battlestim",
-		"price": 1183,
-		"category": "Injections and Stims",
-		"defname": "MSBattleStim"
-	},
-	{
-		"abr": "battlestimutility",
-		"price": 1192,
-		"category": "Apparel",
-		"defname": "MSBattleStimBelt"
-	},
-	{
-		"abr": "battlestimvial",
-		"price": 567,
-		"category": "Medical Supplements Resources",
-		"defname": "MSBattleStim_Vial"
-	},
-	{
 		"abr": "beret",
 		"price": 141,
 		"category": "Headgear",
@@ -5959,112 +5725,16 @@
 		"defname": "ANN_BerserkerChip"
 	},
 	{
-		"abr": "biohazardsign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCD"
-	},
-	{
 		"abr": "biolabsunlamp",
 		"price": 1442,
 		"category": "Furniture",
 		"defname": "Spacer_SunLamp"
 	},
 	{
-		"abr": "blackbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAK"
-	},
-	{
-		"abr": "blackflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBK"
-	},
-	{
 		"abr": "blackpearl",
 		"price": 2833,
 		"category": "Cyborg",
 		"defname": "ANN_BlackPearl"
-	},
-	{
-		"abr": "bluelight",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightBB"
-	},
-	{
-		"abr": "bluelight",
-		"price": 29,
-		"category": "Furniture",
-		"defname": "SadjuukLightCB"
-	},
-	{
-		"abr": "bluelight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightFB"
-	},
-	{
-		"abr": "bluelight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightGB"
-	},
-	{
-		"abr": "bluetorch",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightAB"
-	},
-	{
-		"abr": "bluetorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightDB"
-	},
-	{
-		"abr": "bluetorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightEB"
-	},
-	{
-		"abr": "bluewalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAB"
-	},
-	{
-		"abr": "bluewalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBB"
-	},
-	{
-		"abr": "bluewalllight",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCB"
-	},
-	{
-		"abr": "blueprinttable",
-		"price": 278,
-		"category": "Misc",
-		"defname": "SadjuukResearchBC"
-	},
-	{
-		"abr": "bolshvevbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAE"
-	},
-	{
-		"abr": "bolshvevflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBE"
 	},
 	{
 		"abr": "brainwash",
@@ -6077,24 +5747,6 @@
 		"price": 367,
 		"category": "Noble apparel",
 		"defname": "Apparel_Cape"
-	},
-	{
-		"abr": "ceramicheater",
-		"price": 131,
-		"category": "Temperature",
-		"defname": "SadjuukHeaterAB"
-	},
-	{
-		"abr": "cerebraxinjection",
-		"price": 742,
-		"category": "Injections and Stims",
-		"defname": "MSCerebrax"
-	},
-	{
-		"abr": "clarity",
-		"price": 62,
-		"category": "Medical Supplements",
-		"defname": "MSClarity"
 	},
 	{
 		"abr": "clustercolumn",
@@ -6115,12 +5767,6 @@
 		"defname": "CombatDummy"
 	},
 	{
-		"abr": "combistaff",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "AvP_Yautja_Melee_Combistaff"
-	},
-	{
 		"abr": "compressionjaw",
 		"price": 2875,
 		"category": "Cyborg",
@@ -6131,36 +5777,6 @@
 		"price": 3333,
 		"category": "Cyborg",
 		"defname": "ANN_CompressionStomach"
-	},
-	{
-		"abr": "concrete",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "SadjuukConcrete"
-	},
-	{
-		"abr": "condom",
-		"price": 8,
-		"category": "Medical Supplements",
-		"defname": "MSCondom"
-	},
-	{
-		"abr": "contactlenses",
-		"price": 47,
-		"category": "Medical Supplements",
-		"defname": "MSContacts"
-	},
-	{
-		"abr": "crossbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAS"
-	},
-	{
-		"abr": "crossflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBS"
 	},
 	{
 		"abr": "cryogenicgun",
@@ -6193,12 +5809,6 @@
 		"defname": "ANN_CyclopsVisor"
 	},
 	{
-		"abr": "deathdangersign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCB"
-	},
-	{
 		"abr": "demolishercharges",
 		"price": -10,
 		"category": "Ranged weapons",
@@ -6211,100 +5821,10 @@
 		"defname": "ANN_Dermalplating"
 	},
 	{
-		"abr": "diesel",
-		"price": 18,
-		"category": "Manufactured",
-		"defname": "SadjuukDiesel"
-	},
-	{
-		"abr": "diktatbanner",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAD"
-	},
-	{
-		"abr": "diktatflag",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBD"
-	},
-	{
-		"abr": "disinfectantstand",
-		"price": 400,
-		"category": "Misc",
-		"defname": "MS_DStand"
-	},
-	{
-		"abr": "doublelogsbed",
-		"price": 85,
-		"category": "Furniture",
-		"defname": "SadjuukBedBA"
-	},
-	{
-		"abr": "doublesteelbed",
-		"price": 425,
-		"category": "Furniture",
-		"defname": "SadjuukBedBC"
-	},
-	{
-		"abr": "doublewoodenbed",
-		"price": 367,
-		"category": "Furniture",
-		"defname": "SadjuukBedBB"
-	},
-	{
-		"abr": "drugcabinet",
-		"price": 123,
-		"category": "Furniture",
-		"defname": "DrugCabinet"
-	},
-	{
-		"abr": "drugchemicalmixerinput",
-		"price": 49,
-		"category": "Misc",
-		"defname": "MSDrugMixInput"
-	},
-	{
-		"abr": "drugchemicalmixeroutput",
-		"price": 49,
-		"category": "Misc",
-		"defname": "MSDrugMixOutput"
-	},
-	{
 		"abr": "elasticachilles",
 		"price": 1583,
 		"category": "Cyborg",
 		"defname": "ANN_ElasticAchilles"
-	},
-	{
-		"abr": "electricdangersign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCE"
-	},
-	{
-		"abr": "electricfan",
-		"price": 43,
-		"category": "Temperature",
-		"defname": "SadjuukCoolerAA"
-	},
-	{
-		"abr": "electricheater",
-		"price": 96,
-		"category": "Temperature",
-		"defname": "SadjuukHeaterAA"
-	},
-	{
-		"abr": "eliteyautjabiomask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskElite"
-	},
-	{
-		"abr": "eliteyautjahunterchestplate",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateElite"
 	},
 	{
 		"abr": "eltexskullcap",
@@ -6349,58 +5869,16 @@
 		"defname": "ANN_EnergyLink"
 	},
 	{
-		"abr": "engineerjumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Engineer"
-	},
-	{
-		"abr": "ethanol(synthetic)",
-		"price": 20,
-		"category": "Medical Supplements Resources",
-		"defname": "MSEthanol"
-	},
-	{
-		"abr": "ethylmercury",
-		"price": 56,
-		"category": "Medical Supplements Resources",
-		"defname": "MSEthylMercury"
-	},
-	{
 		"abr": "exoskeletonarmor",
 		"price": 6458,
 		"category": "Cyborg",
 		"defname": "ANN_Exoskeleton"
 	},
 	{
-		"abr": "falconeryautjabiomask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskFalconer"
-	},
-	{
-		"abr": "firedangersign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCA"
-	},
-	{
-		"abr": "firethroat",
-		"price": 53,
-		"category": "Medical Supplements",
-		"defname": "MSFireThroat"
-	},
-	{
 		"abr": "flashlight",
 		"price": 1083,
 		"category": "Cyborg",
 		"defname": "ANN_FlashLight"
-	},
-	{
-		"abr": "forkliftwarningsign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCF"
 	},
 	{
 		"abr": "fraggrenadebelt",
@@ -6413,24 +5891,6 @@
 		"price": 833,
 		"category": "Misc",
 		"defname": "IceColumnMod"
-	},
-	{
-		"abr": "fueloil",
-		"price": 458,
-		"category": "Manufactured",
-		"defname": "SadjuukFuelOil"
-	},
-	{
-		"abr": "galliabanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAB"
-	},
-	{
-		"abr": "galliaflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBB"
 	},
 	{
 		"abr": "gasheater",
@@ -6457,202 +5917,16 @@
 		"defname": "VPE_GasTank"
 	},
 	{
-		"abr": "gdibanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAO"
-	},
-	{
-		"abr": "gdiflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBO"
-	},
-	{
-		"abr": "glass",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "SadjuukGlass"
-	},
-	{
-		"abr": "glassmeetingtable",
-		"price": 217,
-		"category": "Furniture",
-		"defname": "SadjuukTableFD"
-	},
-	{
-		"abr": "glasstable",
-		"price": 36,
-		"category": "Furniture",
-		"defname": "SadjuukTableAD"
-	},
-	{
-		"abr": "glasstable",
-		"price": 72,
-		"category": "Furniture",
-		"defname": "SadjuukTableBD"
-	},
-	{
-		"abr": "glasstable",
-		"price": 109,
-		"category": "Furniture",
-		"defname": "SadjuukTableCD"
-	},
-	{
-		"abr": "glasstable",
-		"price": 145,
-		"category": "Furniture",
-		"defname": "SadjuukTableDD"
-	},
-	{
-		"abr": "glasstable",
-		"price": 217,
-		"category": "Furniture",
-		"defname": "SadjuukTableED"
-	},
-	{
-		"abr": "glycerol",
-		"price": 28,
-		"category": "Vegetarian",
-		"defname": "MSGlycerol"
-	},
-	{
-		"abr": "gpsbeacon(medical)",
-		"price": 2667,
-		"category": "Items",
-		"defname": "MSGPSBeaconMeds"
-	},
-	{
-		"abr": "greenbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAT"
-	},
-	{
-		"abr": "greenflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBT"
-	},
-	{
-		"abr": "greenlight",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightBG"
-	},
-	{
-		"abr": "greenlight",
-		"price": 29,
-		"category": "Furniture",
-		"defname": "SadjuukLightCG"
-	},
-	{
-		"abr": "greenlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightFG"
-	},
-	{
-		"abr": "greenlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightGG"
-	},
-	{
-		"abr": "greentorch",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightAG"
-	},
-	{
-		"abr": "greentorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightDG"
-	},
-	{
-		"abr": "greentorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightEG"
-	},
-	{
-		"abr": "greenwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAG"
-	},
-	{
-		"abr": "greenwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBG"
-	},
-	{
-		"abr": "greenwalllight",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCG"
-	},
-	{
 		"abr": "greenthumb",
 		"price": 2250,
 		"category": "Cyborg",
 		"defname": "ANN_Greenthumb"
 	},
 	{
-		"abr": "grindingmachine",
-		"price": 692,
-		"category": "Misc",
-		"defname": "SadjuukGrinding"
-	},
-	{
-		"abr": "gryffonbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAW"
-	},
-	{
-		"abr": "gryffonflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBW"
-	},
-	{
 		"abr": "gunlink",
 		"price": 575,
 		"category": "Headgear",
 		"defname": "Apparel_Gunlink"
-	},
-	{
-		"abr": "haycarpet2x1",
-		"price": 2,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAA"
-	},
-	{
-		"abr": "haycarpet2x2",
-		"price": 3,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBA"
-	},
-	{
-		"abr": "haycarpet3x3",
-		"price": 8,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCA"
-	},
-	{
-		"abr": "headmountedsight",
-		"price": 1667,
-		"category": "USCM Equipment",
-		"defname": "AvP_USCM_Equipment_HeadMountedSight"
-	},
-	{
-		"abr": "healthshard",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_Yautja_HealthShard"
 	},
 	{
 		"abr": "heavyshieldbelt",
@@ -6685,54 +5959,6 @@
 		"defname": "ANN_HoverFeet"
 	},
 	{
-		"abr": "huntergauntlet(l)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(l)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(r)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(r)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(l)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(r)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "hydrochloricacid",
-		"price": 13,
-		"category": "Medical Supplements Resources",
-		"defname": "MSHydrochloricAcid"
-	},
-	{
-		"abr": "hydrogenperoxide",
-		"price": 8,
-		"category": "Medical Supplements Resources",
-		"defname": "MSHydrogenPeroxide"
-	},
-	{
 		"abr": "illuminateddresser",
 		"price": 367,
 		"category": "Furniture",
@@ -6745,34 +5971,10 @@
 		"defname": "Table_IlluminatedEndTable"
 	},
 	{
-		"abr": "immunisationinjection",
-		"price": 625,
-		"category": "Injections and Stims",
-		"defname": "MSImmunisation"
-	},
-	{
-		"abr": "imperialbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAC"
-	},
-	{
-		"abr": "imperialflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBC"
-	},
-	{
 		"abr": "independenteye",
 		"price": 3167,
 		"category": "Cyborg",
 		"defname": "ANN_IndependentEye"
-	},
-	{
-		"abr": "injectorunit",
-		"price": 567,
-		"category": "Medical Supplements Resources",
-		"defname": "MSInjector_Unit"
 	},
 	{
 		"abr": "interactivetable(1x1)",
@@ -6824,7 +6026,7 @@
 	},
 	{
 		"abr": "largevanometricpowercell",
-		"price": 4000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_LargeVanometricPowerCell"
 	},
@@ -6833,18 +6035,6 @@
 		"price": 1458,
 		"category": "Cyborg",
 		"defname": "ANN_LaserDetection"
-	},
-	{
-		"abr": "lechbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAN"
-	},
-	{
-		"abr": "lechflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBN"
 	},
 	{
 		"abr": "lightcolumn",
@@ -6865,232 +6055,22 @@
 		"defname": "ANN_Lionheart"
 	},
 	{
-		"abr": "liquidhydrogen",
-		"price": 92,
-		"category": "Manufactured",
-		"defname": "SadjuukHydrogen"
-	},
-	{
-		"abr": "lithiumsalts",
-		"price": 3,
-		"category": "Medical Supplements Resources",
-		"defname": "MSLithiumSalts"
-	},
-	{
-		"abr": "lysbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAR"
-	},
-	{
-		"abr": "lysflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBR"
-	},
-	{
-		"abr": "m10patternballistichelmet",
-		"price": 583,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_M10PAttern"
-	},
-	{
-		"abr": "m240incinerator",
-		"price": 625,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M240Incinerator"
-	},
-	{
-		"abr": "m2402heavyincinerator",
-		"price": 2167,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_M240A2Incinerator_Heavy"
-	},
-	{
-		"abr": "m3patternpersonalarmour",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M3Pattern"
-	},
-	{
-		"abr": "m37a2pumpshotgun",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M37A2S"
-	},
-	{
-		"abr": "m39submachinegun",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M39SMG"
-	},
-	{
-		"abr": "m41apulserifle(grenade)",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M41APR"
-	},
-	{
-		"abr": "m41apulserifle(shotgun)",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M41BPR"
-	},
-	{
-		"abr": "m42asniperrifle",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M42ASR"
-	},
-	{
-		"abr": "m4a3servicepistol",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M4A3P"
-	},
-	{
-		"abr": "m4a4pistol",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M4A4P"
-	},
-	{
-		"abr": "m5rocketpropelledgrenade",
-		"price": 13333,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M5RPG"
-	},
-	{
-		"abr": "m56combatharness",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M56CombatHarness"
-	},
-	{
-		"abr": "m56operatorsupplies",
-		"price": 200,
-		"category": "Items",
-		"defname": "AvP_USCM_OperatorGear"
-	},
-	{
-		"abr": "m56smartgun",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M56SmartGun"
-	},
-	{
 		"abr": "magneticshield",
 		"price": 1633,
 		"category": "Power",
 		"defname": "Building_RTMagneticShield"
 	},
 	{
-		"abr": "maintenancejack",
-		"price": 125,
-		"category": "Melee weapons",
-		"defname": "AvP_USCM_MaintenanceJack"
-	},
-	{
-		"abr": "medecinetable",
-		"price": 52,
-		"category": "Furniture",
-		"defname": "SadjuukSurgeryBA"
-	},
-	{
-		"abr": "medicaljumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Medical"
-	},
-	{
-		"abr": "medicalmat",
-		"price": 433,
-		"category": "Misc",
-		"defname": "MSMedicalMat"
-	},
-	{
-		"abr": "medicalmat(early)",
-		"price": 450,
-		"category": "Misc",
-		"defname": "MSMedicalMatEarly"
-	},
-	{
-		"abr": "medicalmat(spacertech)",
-		"price": 767,
-		"category": "Misc",
-		"defname": "MSMedicalMatSpacer"
-	},
-	{
-		"abr": "medicalmat(ultratech)",
-		"price": 1192,
-		"category": "Misc",
-		"defname": "MSMedicalMatUltra"
-	},
-	{
-		"abr": "medicalstent",
-		"price": 102,
-		"category": "Medical Supplements Resources",
-		"defname": "MSStent"
-	},
-	{
-		"abr": "medicalsupplyflare",
-		"price": 2792,
-		"category": "Medical Supplements Resources",
-		"defname": "MSMedSupplyFlare"
-	},
-	{
 		"abr": "medpod",
-		"price": 8333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MedPodStandard"
 	},
 	{
 		"abr": "medpodlux",
-		"price": 12500,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MedPodLux"
-	},
-	{
-		"abr": "mercurysalts",
-		"price": 3,
-		"category": "Medical Supplements Resources",
-		"defname": "MSMercurySalts"
-	},
-	{
-		"abr": "metalgrid",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "SadjuukMetalGrid"
-	},
-	{
-		"abr": "metallathe",
-		"price": 278,
-		"category": "Misc",
-		"defname": "SadjuukLathe"
-	},
-	{
-		"abr": "metasisinjection",
-		"price": 992,
-		"category": "Injections and Stims",
-		"defname": "MSMetasis"
-	},
-	{
-		"abr": "metasisvial",
-		"price": 425,
-		"category": "Medical Supplements Resources",
-		"defname": "MSMetasis_Vial"
-	},
-	{
-		"abr": "militarycap",
-		"price": 94,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Cap"
-	},
-	{
-		"abr": "millingmachine",
-		"price": 692,
-		"category": "Misc",
-		"defname": "SadjuukMilling"
 	},
 	{
 		"abr": "mindclearer",
@@ -7105,82 +6085,16 @@
 		"defname": "ANN_Mindtwist"
 	},
 	{
-		"abr": "moderncarpet2x1",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAG"
-	},
-	{
-		"abr": "moderncarpet2x1",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAH"
-	},
-	{
-		"abr": "moderncarpet2x1",
-		"price": 383,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAI"
-	},
-	{
-		"abr": "moderncarpet2x2",
-		"price": 767,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBG"
-	},
-	{
-		"abr": "moderncarpet2x2",
-		"price": 767,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBH"
-	},
-	{
-		"abr": "moderncarpet2x2",
-		"price": 767,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBI"
-	},
-	{
-		"abr": "moderncarpet3x3",
-		"price": 1733,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCG"
-	},
-	{
-		"abr": "moderncarpet3x3",
-		"price": 1733,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCH"
-	},
-	{
-		"abr": "moderncarpet3x3",
-		"price": 1733,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCI"
-	},
-	{
 		"abr": "molotovbelt",
 		"price": 408,
 		"category": "Utility",
 		"defname": "VWE_Apparel_GrenadeMolotovBelt"
 	},
 	{
-		"abr": "morphine",
-		"price": 53,
-		"category": "Injections and Stims",
-		"defname": "MSMorphine"
-	},
-	{
 		"abr": "mothsilk",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "AA_MothSilk"
-	},
-	{
-		"abr": "multi-vitamins",
-		"price": 4,
-		"category": "Medical Supplements",
-		"defname": "MSMultiVitamins"
 	},
 	{
 		"abr": "musclewire",
@@ -7195,18 +6109,6 @@
 		"defname": "ANN_MuseChip"
 	},
 	{
-		"abr": "nanotechbandages",
-		"price": 65,
-		"category": "Medicine",
-		"defname": "MSNanoBandage"
-	},
-	{
-		"abr": "needler",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Needler"
-	},
-	{
 		"abr": "neuroenhancer",
 		"price": 2000,
 		"category": "Cyborg",
@@ -7219,58 +6121,10 @@
 		"defname": "ANN_NeuromodBooster"
 	},
 	{
-		"abr": "nodbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAF"
-	},
-	{
-		"abr": "nodflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBF"
-	},
-	{
-		"abr": "operatingtable",
-		"price": 675,
-		"category": "Furniture",
-		"defname": "SadjuukSurgeryBD"
-	},
-	{
-		"abr": "opiumlatex",
-		"price": 7,
-		"category": "Medical Supplements Resources",
-		"defname": "MSOpiumLatex"
-	},
-	{
-		"abr": "opiumpipe",
-		"price": 37,
-		"category": "Medical Supplements",
-		"defname": "MSOpiumPipe"
-	},
-	{
-		"abr": "opiumseedpod",
-		"price": 3,
-		"category": "Plant matter",
-		"defname": "MSOPSeedPod"
-	},
-	{
 		"abr": "orbitaltradecolumn",
 		"price": 358,
 		"category": "Misc",
 		"defname": "OrbitalTradeColumnMod"
-	},
-	{
-		"abr": "ornateyautjabiomask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskOrnate"
-	},
-	{
-		"abr": "ornateyautjahunterchestplate",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateOrnate"
 	},
 	{
 		"abr": "outdoorsolarlamp",
@@ -7291,142 +6145,10 @@
 		"defname": "ANN_PassionGiver"
 	},
 	{
-		"abr": "perpetuity",
-		"price": 3183,
-		"category": "Injections and Stims",
-		"defname": "MSPerpetuity"
-	},
-	{
-		"abr": "perpetuityvial",
-		"price": 2567,
-		"category": "Medical Supplements Resources",
-		"defname": "MSPerpetuity_Vial"
-	},
-	{
-		"abr": "perrywinkleleaves",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "MSPerrywinkleLeaves"
-	},
-	{
-		"abr": "phenol",
-		"price": 12,
-		"category": "Medical Supplements Resources",
-		"defname": "MSPhenol"
-	},
-	{
-		"abr": "placebo",
-		"price": 31,
-		"category": "Medical Supplements",
-		"defname": "MSPlacebo"
-	},
-	{
-		"abr": "plasmapistol",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Blaster"
-	},
-	{
-		"abr": "plasteelmeetingtable",
-		"price": 625,
-		"category": "Furniture",
-		"defname": "SadjuukTableFE"
-	},
-	{
-		"abr": "plasteelmeetingtable",
-		"price": 625,
-		"category": "Furniture",
-		"defname": "SadjuukTableFF"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 135,
-		"category": "Furniture",
-		"defname": "SadjuukTableAE"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 135,
-		"category": "Furniture",
-		"defname": "SadjuukTableAF"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 270,
-		"category": "Furniture",
-		"defname": "SadjuukTableBE"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 270,
-		"category": "Furniture",
-		"defname": "SadjuukTableBF"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "SadjuukTableCE"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 408,
-		"category": "Furniture",
-		"defname": "SadjuukTableCF"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 542,
-		"category": "Furniture",
-		"defname": "SadjuukTableDE"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 542,
-		"category": "Furniture",
-		"defname": "SadjuukTableDF"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 808,
-		"category": "Furniture",
-		"defname": "SadjuukTableEE"
-	},
-	{
-		"abr": "plasteeltable",
-		"price": 808,
-		"category": "Furniture",
-		"defname": "SadjuukTableEF"
-	},
-	{
-		"abr": "poppyseeds",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "MSPoppySeeds"
-	},
-	{
 		"abr": "portablechemfuelpoweredgenerator",
 		"price": 242,
 		"category": "Power",
 		"defname": "VFE_PortableChemfuelPoweredGenerator"
-	},
-	{
-		"abr": "portablefuelcellx",
-		"price": 2600,
-		"category": "Furniture",
-		"defname": "SadjuukGeneratorX"
-	},
-	{
-		"abr": "portablegeneratorv",
-		"price": 617,
-		"category": "Furniture",
-		"defname": "SadjuukGeneratorV"
-	},
-	{
-		"abr": "portablegeneratorw",
-		"price": 1358,
-		"category": "Furniture",
-		"defname": "SadjuukGeneratorW"
 	},
 	{
 		"abr": "portablewood-firedgenerator",
@@ -7447,28 +6169,10 @@
 		"defname": "Apparel_QRShieldBelt"
 	},
 	{
-		"abr": "radiationwarningsign",
-		"price": 41,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerCC"
-	},
-	{
 		"abr": "rangedshieldbelt",
 		"price": 2283,
 		"category": "Apparel",
 		"defname": "Apparel_RangedShieldBelt"
-	},
-	{
-		"abr": "ravenbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAX"
-	},
-	{
-		"abr": "ravenflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBX"
 	},
 	{
 		"abr": "ray-hound",
@@ -7483,262 +6187,16 @@
 		"defname": "ANN_Reconditioner"
 	},
 	{
-		"abr": "redbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAG"
-	},
-	{
-		"abr": "redflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBG"
-	},
-	{
-		"abr": "redlight",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightBR"
-	},
-	{
-		"abr": "redlight",
-		"price": 29,
-		"category": "Furniture",
-		"defname": "SadjuukLightCR"
-	},
-	{
-		"abr": "redlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightFR"
-	},
-	{
-		"abr": "redlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightGR"
-	},
-	{
-		"abr": "redtorch",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightAR"
-	},
-	{
-		"abr": "redtorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightDR"
-	},
-	{
-		"abr": "redtorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightER"
-	},
-	{
-		"abr": "redwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAR"
-	},
-	{
-		"abr": "redwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBR"
-	},
-	{
-		"abr": "redwalllight",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCR"
-	},
-	{
 		"abr": "repairshelf",
 		"price": 2908,
 		"category": "Furniture",
 		"defname": "Shelf_RepairRack"
 	},
 	{
-		"abr": "researchdesk",
-		"price": 458,
-		"category": "Production",
-		"defname": "SadjuukResearchAB"
-	},
-	{
-		"abr": "researchlibrary",
-		"price": 492,
-		"category": "Misc",
-		"defname": "SadjuukResearchBB"
-	},
-	{
-		"abr": "researchspot",
-		"price": 36,
-		"category": "Production",
-		"defname": "SadjuukResearchAA"
-	},
-	{
-		"abr": "researchtable",
-		"price": 442,
-		"category": "Production",
-		"defname": "SadjuukResearchAC"
-	},
-	{
 		"abr": "researchterminal",
 		"price": 767,
 		"category": "Production",
 		"defname": "LabTerminal"
-	},
-	{
-		"abr": "rhynth",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "AvP_Rhynth"
-	},
-	{
-		"abr": "rhynthleather",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Rhynth"
-	},
-	{
-		"abr": "rimburneaze",
-		"price": 78,
-		"category": "Medical Supplements",
-		"defname": "MSRimBurnEaze"
-	},
-	{
-		"abr": "rimcetamol",
-		"price": 11,
-		"category": "Medical Supplements",
-		"defname": "MSRimcetamol"
-	},
-	{
-		"abr": "rimcodamol",
-		"price": 17,
-		"category": "Medical Supplements",
-		"defname": "MSRimCodamol"
-	},
-	{
-		"abr": "rimedicrem",
-		"price": 38,
-		"category": "Medical Supplements",
-		"defname": "MSRimedicrem"
-	},
-	{
-		"abr": "rimoxicillin",
-		"price": 40,
-		"category": "Medical Supplements",
-		"defname": "MSRimoxicillin"
-	},
-	{
-		"abr": "rimpeptic",
-		"price": 34,
-		"category": "Medical Supplements",
-		"defname": "MSRimpeptic"
-	},
-	{
-		"abr": "rimproplus",
-		"price": 42,
-		"category": "Medical Supplements",
-		"defname": "MSRimProPlus"
-	},
-	{
-		"abr": "rimsnooze",
-		"price": 13,
-		"category": "Medical Supplements",
-		"defname": "MSRimSnooze"
-	},
-	{
-		"abr": "rimtarol",
-		"price": 40,
-		"category": "Medical Supplements",
-		"defname": "MSRimtarol"
-	},
-	{
-		"abr": "rimzac",
-		"price": 42,
-		"category": "Medical Supplements",
-		"defname": "MSRimzac"
-	},
-	{
-		"abr": "rolledupmedicalmat",
-		"price": 433,
-		"category": "Manufactured",
-		"defname": "MSMedicalMatItem"
-	},
-	{
-		"abr": "rolledupmedicalmat(early)",
-		"price": 450,
-		"category": "Manufactured",
-		"defname": "MSMedicalMatEarlyItem"
-	},
-	{
-		"abr": "rolledupmedicalmat(spacer)",
-		"price": 767,
-		"category": "Manufactured",
-		"defname": "MSMedicalMatSpacerItem"
-	},
-	{
-		"abr": "rolledupmedicalmat(ultra)",
-		"price": 1192,
-		"category": "Manufactured",
-		"defname": "MSMedicalMatUltraItem"
-	},
-	{
-		"abr": "royalbluebanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAH"
-	},
-	{
-		"abr": "royalblueflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBH"
-	},
-	{
-		"abr": "royalcarpet2x1",
-		"price": 967,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAF"
-	},
-	{
-		"abr": "royalcarpet2x2",
-		"price": 1933,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBF"
-	},
-	{
-		"abr": "royalcarpet3x3",
-		"price": 4342,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCF"
-	},
-	{
-		"abr": "rusbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAP"
-	},
-	{
-		"abr": "rusflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBP"
-	},
-	{
-		"abr": "rusticsurgerytools",
-		"price": 542,
-		"category": "Misc",
-		"defname": "SadjuukSurgeryAA"
-	},
-	{
-		"abr": "scrubnitesinjection",
-		"price": 1083,
-		"category": "Injections and Stims",
-		"defname": "MSScrubnites"
 	},
 	{
 		"abr": "sensoricearside",
@@ -7753,46 +6211,10 @@
 		"defname": "ANN_Shadowrunner"
 	},
 	{
-		"abr": "shapertool",
-		"price": 205,
-		"category": "Misc",
-		"defname": "SadjuukShaper"
-	},
-	{
-		"abr": "shoulderplasmacaster",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_PlasmaCaster"
-	},
-	{
-		"abr": "simplexenomorphshield(drone)",
-		"price": 342,
-		"category": "Melee weapons",
-		"defname": "AvP_Shield_Xenomorph_Drone"
-	},
-	{
-		"abr": "skybluebanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAI"
-	},
-	{
-		"abr": "skyblueflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBI"
-	},
-	{
 		"abr": "smallbattery",
 		"price": 182,
 		"category": "Power",
 		"defname": "VFE_SmallBattery"
-	},
-	{
-		"abr": "smallglasstable",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukTableGD"
 	},
 	{
 		"abr": "smallnatureshrine",
@@ -7801,46 +6223,10 @@
 		"defname": "NatureShrine_Small"
 	},
 	{
-		"abr": "smallplanktable",
-		"price": 892,
-		"category": "Furniture",
-		"defname": "SadjuukTableGB"
-	},
-	{
-		"abr": "smallplasteeltable",
-		"price": 102,
-		"category": "Furniture",
-		"defname": "SadjuukTableGE"
-	},
-	{
-		"abr": "smallplasteeltable",
-		"price": 102,
-		"category": "Furniture",
-		"defname": "SadjuukTableGF"
-	},
-	{
-		"abr": "smallsteeltable",
-		"price": 57,
-		"category": "Furniture",
-		"defname": "SadjuukTableGC"
-	},
-	{
-		"abr": "smalltable",
-		"price": 23,
-		"category": "Furniture",
-		"defname": "SadjuukTableGA"
-	},
-	{
 		"abr": "smallvanometricpowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_SmallVanometricPowerCell"
-	},
-	{
-		"abr": "smellingsaltcapsule",
-		"price": 12,
-		"category": "Medical Supplements",
-		"defname": "MSSmellSalts"
 	},
 	{
 		"abr": "smokeleafbutter",
@@ -7850,21 +6236,9 @@
 	},
 	{
 		"abr": "smokepoppack",
-		"price": 277,
+		"price": 500,
 		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt"
-	},
-	{
-		"abr": "snakebanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAV"
-	},
-	{
-		"abr": "snakeflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBV"
 	},
 	{
 		"abr": "sniperrifle",
@@ -7891,34 +6265,16 @@
 		"defname": "VBE_SodaSyrup"
 	},
 	{
-		"abr": "solarcell",
-		"price": 12,
-		"category": "Manufactured",
-		"defname": "SadjuukSolarCell"
-	},
-	{
 		"abr": "spacerlamp",
 		"price": 184,
 		"category": "Furniture",
 		"defname": "Light_SpacerLamp"
 	},
 	{
-		"abr": "spearrifle",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_SpearRifle"
-	},
-	{
 		"abr": "spices",
 		"price": 10,
 		"category": "Condiments",
 		"defname": "VCE_RawSpices"
-	},
-	{
-		"abr": "spiketrap",
-		"price": 319,
-		"category": "Security",
-		"defname": "AvP_TrapSpike"
 	},
 	{
 		"abr": "sprinkler",
@@ -7951,130 +6307,10 @@
 		"defname": "StandingLamp_Red"
 	},
 	{
-		"abr": "statesbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAQ"
-	},
-	{
-		"abr": "statesflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBQ"
-	},
-	{
-		"abr": "steelbed",
-		"price": 213,
-		"category": "Furniture",
-		"defname": "SadjuukBedAC"
-	},
-	{
-		"abr": "steelchair",
-		"price": 37,
-		"category": "Furniture",
-		"defname": "SadjuukChairAC"
-	},
-	{
-		"abr": "steelchest",
-		"price": 39,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureAC"
-	},
-	{
-		"abr": "steellockers",
-		"price": 138,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureBC"
-	},
-	{
-		"abr": "steelmedicalbed",
-		"price": 231,
-		"category": "Furniture",
-		"defname": "SadjuukSurgeryBC"
-	},
-	{
-		"abr": "steelmeetingtable",
-		"price": 219,
-		"category": "Furniture",
-		"defname": "SadjuukTableFC"
-	},
-	{
-		"abr": "steelofficechair",
-		"price": 71,
-		"category": "Furniture",
-		"defname": "SadjuukChairCC"
-	},
-	{
-		"abr": "steelplate",
-		"price": 3,
-		"category": "Manufactured",
-		"defname": "SadjuukSteelPlate"
-	},
-	{
-		"abr": "steelsurgerytools",
-		"price": 925,
-		"category": "Misc",
-		"defname": "SadjuukSurgeryAC"
-	},
-	{
-		"abr": "steeltable",
-		"price": 35,
-		"category": "Furniture",
-		"defname": "SadjuukTableAC"
-	},
-	{
-		"abr": "steeltable",
-		"price": 69,
-		"category": "Furniture",
-		"defname": "SadjuukTableBC"
-	},
-	{
-		"abr": "steeltable",
-		"price": 104,
-		"category": "Furniture",
-		"defname": "SadjuukTableCC"
-	},
-	{
-		"abr": "steeltable",
-		"price": 138,
-		"category": "Furniture",
-		"defname": "SadjuukTableDC"
-	},
-	{
-		"abr": "steeltable",
-		"price": 207,
-		"category": "Furniture",
-		"defname": "SadjuukTableEC"
-	},
-	{
-		"abr": "steeltube",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "SadjuukSteelTube"
-	},
-	{
-		"abr": "steelworkstool",
-		"price": 22,
-		"category": "Furniture",
-		"defname": "SadjuukChairBC"
-	},
-	{
 		"abr": "stelliccrown",
 		"price": 283,
 		"category": "Headgear",
 		"defname": "Apparel_CrownStellic"
-	},
-	{
-		"abr": "sterilecottonbandages",
-		"price": 8,
-		"category": "Medicine",
-		"defname": "MSBandage"
-	},
-	{
-		"abr": "stimlab",
-		"price": 1025,
-		"category": "Production",
-		"defname": "MSStimLab"
 	},
 	{
 		"abr": "stonewarmask",
@@ -8095,18 +6331,6 @@
 		"defname": "VCE_RawSugar"
 	},
 	{
-		"abr": "sulphur",
-		"price": 4,
-		"category": "Medical Supplements Resources",
-		"defname": "MSSulphur"
-	},
-	{
-		"abr": "sulphuricacid",
-		"price": 12,
-		"category": "Medical Supplements Resources",
-		"defname": "MSSulphuricAcid"
-	},
-	{
 		"abr": "suncolumn",
 		"price": 725,
 		"category": "Misc",
@@ -8119,34 +6343,10 @@
 		"defname": "SunLamp"
 	},
 	{
-		"abr": "surgerylights.",
-		"price": 226,
-		"category": "Misc",
-		"defname": "SadjuukSurgeryAD"
-	},
-	{
 		"abr": "synchronizer",
 		"price": 1958,
 		"category": "Cyborg",
 		"defname": "ANN_Synchronizer"
-	},
-	{
-		"abr": "synth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Synth"
-	},
-	{
-		"abr": "synthmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AvP_Synth"
-	},
-	{
-		"abr": "syntheticpaint",
-		"price": 6,
-		"category": "Manufactured",
-		"defname": "SadjuukSyntheticPaint"
 	},
 	{
 		"abr": "synthread",
@@ -8174,25 +6374,13 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 25000,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
-		"abr": "templarbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAM"
-	},
-	{
-		"abr": "templarflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBM"
-	},
-	{
 		"abr": "tequila",
-		"price": 25,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "VBE_Tequila"
 	},
@@ -8257,108 +6445,6 @@
 		"defname": "MeleeWeapon_TrainingKnife"
 	},
 	{
-		"abr": "transcendence(analytical)",
-		"price": -10,
-		"category": "Injections and Stims",
-		"defname": "MSTranscendence_Analytical"
-	},
-	{
-		"abr": "transcendence(inventive)",
-		"price": -10,
-		"category": "Injections and Stims",
-		"defname": "MSTranscendence_Inventive"
-	},
-	{
-		"abr": "transcendence(practical)",
-		"price": -10,
-		"category": "Injections and Stims",
-		"defname": "MSTranscendence_Practical"
-	},
-	{
-		"abr": "transcendence(receptive)",
-		"price": -10,
-		"category": "Injections and Stims",
-		"defname": "MSTranscendence_Receptive"
-	},
-	{
-		"abr": "transcendence(tactical)",
-		"price": -10,
-		"category": "Injections and Stims",
-		"defname": "MSTranscendence_Tactical"
-	},
-	{
-		"abr": "transcendencevial",
-		"price": -10,
-		"category": "Medical Supplements Resources",
-		"defname": "MSTranscendence_Vial"
-	},
-	{
-		"abr": "travelpill",
-		"price": 23,
-		"category": "Medical Supplements",
-		"defname": "MSTravelPill"
-	},
-	{
-		"abr": "tribalcalendar",
-		"price": 675,
-		"category": "Misc",
-		"defname": "SadjuukResearchBA"
-	},
-	{
-		"abr": "tribalcarpet2x1",
-		"price": 142,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAB"
-	},
-	{
-		"abr": "tribalcarpet2x1",
-		"price": 142,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetAC"
-	},
-	{
-		"abr": "tribalcarpet2x2",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBB"
-	},
-	{
-		"abr": "tribalcarpet2x2",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetBC"
-	},
-	{
-		"abr": "tribalcarpet3x3",
-		"price": 633,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCB"
-	},
-	{
-		"abr": "tribalcarpet3x3",
-		"price": 633,
-		"category": "Furniture",
-		"defname": "SadjuukCarpetCC"
-	},
-	{
-		"abr": "tribalhunterwristblade(l)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "tribalhunterwristblade(r)",
-		"price": -10,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "tribalcloak",
-		"price": -10,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_TribalCloak"
-	},
-	{
 		"abr": "triplerocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
@@ -8369,12 +6455,6 @@
 		"price": 525,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
-	},
-	{
-		"abr": "ua571-cautomatedsentrygun",
-		"price": 16667,
-		"category": "Security",
-		"defname": "AvP_USCM_UA571C_Turret"
 	},
 	{
 		"abr": "ultrascreentelevision",
@@ -8389,12 +6469,6 @@
 		"defname": "VCE_UncookedSoupFine"
 	},
 	{
-		"abr": "uncookedfinestew",
-		"price": 400,
-		"category": "Uncooked stew",
-		"defname": "VCE_UncookedStewFine"
-	},
-	{
 		"abr": "uncookedgourmetsoup",
 		"price": 625,
 		"category": "Uncooked soups",
@@ -8407,22 +6481,10 @@
 		"defname": "VCE_UncookedSoupLavish"
 	},
 	{
-		"abr": "uncookedlavishstew",
-		"price": 500,
-		"category": "Uncooked stew",
-		"defname": "VCE_UncookedStewLavish"
-	},
-	{
 		"abr": "uncookedsimplesoup",
 		"price": 200,
 		"category": "Uncooked soups",
 		"defname": "VCE_UncookedSoupSimple"
-	},
-	{
-		"abr": "uncookedsimplestew",
-		"price": 200,
-		"category": "Uncooked stew",
-		"defname": "VCE_UncookedStewSimple"
 	},
 	{
 		"abr": "unfermentedcider",
@@ -8431,50 +6493,8 @@
 		"defname": "VBE_UnfermentedCider"
 	},
 	{
-		"abr": "unhook",
-		"price": 38,
-		"category": "Medical Supplements",
-		"defname": "MSUnhook"
-	},
-	{
-		"abr": "unionjack",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAY"
-	},
-	{
-		"abr": "unionjack",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBY"
-	},
-	{
-		"abr": "unscbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAA"
-	},
-	{
-		"abr": "unscflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBA"
-	},
-	{
-		"abr": "uscmfatigues",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Fatigues"
-	},
-	{
-		"abr": "uscmstandardarmamement",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_USCM_StandardGear"
-	},
-	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -8491,18 +6511,6 @@
 		"defname": "VenomTalon"
 	},
 	{
-		"abr": "vinacol",
-		"price": 57,
-		"category": "Medical Supplements",
-		"defname": "MSVinacol"
-	},
-	{
-		"abr": "vinkaalkaloid",
-		"price": 12,
-		"category": "Medical Supplements Resources",
-		"defname": "MSVincaAlkaloid"
-	},
-	{
 		"abr": "vitalscentre",
 		"price": 1125,
 		"category": "Misc",
@@ -8516,7 +6524,7 @@
 	},
 	{
 		"abr": "vodka",
-		"price": 13,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "VBE_Vodka"
 	},
@@ -8539,12 +6547,6 @@
 		"defname": "VBE_WakeUpPowder"
 	},
 	{
-		"abr": "wallfirefoampopper",
-		"price": 177,
-		"category": "Furniture",
-		"defname": "SadjuukFirefoamPopper"
-	},
-	{
 		"abr": "walrus",
 		"price": 917,
 		"category": "Animal",
@@ -8555,12 +6557,6 @@
 		"price": 133,
 		"category": "Items",
 		"defname": "AEXP_WalrusTusk"
-	},
-	{
-		"abr": "warbandana",
-		"price": 58,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Bandana"
 	},
 	{
 		"abr": "wardrobe",
@@ -8581,12 +6577,6 @@
 		"defname": "LWM_WeaponsLocker"
 	},
 	{
-		"abr": "weldingrobot",
-		"price": 1883,
-		"category": "Misc",
-		"defname": "SadjuukWeldingRobot"
-	},
-	{
 		"abr": "whiskey",
 		"price": 50,
 		"category": "Drugs",
@@ -8605,90 +6595,6 @@
 		"defname": "VBE_WhiskeyMash"
 	},
 	{
-		"abr": "whitebanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAL"
-	},
-	{
-		"abr": "whiteflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBL"
-	},
-	{
-		"abr": "whitelight",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightBW"
-	},
-	{
-		"abr": "whitelight",
-		"price": 29,
-		"category": "Furniture",
-		"defname": "SadjuukLightCW"
-	},
-	{
-		"abr": "whitelight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightFW"
-	},
-	{
-		"abr": "whitelight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightGW"
-	},
-	{
-		"abr": "whitestreetlight",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightAW"
-	},
-	{
-		"abr": "whitestreetlight",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightBW"
-	},
-	{
-		"abr": "whitetorch",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightAW"
-	},
-	{
-		"abr": "whitetorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightDW"
-	},
-	{
-		"abr": "whitetorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightEW"
-	},
-	{
-		"abr": "whitewalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAW"
-	},
-	{
-		"abr": "whitewalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBW"
-	},
-	{
-		"abr": "whitewalllight",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCW"
-	},
-	{
 		"abr": "wildebeest",
 		"price": 567,
 		"category": "Animal",
@@ -8701,202 +6607,16 @@
 		"defname": "AEXP_Leather_Wildebeest"
 	},
 	{
-		"abr": "wire",
-		"price": 1,
-		"category": "Manufactured",
-		"defname": "SadjuukWire"
-	},
-	{
-		"abr": "woodlogsarmchair",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "SadjuukChairCA"
-	},
-	{
-		"abr": "woodlogsbed",
-		"price": 42,
-		"category": "Furniture",
-		"defname": "SadjuukBedAA"
-	},
-	{
-		"abr": "woodlogschair",
-		"price": 25,
-		"category": "Furniture",
-		"defname": "SadjuukChairAA"
-	},
-	{
-		"abr": "woodlogsmeetingtable",
-		"price": 59,
-		"category": "Furniture",
-		"defname": "SadjuukTableFA"
-	},
-	{
-		"abr": "woodlogsstool",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukChairBA"
-	},
-	{
-		"abr": "woodlogstable",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukTableAA"
-	},
-	{
-		"abr": "woodlogstable",
-		"price": 45,
-		"category": "Furniture",
-		"defname": "SadjuukTableBA"
-	},
-	{
-		"abr": "woodlogstable",
-		"price": 68,
-		"category": "Furniture",
-		"defname": "SadjuukTableCA"
-	},
-	{
-		"abr": "woodlogstable",
-		"price": 51,
-		"category": "Furniture",
-		"defname": "SadjuukTableDA"
-	},
-	{
-		"abr": "woodlogstable",
-		"price": 76,
-		"category": "Furniture",
-		"defname": "SadjuukTableEA"
-	},
-	{
-		"abr": "woodplankarmchair",
-		"price": 492,
-		"category": "Furniture",
-		"defname": "SadjuukChairCB"
-	},
-	{
-		"abr": "woodplankchair",
-		"price": 31,
-		"category": "Furniture",
-		"defname": "SadjuukChairAB"
-	},
-	{
-		"abr": "woodplankmeetingtable",
-		"price": 4333,
-		"category": "Furniture",
-		"defname": "SadjuukTableFB"
-	},
-	{
-		"abr": "woodplankstool",
-		"price": 15,
-		"category": "Furniture",
-		"defname": "SadjuukChairBB"
-	},
-	{
-		"abr": "woodplanktable",
-		"price": 25,
-		"category": "Furniture",
-		"defname": "SadjuukTableAB"
-	},
-	{
-		"abr": "woodplanktable",
-		"price": 51,
-		"category": "Furniture",
-		"defname": "SadjuukTableBB"
-	},
-	{
-		"abr": "woodplanktable",
-		"price": 76,
-		"category": "Furniture",
-		"defname": "SadjuukTableCB"
-	},
-	{
-		"abr": "woodplanktable",
-		"price": 102,
-		"category": "Furniture",
-		"defname": "SadjuukTableDB"
-	},
-	{
-		"abr": "woodplanktable",
-		"price": 152,
-		"category": "Furniture",
-		"defname": "SadjuukTableEB"
-	},
-	{
 		"abr": "woodenarmor",
 		"price": 220,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_WoodenArmor"
 	},
 	{
-		"abr": "woodenbed",
-		"price": 185,
-		"category": "Furniture",
-		"defname": "SadjuukBedAB"
-	},
-	{
-		"abr": "woodenchest",
-		"price": 23,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureAA"
-	},
-	{
-		"abr": "woodenmedicalbed",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "SadjuukSurgeryBB"
-	},
-	{
-		"abr": "woodennightstand",
-		"price": 46,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureAB"
-	},
-	{
-		"abr": "woodenpallet",
-		"price": 10,
-		"category": "Furniture",
-		"defname": "SadjuukWoodenPallet"
-	},
-	{
-		"abr": "woodenstorage",
-		"price": 56,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureBA"
-	},
-	{
-		"abr": "woodenwardrobe",
-		"price": 112,
-		"category": "Furniture",
-		"defname": "SadjuukFurnitureBB"
-	},
-	{
 		"abr": "x-1cyberneticbodydefensesuit",
 		"price": 3333,
 		"category": "Apparel",
 		"defname": "Apparel_CyberSuit"
-	},
-	{
-		"abr": "xenomorphcarapace",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_Xenomorph_Shell"
-	},
-	{
-		"abr": "xenomorphleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Xenomorph"
-	},
-	{
-		"abr": "xenomorphtailspike",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_Xenomorph_TailSpike"
-	},
-	{
-		"abr": "xenomorph-tailspear",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "AvP_MeleeWeapon_XenoSpear"
 	},
 	{
 		"abr": "xma-1leviathanmcahelmet",
@@ -8909,198 +6629,6 @@
 		"price": 8333,
 		"category": "Apparel",
 		"defname": "Apparel_Leviathan"
-	},
-	{
-		"abr": "yautja",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Alien_Yautja"
-	},
-	{
-		"abr": "yautjabiomask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMask"
-	},
-	{
-		"abr": "yautjabladedmaul",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "AvP_Yautja_Melee_BladedMaul"
-	},
-	{
-		"abr": "yautjabloodingcasket",
-		"price": -10,
-		"category": "Misc",
-		"defname": "AvP_Yautja_CryptosleepCasket_Tribute_XenoEgg"
-	},
-	{
-		"abr": "yautjacompoundbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Compound_Bow"
-	},
-	{
-		"abr": "yautjaheavychestplate",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateHeavy"
-	},
-	{
-		"abr": "yautjahunterchestplate",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Chestplate"
-	},
-	{
-		"abr": "yautjahuntergreaves",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Greaves"
-	},
-	{
-		"abr": "yautjahuntingbow",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Hunting_Bow"
-	},
-	{
-		"abr": "yautjaleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Yautja"
-	},
-	{
-		"abr": "yautjalightbiomask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskLight"
-	},
-	{
-		"abr": "yautjalightchestplate",
-		"price": -10,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateLight"
-	},
-	{
-		"abr": "yautjamachiningtable",
-		"price": -10,
-		"category": "Production",
-		"defname": "AvP_Yautja_TableMachining"
-	},
-	{
-		"abr": "yautjameat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Alien_Yautja"
-	},
-	{
-		"abr": "yautjasmartdisk",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_SmartDisk"
-	},
-	{
-		"abr": "yautjasurvivalmesh",
-		"price": -10,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_ThermalMesh"
-	},
-	{
-		"abr": "yautjatribalmask",
-		"price": -10,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Apparel_TribalMask"
-	},
-	{
-		"abr": "yautjavest",
-		"price": -10,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_HunterVest"
-	},
-	{
-		"abr": "yellowbanner",
-		"price": 64,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerAJ"
-	},
-	{
-		"abr": "yellowflag",
-		"price": 34,
-		"category": "Furniture",
-		"defname": "SadjuukHighBannerBJ"
-	},
-	{
-		"abr": "yellowlight",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightBY"
-	},
-	{
-		"abr": "yellowlight",
-		"price": 29,
-		"category": "Furniture",
-		"defname": "SadjuukLightCY"
-	},
-	{
-		"abr": "yellowlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightFY"
-	},
-	{
-		"abr": "yellowlight",
-		"price": 62,
-		"category": "Furniture",
-		"defname": "SadjuukLightGY"
-	},
-	{
-		"abr": "yellowstreetlight",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightAY"
-	},
-	{
-		"abr": "yellowstreetlight",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightBY"
-	},
-	{
-		"abr": "yellowtorch",
-		"price": 18,
-		"category": "Furniture",
-		"defname": "SadjuukLightAY"
-	},
-	{
-		"abr": "yellowtorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightDY"
-	},
-	{
-		"abr": "yellowtorch",
-		"price": 75,
-		"category": "Furniture",
-		"defname": "SadjuukLightEY"
-	},
-	{
-		"abr": "yellowwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAY"
-	},
-	{
-		"abr": "yellowwalllight",
-		"price": 13,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBY"
-	},
-	{
-		"abr": "yellowwalllight",
-		"price": 17,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCY"
 	},
 	{
 		"abr": "zebra",
@@ -9266,37 +6794,37 @@
 	},
 	{
 		"abr": "archotechfinger",
-		"price": 500,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechFinger"
 	},
 	{
 		"abr": "archotechfoot",
-		"price": 2250,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechFoot"
 	},
 	{
 		"abr": "archotechforearm",
-		"price": 3500,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechForearm"
 	},
 	{
 		"abr": "archotechhand",
-		"price": 2000,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechHand"
 	},
 	{
 		"abr": "archotechinternalsupport",
-		"price": 583,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechInternalSupport"
 	},
 	{
 		"abr": "archotechtoe",
-		"price": 333,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "ArchotechToe"
 	},
@@ -9445,569 +6973,41 @@
 		"defname": "EPIA_CircadianRefresher"
 	},
 	{
-		"abr": "circuitbreaker",
-		"price": 278,
-		"category": "Power",
-		"defname": "Building_RTCircuitBreaker"
+		"abr": "accelerator",
+		"price": 2500,
+		"category": "Cyborg weaponry",
+		"defname": "CW_Accelerator"
 	},
 	{
-		"abr": "coagulatorribreplacement",
-		"price": 1142,
-		"category": "Bionic",
-		"defname": "CoagulatorRib"
+		"abr": "advancedbedintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedBedIntegrator"
 	},
 	{
-		"abr": "coolingribreplacement",
-		"price": 808,
-		"category": "Bionic",
-		"defname": "CoolerRib"
+		"abr": "advancedglitternetprocessor",
+		"price": 16758,
+		"category": "Buildings",
+		"defname": "GNAdvancedGlitterNetProcessor"
 	},
 	{
-		"abr": "damagedscytherblade",
-		"price": 33,
-		"category": "Manufactured",
-		"defname": "EPOE_DamagedScytherBlade"
+		"abr": "advancedmedicalintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedMedicalIntegrator"
 	},
 	{
-		"abr": "detoxifierenhancer",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "EPOE_DetoxifierEnhancer"
+		"abr": "advancedpowerintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedPowerIntegrator"
 	},
 	{
-		"abr": "druggedribreplacement",
-		"price": 958,
-		"category": "Bionic",
-		"defname": "DruggedRib"
-	},
-	{
-		"abr": "ear",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Ear"
-	},
-	{
-		"abr": "exoskeletonsuit",
-		"price": 4400,
-		"category": "Ultratech",
-		"defname": "ExoskeletonSuit"
-	},
-	{
-		"abr": "eyeball",
-		"price": 667,
-		"category": "Natural",
-		"defname": "Eye"
-	},
-	{
-		"abr": "femur",
-		"price": 33,
-		"category": "Natural",
-		"defname": "Femur"
-	},
-	{
-		"abr": "fieldfinger",
-		"price": 92,
-		"category": "Prosthetic",
-		"defname": "FieldFinger"
-	},
-	{
-		"abr": "goldeneye",
-		"price": 26,
-		"category": "Prosthetic",
-		"defname": "GoldenEye"
-	},
-	{
-		"abr": "heatingribreplacement",
-		"price": 808,
-		"category": "Bionic",
-		"defname": "HeaterRib"
-	},
-	{
-		"abr": "hookhand",
-		"price": 31,
-		"category": "Prosthetic",
-		"defname": "HookHand"
-	},
-	{
-		"abr": "humerus",
-		"price": 33,
-		"category": "Natural",
-		"defname": "Humerus"
-	},
-	{
-		"abr": "hydraulicjaw",
-		"price": 375,
-		"category": "Prosthetic",
-		"defname": "HydraulicJaw"
-	},
-	{
-		"abr": "instinctoptimizingnanobots",
-		"price": 1992,
-		"category": "Organic optimizer",
-		"defname": "EPOE_InstinctOptimizingNanobots"
-	},
-	{
-		"abr": "jaw",
-		"price": 417,
-		"category": "Natural",
-		"defname": "Jaw"
-	},
-	{
-		"abr": "leg",
-		"price": 1250,
-		"category": "Natural",
-		"defname": "Leg"
-	},
-	{
-		"abr": "lightreceptor",
-		"price": 400,
-		"category": "Prosthetic",
-		"defname": "LightReceptor"
-	},
-	{
-		"abr": "ma-aichip",
-		"price": 725,
-		"category": "Manufactured",
-		"defname": "EPOE_MAAI_Chip"
-	},
-	{
-		"abr": "makeshiftfuse",
-		"price": 120,
-		"category": "Power",
-		"defname": "Building_RTMakeshiftFuse"
-	},
-	{
-		"abr": "mechanicalfinger",
-		"price": 69,
-		"category": "Prosthetic",
-		"defname": "MechanicalFinger"
-	},
-	{
-		"abr": "mechanicalinternalsupport",
-		"price": 264,
-		"category": "Prosthetic",
-		"defname": "MechanicalInternalSupport"
-	},
-	{
-		"abr": "mechanicalmanipulator",
-		"price": 212,
-		"category": "Prosthetic",
-		"defname": "MechanicalManipulator"
-	},
-	{
-		"abr": "medicalribreplacement",
-		"price": 1025,
-		"category": "Bionic",
-		"defname": "MedicalRib"
-	},
-	{
-		"abr": "meleeplatformmodule",
-		"price": 1075,
-		"category": "Prosthetic",
-		"defname": "MSE_MeleePlatformModule"
-	},
-	{
-		"abr": "musclestimulator",
-		"price": 1725,
-		"category": "Bionic",
-		"defname": "MuscleStimulator"
-	},
-	{
-		"abr": "mutantfinger",
-		"price": 10,
-		"category": "Natural",
-		"defname": "AA_MutantFinger"
-	},
-	{
-		"abr": "mutantfoot",
-		"price": 50,
-		"category": "Natural",
-		"defname": "AA_MutantFoot"
-	},
-	{
-		"abr": "mutanthand",
-		"price": 50,
-		"category": "Natural",
-		"defname": "AA_MutantHand"
-	},
-	{
-		"abr": "mutanttoe",
-		"price": 10,
-		"category": "Natural",
-		"defname": "AA_MutantToe"
-	},
-	{
-		"abr": "neuro-cureframework",
-		"price": 3133,
-		"category": "Ultratech",
-		"defname": "NeurocureFramework"
-	},
-	{
-		"abr": "neuromuscularframework",
-		"price": 2283,
-		"category": "Bionic",
-		"defname": "NeuromuscularFramework"
-	},
-	{
-		"abr": "nose",
-		"price": 167,
-		"category": "Natural",
-		"defname": "Nose"
-	},
-	{
-		"abr": "organicoptimizingnanobots",
-		"price": 1683,
-		"category": "Organic optimizer",
-		"defname": "EPOE_OrganicOptimizingNanobots"
-	},
-	{
-		"abr": "painkillerribreplacement",
-		"price": 1167,
-		"category": "Bionic",
-		"defname": "PainkillerRib"
-	},
-	{
-		"abr": "plasteelclavicle",
-		"price": 231,
-		"category": "Bionic",
-		"defname": "PlasteelClavicle"
-	},
-	{
-		"abr": "plasteelfemur",
-		"price": 383,
-		"category": "Bionic",
-		"defname": "PlasteelFemur"
-	},
-	{
-		"abr": "plasteelhumerus",
-		"price": 383,
-		"category": "Bionic",
-		"defname": "PlasteelHumerus"
-	},
-	{
-		"abr": "plasteelradius",
-		"price": 383,
-		"category": "Bionic",
-		"defname": "PlasteelRadius"
-	},
-	{
-		"abr": "plasteeltibia",
-		"price": 383,
-		"category": "Bionic",
-		"defname": "PlasteelTibia"
-	},
-	{
-		"abr": "powerarm",
-		"price": 2892,
-		"category": "Bionic",
-		"defname": "PowerArm"
-	},
-	{
-		"abr": "powerforearm",
-		"price": 2117,
-		"category": "Bionic",
-		"defname": "PowerForearm"
-	},
-	{
-		"abr": "powerhand",
-		"price": 1758,
-		"category": "Bionic",
-		"defname": "PowerHand"
-	},
-	{
-		"abr": "prostheticclavicle",
-		"price": 104,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticClavicle"
-	},
-	{
-		"abr": "prostheticfemur",
-		"price": 119,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticFemur"
-	},
-	{
-		"abr": "prostheticfinger",
-		"price": 34,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticFinger"
-	},
-	{
-		"abr": "prostheticfoot",
-		"price": 290,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticFoot"
-	},
-	{
-		"abr": "prosthetichand",
-		"price": 290,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticHand"
-	},
-	{
-		"abr": "prosthetichumerus",
-		"price": 119,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticHumerus"
-	},
-	{
-		"abr": "prostheticradius",
-		"price": 119,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticRadius"
-	},
-	{
-		"abr": "prosthetictibia",
-		"price": 119,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticTibia"
-	},
-	{
-		"abr": "prosthetictoe",
-		"price": 34,
-		"category": "Prosthetic",
-		"defname": "SimpleProstheticToe"
-	},
-	{
-		"abr": "prostheticworkbench",
-		"price": 700,
-		"category": "Production",
-		"defname": "TableSimpleProsthetic"
-	},
-	{
-		"abr": "protectiveexoskeleton",
-		"price": 5708,
-		"category": "Ultratech",
-		"defname": "EPIA_ProtectiveExoskeleton"
-	},
-	{
-		"abr": "radius",
-		"price": 33,
-		"category": "Natural",
-		"defname": "Radius"
-	},
-	{
-		"abr": "rangedplatformmodule",
-		"price": 1075,
-		"category": "Prosthetic",
-		"defname": "MSE_RangedPlatformModule"
-	},
-	{
-		"abr": "replacementradius",
-		"price": 525,
-		"category": "Prosthetic",
-		"defname": "ReplacementRadius"
-	},
-	{
-		"abr": "replacementspine",
-		"price": 408,
-		"category": "Prosthetic",
-		"defname": "SimpleSpine"
-	},
-	{
-		"abr": "scytherblade",
-		"price": 324,
-		"category": "Prosthetic",
-		"defname": "EPIA_ScytherBlade"
-	},
-	{
-		"abr": "silentjaw",
-		"price": 958,
-		"category": "Bionic",
-		"defname": "SilentJaw"
-	},
-	{
-		"abr": "steelarm",
-		"price": 173,
-		"category": "Prosthetic",
-		"defname": "SteelArm"
-	},
-	{
-		"abr": "stomach",
-		"price": 833,
-		"category": "Natural",
-		"defname": "Stomach"
-	},
-	{
-		"abr": "surrogatekidney",
-		"price": 417,
-		"category": "Prosthetic",
-		"defname": "SurrogateKidney"
-	},
-	{
-		"abr": "surrogateliver",
-		"price": 417,
-		"category": "Prosthetic",
-		"defname": "SurrogateLiver"
-	},
-	{
-		"abr": "surrogatelung",
-		"price": 417,
-		"category": "Prosthetic",
-		"defname": "SurrogateLung"
-	},
-	{
-		"abr": "surrogatestomach",
-		"price": 417,
-		"category": "Prosthetic",
-		"defname": "SurrogateStomach"
-	},
-	{
-		"abr": "syntheticdetoxifierliver",
-		"price": 3342,
-		"category": "Bionic",
-		"defname": "EPOE_DetoxifierSyntheticLiver"
-	},
-	{
-		"abr": "syntheticimmunoenhancedkidney",
-		"price": 3342,
-		"category": "Bionic",
-		"defname": "EPOE_ImmunoenhancerSyntheticKidney"
-	},
-	{
-		"abr": "synthetickidney",
-		"price": 1208,
-		"category": "Bionic",
-		"defname": "SyntheticKidney"
-	},
-	{
-		"abr": "syntheticliver",
-		"price": 1208,
-		"category": "Bionic",
-		"defname": "SyntheticLiver"
-	},
-	{
-		"abr": "syntheticlung",
-		"price": 1208,
-		"category": "Bionic",
-		"defname": "SyntheticLung"
-	},
-	{
-		"abr": "synthetictissue",
-		"price": 204,
-		"category": "Bionic",
-		"defname": "SyntheticSkin"
-	},
-	{
-		"abr": "tacticalcorneaimplant",
-		"price": 3700,
-		"category": "Ultratech",
-		"defname": "TacticalCorneaImplant"
-	},
-	{
-		"abr": "techprint(advancedcompactweaponry)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_EPOE_AdvancedCompactWeaponry"
-	},
-	{
-		"abr": "techprint(advancedspecializedlimbs)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_EPOE_AdvancedSpecializedLimbs"
-	},
-	{
-		"abr": "techprint(syntheticorganintegration)",
-		"price": 3333,
-		"category": "Techprints",
-		"defname": "Techprint_EPOE_SyntheticOrgansIntegration"
-	},
-	{
-		"abr": "tibia",
-		"price": 33,
-		"category": "Natural",
-		"defname": "Tibia"
-	},
-	{
-		"abr": "tissueprinter",
-		"price": 1125,
-		"category": "Production",
-		"defname": "TableOrgans"
-	},
-	{
-		"abr": "walllight",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLight"
-	},
-	{
-		"abr": "walllight(azure)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightAzure"
-	},
-	{
-		"abr": "walllight(blue)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightBlue"
-	},
-	{
-		"abr": "walllight(chartreuse)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightChartreuse"
-	},
-	{
-		"abr": "walllight(cyan)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightCyan"
-	},
-	{
-		"abr": "walllight(green)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightGreen"
-	},
-	{
-		"abr": "walllight(magenta)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightMagenta"
-	},
-	{
-		"abr": "walllight(orange)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightOrange"
-	},
-	{
-		"abr": "walllight(red)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRed"
-	},
-	{
-		"abr": "walllight(rose)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightRose"
-	},
-	{
-		"abr": "walllight(springgreen)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightSpringGreen"
-	},
-	{
-		"abr": "walllight(violet)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightViolet"
-	},
-	{
-		"abr": "walllight(yellow)",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallLightYellow"
-	},
-	{
-		"abr": "wallsunlight",
-		"price": 16,
-		"category": "Furniture",
-		"defname": "Lighting_MURWallSunLight"
+		"abr": "advancedresearchintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedResearchIntegrator"
 	}
 	],
-	"total": 1668
+	"total": 1579
 }
