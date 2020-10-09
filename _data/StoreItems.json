@@ -136,7 +136,7 @@
       "abr": "bench",
       "category": "Furniture",
       "defname": "Seat_Bench",
-      "price": 86
+      "price": 186
     },
     {
       "abr": "berries",
@@ -946,7 +946,7 @@
       "abr": "megascarab",
       "category": "Animal",
       "defname": "Megascarab",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "megasloth",
@@ -1450,7 +1450,7 @@
       "abr": "spelopede",
       "category": "Animal",
       "defname": "Spelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "spiketrap",
@@ -1912,7 +1912,7 @@
       "abr": "blackspelopede",
       "category": "Animal",
       "defname": "AA_BlackSpelopede",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "blackspider",
@@ -3484,19 +3484,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechshieldgenerator",
@@ -4330,7 +4330,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "gloomlight",
@@ -4558,13 +4558,13 @@
       "abr": "infernocannon",
       "category": "Ranged weapons",
       "defname": "Gun_InfernoCannon",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "infernocannon",
       "category": "Ranged weapons",
       "defname": "Gun_InfernoCannonTurret",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "infinitechemreactor",
@@ -4888,7 +4888,7 @@
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "orbitaltradebeacon",
@@ -5722,7 +5722,7 @@
       "abr": "berserkerchip",
       "category": "Cyborg",
       "defname": "ANN_BerserkerChip",
-      "price": 5250
+      "price": 10250
     },
     {
       "abr": "biolabsunlamp",
@@ -5758,7 +5758,7 @@
       "abr": "combatai",
       "category": "Cyborg",
       "defname": "ANN_CombatAI",
-      "price": 8125
+      "price": 12125
     },
     {
       "abr": "combatdummy",
@@ -5932,7 +5932,7 @@
       "abr": "heavyshieldbelt",
       "category": "Apparel",
       "defname": "Apparel_HeavyShieldBelt",
-      "price": 1025
+      "price": 3025
     },
     {
       "abr": "helixiengassmelter",
@@ -6106,7 +6106,7 @@
       "abr": "musechip",
       "category": "Cyborg",
       "defname": "ANN_MuseChip",
-      "price": 6458
+      "price": 8458
     },
     {
       "abr": "neuroenhancer",
@@ -6118,7 +6118,7 @@
       "abr": "neuromodbooster",
       "category": "Mind",
       "defname": "ANN_NeuromodBooster",
-      "price": 1833
+      "price": 15833
     },
     {
       "abr": "orbitaltradecolumn",
@@ -6160,7 +6160,7 @@
       "abr": "powerarms",
       "category": "Cyborg",
       "defname": "ANN_PowerArms",
-      "price": 7917
+      "price": 15917
     },
     {
       "abr": "quick-rechargeshieldbelt",
@@ -6646,7 +6646,7 @@
       "abr": "zoom",
       "category": "Cyborg",
       "defname": "ANN_Zoom",
-      "price": 2333
+      "price": 6333
     },
     {
       "abr": "adrenalineribreplacement",
@@ -6760,7 +6760,7 @@
       "abr": "advancedmeleeplatformmodule",
       "category": "Prosthetic",
       "defname": "MSE_AdvancedMeleePlatformModule",
-      "price": 2100
+      "price": 10100
     },
     {
       "abr": "advancedpowerarm",
@@ -6784,7 +6784,7 @@
       "abr": "advancedrangedplatformmodule",
       "category": "Prosthetic",
       "defname": "MSE_AdvancedRangedPlatformModule",
-      "price": 2100
+      "price": 10100
     },
     {
       "abr": "aichip",
@@ -6796,25 +6796,25 @@
       "abr": "archotechfinger",
       "category": "Archotech",
       "defname": "ArchotechFinger",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "archotechfoot",
       "category": "Archotech",
       "defname": "ArchotechFoot",
-      "price": -10
+      "price": 2250
     },
     {
       "abr": "archotechforearm",
       "category": "Archotech",
       "defname": "ArchotechForearm",
-      "price": -10
+      "price": 3500
     },
     {
       "abr": "archotechhand",
       "category": "Archotech",
       "defname": "ArchotechHand",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "archotechinternalsupport",
@@ -6976,7 +6976,7 @@
       "abr": "accelerator",
       "category": "Cyborg weaponry",
       "defname": "CW_Accelerator",
-      "price": 11500
+      "price": 8500
     },
     {
       "abr": "airthermal",
@@ -7030,7 +7030,7 @@
       "abr": "animalsbook",
       "category": "Books",
       "defname": "VBE_BookAnimals",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "antimatterblaster",
@@ -7060,25 +7060,25 @@
       "abr": "antimattergrenades",
       "category": "Grenades",
       "defname": "AntimatterGrenades_AA",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "antimatterrifle",
       "category": "Ranged weapons",
       "defname": "AntimatterRifle_AA",
-      "price": 4667
+      "price": 7667
     },
     {
       "abr": "antimattersmg",
       "category": "Ranged weapons",
       "defname": "AntimatterSMG_AA",
-      "price": 5333
+      "price": 11333
     },
     {
       "abr": "antimattersniperrifle",
       "category": "Ranged weapons",
       "defname": "AntimatterSniperRifle_AA",
-      "price": 4750
+      "price": 12750
     },
     {
       "abr": "apron",
@@ -7090,7 +7090,7 @@
       "abr": "artbook",
       "category": "Books",
       "defname": "VBE_BookArt",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "at45adisintegrator",
@@ -7102,7 +7102,7 @@
       "abr": "augsdreamer",
       "category": "Ranged weapons",
       "defname": "Gun_AUGS",
-      "price": 3125
+      "price": -10
     },
     {
       "abr": "b350atech",
@@ -7120,19 +7120,19 @@
       "abr": "ballisticcombatgun",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticCombatGun",
-      "price": 1667
+      "price": 4667
     },
     {
       "abr": "ballisticenforcer",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticEnforcer",
-      "price": 1667
+      "price": 4667
     },
     {
       "abr": "ballisticshredder",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticShredder",
-      "price": 1667
+      "price": 4667
     },
     {
       "abr": "bankvault",
@@ -7258,7 +7258,7 @@
       "abr": "chainsword",
       "category": "Cyborg weaponry",
       "defname": "CW_ChainSword",
-      "price": 2000
+      "price": 12000
     },
     {
       "abr": "chef'stoque",
@@ -7312,7 +7312,7 @@
       "abr": "coilgun",
       "category": "Cyborg weaponry",
       "defname": "CW_CoilGun",
-      "price": 2917
+      "price": 7917
     },
     {
       "abr": "compositerefiner",
@@ -7324,7 +7324,7 @@
       "abr": "constructionbook",
       "category": "Books",
       "defname": "VBE_BookConstruction",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "contractorhelmet",
@@ -7348,7 +7348,7 @@
       "abr": "cookingbook",
       "category": "Books",
       "defname": "VBE_BookCooking",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "coolingribreplacement",
@@ -7366,7 +7366,7 @@
       "abr": "craftingbook",
       "category": "Books",
       "defname": "VBE_BookCrafting",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "cratea",
@@ -7444,7 +7444,7 @@
       "abr": "disruptor",
       "category": "Cyborg weaponry",
       "defname": "CW_Disruptor",
-      "price": 3083
+      "price": 6083
     },
     {
       "abr": "doctorscrubs",
@@ -7462,7 +7462,7 @@
       "abr": "dualeraser",
       "category": "Cyborg weaponry",
       "defname": "CW_DualEraser",
-      "price": 2000
+      "price": 7000
     },
     {
       "abr": "dualrefrigerator",
@@ -7486,13 +7486,13 @@
       "abr": "energyclaw",
       "category": "Cyborg weaponry",
       "defname": "CW_EnergyClaw",
-      "price": 2000
+      "price": 25000
     },
     {
       "abr": "energysword",
       "category": "Cyborg weaponry",
       "defname": "CW_EnergySword",
-      "price": 2000
+      "price": 15000
     },
     {
       "abr": "exoskeletonsuit",
@@ -7540,43 +7540,43 @@
       "abr": "flowerarch",
       "category": "Furniture",
       "defname": "VFlowerarch",
-      "price": 98
+      "price": -10
     },
     {
       "abr": "flowerbed",
       "category": "Furniture",
       "defname": "VFlowerbed",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "flowerbedcornerandmiddle",
       "category": "Furniture",
       "defname": "VFlowerbedCM",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "flowerbedroundcorner",
       "category": "Furniture",
       "defname": "VFlowerbedCR",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "flowerbed",
       "category": "Furniture",
       "defname": "VeeFlowerbedB",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "flowers",
       "category": "Furniture",
       "defname": "VeeFlowers",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "flowers",
       "category": "Furniture",
       "defname": "VFlowersMiddle",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "galvaknuckles",
@@ -7618,13 +7618,13 @@
       "abr": "growingbook",
       "category": "Books",
       "defname": "VBE_BookGrowing",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "gunblade",
       "category": "Cyborg weaponry",
       "defname": "CW_GunBlade",
-      "price": 2000
+      "price": 5000
     },
     {
       "abr": "hardhat",
@@ -7636,7 +7636,7 @@
       "abr": "havoclauncher",
       "category": "Cyborg weaponry",
       "defname": "CW_HavocLauncher",
-      "price": 2225
+      "price": 8225
     },
     {
       "abr": "heatingribreplacement",
@@ -7786,7 +7786,7 @@
       "abr": "intellectualbook",
       "category": "Books",
       "defname": "VBE_BookIntellectual",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "jaw",
@@ -7906,19 +7906,19 @@
       "abr": "lnf35lshadow",
       "category": "Ranged weapons",
       "defname": "Gun_LNF35L",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "m168bspectre",
       "category": "Ranged weapons",
       "defname": "Gun_M168B",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "m340vwraith",
       "category": "Ranged weapons",
       "defname": "Gun_M340V",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "m34astalker",
@@ -7936,7 +7936,7 @@
       "abr": "m870cdisruptor",
       "category": "Ranged weapons",
       "defname": "Gun_M870C",
-      "price": 3250
+      "price": 8250
     },
     {
       "abr": "ma-aichip",
@@ -7972,7 +7972,7 @@
       "abr": "mbd",
       "category": "Security",
       "defname": "Turret_MBD_AA",
-      "price": 5567
+      "price": -10
     },
     {
       "abr": "mechanicalfinger",
@@ -8002,7 +8002,7 @@
       "abr": "medicalbook",
       "category": "Books",
       "defname": "VBE_BookMedical",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "medicalribreplacement",
@@ -8014,13 +8014,13 @@
       "abr": "meleebook",
       "category": "Books",
       "defname": "VBE_BookMelee",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "meleeplatformmodule",
       "category": "Prosthetic",
       "defname": "MSE_MeleePlatformModule",
-      "price": 1075
+      "price": 5075
     },
     {
       "abr": "metalcrate",
@@ -8116,7 +8116,7 @@
       "abr": "miningbook",
       "category": "Books",
       "defname": "VBE_BookMining",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "ml237sdevastator",
@@ -8194,7 +8194,7 @@
       "abr": "napalmblaster",
       "category": "Cyborg weaponry",
       "defname": "CW_NapalmBlaster",
-      "price": 1667
+      "price": 4667
     },
     {
       "abr": "neuro-cureframework",
@@ -8284,7 +8284,7 @@
       "abr": "plasmagun",
       "category": "Cyborg weaponry",
       "defname": "CW_PlasmaGun",
-      "price": 2917
+      "price": 15917
     },
     {
       "abr": "plasteelclavicle",
@@ -8326,7 +8326,7 @@
       "abr": "porterotterhat",
       "category": "Headgear",
       "defname": "DSApparel_POR_Otterhat",
-      "price": 3533
+      "price": 10533
     },
     {
       "abr": "porterprod",
@@ -8356,7 +8356,7 @@
       "abr": "powerfist",
       "category": "Cyborg weaponry",
       "defname": "CW_PowerFist",
-      "price": 2000
+      "price": 7000
     },
     {
       "abr": "powerforearm",
@@ -8476,7 +8476,7 @@
       "abr": "rangedplatformmodule",
       "category": "Prosthetic",
       "defname": "MSE_RangedPlatformModule",
-      "price": 1075
+      "price": 5075
     },
     {
       "abr": "reactorinjector",
@@ -8494,7 +8494,7 @@
       "abr": "reconbolter",
       "category": "Cyborg weaponry",
       "defname": "CW_ReconBolter",
-      "price": 3333
+      "price": 9333
     },
     {
       "abr": "replacementradius",
@@ -8584,7 +8584,7 @@
       "abr": "riotbreaker",
       "category": "Cyborg weaponry",
       "defname": "CW_RiotBreaker",
-      "price": 1667
+      "price": 3667
     },
     {
       "abr": "safe",
@@ -8686,7 +8686,7 @@
       "abr": "shootingbook",
       "category": "Books",
       "defname": "VBE_BookShooting",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "shorts",
@@ -8746,7 +8746,7 @@
       "abr": "socialbook",
       "category": "Books",
       "defname": "VBE_BookSocial",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "squareshelf",
@@ -9401,7 +9401,19 @@
       "category": "Furniture",
       "defname": "GLWallLamp_Yellow",
       "price": -10
+    },
+    {
+      "abr": "cannedfruit",
+      "category": "Meals",
+      "defname": "VCE_CannedFruit",
+      "price": 2
+    },
+    {
+      "abr": "autopsytable",
+      "category": "Production",
+      "defname": "TableAutopsy",
+      "price": 400
     }
   ],
-  "total": 1567
+  "total": 1569
 }
