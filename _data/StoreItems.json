@@ -3484,19 +3484,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechshieldgenerator",
@@ -5854,7 +5854,7 @@
       "abr": "energycore",
       "category": "Cyborg",
       "defname": "ANN_EnergyCore",
-      "price": 7875
+      "price": 10005
     },
     {
       "abr": "energyfist",
@@ -5866,7 +5866,7 @@
       "abr": "energylink",
       "category": "Cyborg",
       "defname": "ANN_EnergyLink",
-      "price": 7792
+      "price": 10792
     },
     {
       "abr": "exoskeletonarmor",
@@ -6136,7 +6136,7 @@
       "abr": "outerblade",
       "category": "Cyborg",
       "defname": "ANN_OuterBlade",
-      "price": 7292
+      "price": 10292
     },
     {
       "abr": "passiongiver",
@@ -6796,25 +6796,25 @@
       "abr": "archotechfinger",
       "category": "Archotech",
       "defname": "ArchotechFinger",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "archotechfoot",
       "category": "Archotech",
       "defname": "ArchotechFoot",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "archotechforearm",
       "category": "Archotech",
       "defname": "ArchotechForearm",
-      "price": 3500
+      "price": -10
     },
     {
       "abr": "archotechhand",
       "category": "Archotech",
       "defname": "ArchotechHand",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechinternalsupport",
@@ -7972,7 +7972,7 @@
       "abr": "mbd",
       "category": "Security",
       "defname": "Turret_MBD_AA",
-      "price": -10
+      "price": 30567
     },
     {
       "abr": "mechanicalfinger",
@@ -8512,7 +8512,7 @@
       "abr": "resonatingblade",
       "category": "Melee weapons",
       "defname": "ResonatingBlade_AA",
-      "price": 4625
+      "price": 10625
     },
     {
       "abr": "resourcescrate1",
@@ -8602,7 +8602,7 @@
       "abr": "scissorblade",
       "category": "Melee weapons",
       "defname": "ScissorBlade_AA",
-      "price": 3950
+      "price": 20950
     },
     {
       "abr": "scrsurvivalrifle",
@@ -8620,7 +8620,7 @@
       "abr": "secretsword",
       "category": "Melee weapons",
       "defname": "SecretSword_AA",
-      "price": -10
+      "price": 20800
     },
     {
       "abr": "shelfa(empty)",
@@ -9413,7 +9413,85 @@
       "category": "Production",
       "defname": "TableAutopsy",
       "price": 400
+    },
+    {
+      "abr": "andon",
+      "category": "Furniture",
+      "defname": "VBY_Andon",
+      "price": 63
+    },
+    {
+      "abr": "doubleofutonblossom",
+      "category": "Furniture",
+      "defname": "VBY_OfutonDoubleBlossom",
+      "price": 205
+    },
+    {
+      "abr": "doubleofutondragon",
+      "category": "Furniture",
+      "defname": "VBY_OfutonDoubleDragon",
+      "price": 205
+    },
+    {
+      "abr": "doubleofutonlines",
+      "category": "Furniture",
+      "defname": "VBY_OfutonDoubleLines",
+      "price": 205
+    },
+    {
+      "abr": "doubleofutonplain",
+      "category": "Furniture",
+      "defname": "VBY_OfutonDoublePlain",
+      "price": 205
+    },
+    {
+      "abr": "electricandon",
+      "category": "Furniture",
+      "defname": "VBY_AndonElec",
+      "price": 78
+    },
+    {
+      "abr": "ishidoro",
+      "category": "Art",
+      "defname": "VBY_Ishidoro",
+      "price": 145
+    },
+    {
+      "abr": "ofutonblossom",
+      "category": "Furniture",
+      "defname": "VBY_OfutonBlossom",
+      "price": 118
+    },
+    {
+      "abr": "ofutonsolidcolor",
+      "category": "Furniture",
+      "defname": "VBY_OfutonOne",
+      "price": 118
+    },
+    {
+      "abr": "ofutonstriped",
+      "category": "Furniture",
+      "defname": "VBY_OfutonTwo",
+      "price": 118
+    },
+    {
+      "abr": "ofutonwave",
+      "category": "Furniture",
+      "defname": "VBY_OfutonWave",
+      "price": 118
+    },
+    {
+      "abr": "rectanglechabudai",
+      "category": "Furniture",
+      "defname": "VBY_ChabudaiRect",
+      "price": 88
+    },
+    {
+      "abr": "roundchabudai",
+      "category": "Furniture",
+      "defname": "VBY_ChabudaiRound",
+      "price": 64
     }
   ],
-  "total": 1569
+  "total": 1582
 }
