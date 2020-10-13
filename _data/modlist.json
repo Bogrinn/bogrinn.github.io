@@ -48,16 +48,6 @@
     "version": "1.2"
   },
   {
-    "author": "K",
-    "name": "GlitterNet"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Doormats",
-    "steamId": "1508778962",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Mlie",
     "name": "Fences And Floors (Continued)"
   },
@@ -86,24 +76,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Ravvy",
-    "name": "[RWY]SRTS Expanded: The Crimson Fleet"
-  },
-  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Moloy559",
-    "name": "Moloy Traits"
   },
   {
     "author": "Meltup",
@@ -122,6 +98,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Expanded Floors"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   },
   {
     "author": "Wemd",
@@ -393,7 +375,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7568.35742"
+    "version": "1.0.7587.42481"
   },
   {
     "author": "Nandonalt, Tejko, Alias",
@@ -506,16 +488,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "1.3.7.0"
-  },
-  {
     "author": "zymex",
     "name": "No more sleeping Z's"
   },
@@ -621,7 +593,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.1.2"
+    "version": "1.1.3"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -708,12 +680,6 @@
     "name": "Let's Trade!"
   },
   {
-    "author": "Epicguru (James B)",
-    "name": "Antimatter Annihilation",
-    "steamId": "2113692574",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Trunken, Luizi",
     "name": "Cybernetic Warfare and Special Weapons (Continued)"
   },
@@ -722,14 +688,6 @@
     "name": "[KV] Consolidated Traits",
     "steamId": "1507384362",
     "version": "1.0.7516.1272"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons"
-  },
-  {
-    "author": "Latki(vee)",
-    "name": "Vee's decorating"
   },
   {
     "author": "Mlie",
@@ -744,12 +702,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Trader ships",
-    "steamId": "2046222331",
-    "version": "1.0.350.0854"
-  },
-  {
     "author": "SheiFoxy",
     "name": "SF Grim Reality"
   },
@@ -758,11 +710,85 @@
     "name": "Better Jump pack"
   },
   {
+    "author": "Epicguru (James B)",
+    "name": "Antimatter Annihilation",
+    "steamId": "2113692574",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Latki(vee)",
+    "name": "Vee's decorating"
+  },
+  {
     "author": "Roolo",
     "name": "Dual Wield"
   },
   {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics"
+  },
+  {
+    "author": "K",
+    "name": "PsiTech",
+    "steamId": "2078892294",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Stormtail",
+    "name": "PsiTech - Acolytes of the Storm"
+  },
+  {
+    "author": "tikubonn",
+    "name": "RainbowLamp[1.1-1.2]"
+  },
+  {
+    "author": "tikubonn",
+    "name": "RaibowWallLight[1.1-1.2]"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights"
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Alestria",
+    "name": "Vanilla Plants Expanded - Succulents"
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Velcroboy's Japanese Revival"
+  },
+  {
     "author": "Grimm",
     "name": "Un-Limited"
+  },
+  {
+    "author": "Wilbon",
+    "name": "SRTS Expanded: Trader Ships"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Jellypowered",
+    "name": "The Harvest"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.3.7.0"
   }
 ]
