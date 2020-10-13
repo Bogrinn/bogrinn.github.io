@@ -4786,7 +4786,7 @@
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": 1933
+      "price": 10073
     },
     {
       "abr": "mini-turret",
@@ -6616,19 +6616,19 @@
       "abr": "x-1cyberneticbodydefensesuit",
       "category": "Apparel",
       "defname": "Apparel_CyberSuit",
-      "price": 3333
+      "price": 8333
     },
     {
       "abr": "xma-1leviathanmcahelmet",
       "category": "Apparel",
       "defname": "Apparel_LeviathanH",
-      "price": 2500
+      "price": 10500
     },
     {
       "abr": "xma-1leviathanmechanizedcombatarmature",
       "category": "Apparel",
       "defname": "Apparel_Leviathan",
-      "price": 8333
+      "price": 20333
     },
     {
       "abr": "zebra",
@@ -9211,12 +9211,6 @@
       "price": -10
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "(old)ceilinglamp",
       "category": "Furniture",
       "defname": "CeilingLamp",
@@ -9491,7 +9485,61 @@
       "category": "Furniture",
       "defname": "VBY_ChabudaiRound",
       "price": 64
+    },
+    {
+      "abr": "sraf:canary",
+      "category": "Buildings",
+      "defname": "SRAF",
+      "price": 41208
+    },
+    {
+      "abr": "sraf:tek-7",
+      "category": "Buildings",
+      "defname": "SRAFTek",
+      "price": 63800
+    },
+    {
+      "abr": "srtsmk.i:skip",
+      "category": "Buildings",
+      "defname": "SRTSSkip",
+      "price": 18617
+    },
+    {
+      "abr": "srtsmk.ii:albatross",
+      "category": "Buildings",
+      "defname": "SRTSMkII",
+      "price": 60408
+    },
+    {
+      "abr": "srtsmk.iii:phoenix",
+      "category": "Buildings",
+      "defname": "SRTSMkIII",
+      "price": 105425
+    },
+    {
+      "abr": "srtsmk.iiip:pelican",
+      "category": "Buildings",
+      "defname": "SRTSMkIIIp",
+      "price": 122750
+    },
+    {
+      "abr": "srtsmk.iv:genesis",
+      "category": "Buildings",
+      "defname": "SRTSMkIV",
+      "price": 218617
+    },
+    {
+      "abr": "superpod",
+      "category": "Buildings",
+      "defname": "SRTSSuperpod",
+      "price": 14117
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1582
+  "total": 1590
 }
