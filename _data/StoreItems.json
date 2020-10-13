@@ -6658,7 +6658,7 @@
       "abr": "advancedbionicarm",
       "category": "Ultratech",
       "defname": "AdvancedBionicArm",
-      "price": 3408
+      "price": 12408
     },
     {
       "abr": "advancedbionicear",
@@ -7498,7 +7498,7 @@
       "abr": "exoskeletonsuit",
       "category": "Ultratech",
       "defname": "ExoskeletonSuit",
-      "price": 4400
+      "price": 12400
     },
     {
       "abr": "eyeball",
@@ -8440,7 +8440,7 @@
       "abr": "protectiveexoskeleton",
       "category": "Ultratech",
       "defname": "EPIA_ProtectiveExoskeleton",
-      "price": 5708
+      "price": 9708
     },
     {
       "abr": "protectoratearmor",
