@@ -6208,7 +6208,7 @@
       "abr": "shadowrunner",
       "category": "Cyborg",
       "defname": "ANN_Shadowrunner",
-      "price": 2458
+      "price": 10458
     },
     {
       "abr": "smallbattery",
@@ -7054,7 +7054,7 @@
       "abr": "antimattergrenadelauncher",
       "category": "Ranged weapons",
       "defname": "AntimatterGrenadeLauncher_AA",
-      "price": 5150
+      "price": 15150
     },
     {
       "abr": "antimattergrenades",
@@ -7732,7 +7732,7 @@
       "abr": "hyperalloy",
       "category": "Raw resources",
       "defname": "HyperAlloy_AA",
-      "price": 400
+      "price": 600
     },
     {
       "abr": "hypercomponent",
