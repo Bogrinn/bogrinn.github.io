@@ -242,29 +242,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": 1,
-      "name": "brave",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-50% suppressability"
-        ]
-      },
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.\n(Combat Extended)",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Brawler",
       "degree": 0,
       "name": "brawler",
@@ -280,9 +257,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance"
+          "+4.0 melee hit chance"
         ]
       },
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
@@ -290,9 +265,7 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -340,13 +313,13 @@
         "customName": false,
         "stats": [
           "+25% aiming time",
-          "x150% weapon handling"
+          "+5.0 shooting accuracy"
         ]
       },
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "x150% weapon handling"
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -461,29 +434,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": -1,
-      "name": "cowardly",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "+25% suppressability"
-        ]
-      },
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.\n(Combat Extended)",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "LC_Artisan",
       "degree": 1,
       "name": "crafter",
@@ -543,7 +493,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1000000000,
       "removePrice": 5500,
       "defName": "LC_Creative",
       "degree": 0,
@@ -701,14 +651,14 @@
         "stats": [
           "+2 melee",
           "+0.2 melee hit chance",
-          "+25% melee dodge chance"
+          "+0.3 melee dodge chance"
         ]
       },
       "description": "Timmy is skilled at fighting in close-quarters.\n(Cookie Traits)",
       "stats": [
         "+2 melee",
         "+0.2 melee hit chance",
-        "+25% melee dodge chance"
+        "+0.3 melee dodge chance"
       ],
       "conflicts": [
         "brawler",
@@ -782,29 +732,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": 2,
-      "name": "fearless",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-100% suppressability"
-        ]
-      },
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.\n(Combat Extended)",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "LC_Fighter",
       "degree": 3,
       "name": "fighter",
@@ -833,14 +760,14 @@
         "stats": [
           "+2 melee",
           "+0.20 melee DPS",
-          "+0.20 melee armor penetration"
+          "+20% melee armor penetration"
         ]
       },
       "description": "Timmy has a heavy hand to deliver pain to the enemies.\n(Cookie Traits)",
       "stats": [
         "+2 melee",
         "+0.20 melee DPS",
-        "+0.20 melee armor penetration"
+        "+20% melee armor penetration"
       ],
       "conflicts": [
         "brawler",
@@ -1030,14 +957,14 @@
         "stats": [
           "+2 shooting",
           "-20% aiming time",
-          "+0.2 weapon handling"
+          "+0.2 shooting accuracy"
         ]
       },
       "description": "Timmy is a crackshot with a gun - or any ranged weapon for that matter.\n(Cookie Traits)",
       "stats": [
         "+2 shooting",
         "-20% aiming time",
-        "+0.2 weapon handling"
+        "+0.2 shooting accuracy"
       ],
       "conflicts": [
         "duelist",
@@ -1524,9 +1451,9 @@
         "customName": false,
         "stats": [
           "+2.0 melee hit chance",
-          "+20% melee dodge chance",
+          "+0.2 melee dodge chance",
           "-20% aiming time",
-          "+0.3 weapon handling",
+          "+0.3 shooting accuracy",
           "-50% pain shock threshold",
           "-50% mental break threshold",
           "+50% medical tend quality",
@@ -1543,9 +1470,9 @@
       "description": "Timmy prefers to stay alone - and is very good at that.\n(Cookie Traits)",
       "stats": [
         "+2.0 melee hit chance",
-        "+20% melee dodge chance",
+        "+0.2 melee dodge chance",
         "-20% aiming time",
-        "+0.3 weapon handling",
+        "+0.3 shooting accuracy",
         "-50% pain shock threshold",
         "-50% mental break threshold",
         "+50% medical tend quality",
@@ -1914,13 +1841,13 @@
         "conflicts": [],
         "customName": false,
         "stats": [
-          "+50% melee dodge chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ]
       },
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+50% melee dodge chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -2315,8 +2242,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000000000,
+      "removePrice": 1000000000,
       "defName": "Cults_OathtakerHastur2",
       "degree": 0,
       "name": "reanimated",
@@ -2473,7 +2400,7 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 1000000000,
       "removePrice": 5500,
       "defName": "NewsSpreadTendency",
       "degree": -1,
@@ -2931,13 +2858,13 @@
         "customName": false,
         "stats": [
           "-50% aiming time",
-          "x50% weapon handling"
+          "-5.0 shooting accuracy"
         ]
       },
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
-        "x50% weapon handling"
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -3040,7 +2967,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ROM_Werewolf",
@@ -3059,7 +2986,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ROM_Werewolf",
@@ -3078,7 +3005,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ROM_Werewolf",
@@ -3097,7 +3024,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ROM_Werewolf",
@@ -3116,7 +3043,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ROM_Werewolf",
@@ -3174,7 +3101,7 @@
     {
       "price": 1,
       "defName": "ReanimatedCorpse",
-      "enabled": false,
+      "enabled": true,
       "name": "reanimated corpse",
       "data": {
         "customName": false
