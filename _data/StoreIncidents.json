@@ -62,7 +62,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -167,12 +167,37 @@
 	},
 	{
 		"abr": "party",
-		"price": 400,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "alphabeavers",
 		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 20000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -201,8 +226,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 10000,
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -241,14 +266,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
+		"abr": "hodlbotvote",
+		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 100000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
@@ -269,7 +289,27 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passion",
+		"price": 10000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 54
+	"total": 62
 }
