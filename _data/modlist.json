@@ -30,16 +30,20 @@
     "version": "1.1.2.2"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "RimCore"
+  },
+  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -48,8 +52,98 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell",
-    "name": "H.P. Lovecraft Storyteller (Continued)"
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2202"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "Zylle",
+    "name": "Map Designer",
+    "steamId": "2111424996",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Cabbage",
+    "name": "RimCities - Citadel Update",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.7393.34550"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.0.9.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.2.3.2"
+  },
+  {
+    "author": "Lelbaro",
+    "name": "[LB] SectorVII"
+  },
+  {
+    "author": "Lelbaro",
+    "name": "[LB] SectorVII CE PATCH"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Prostheses+"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Psionic+"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "HIGGS",
+    "name": "Death Stranding Faction: Homo Demens"
+  },
+  {
+    "author": "HIGGS",
+    "name": "Death Stranding Faction: Homo Demens - CE Patch"
+  },
+  {
+    "author": "HIGGS",
+    "name": "Death Stranding Factions - MULEs"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Fuji",
+    "name": "RimHeli"
+  },
+  {
+    "author": "K",
+    "name": "GlitterNet"
   },
   {
     "author": "Nif",
@@ -60,74 +154,14 @@
     "name": "Fences And Floors (Continued)"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Universal Fermenter",
     "steamId": "2073225100",
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell",
-    "name": "Industrial Age - Objects and Furniture (Continued)"
-  },
-  {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Arachnophobia (Continued)",
-    "steamId": "2242359252",
-    "version": "1.0.3.0"
-  },
-  {
-    "author": "Jecrell and contributors",
-    "name": "Rim of Madness - Vampires",
-    "steamId": "2242846132",
-    "version": "1.22.0.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Werewolves (Continued)"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Factions (Continued)",
-    "steamId": "",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "Sihv",
-    "name": "Rim of Madness - Bones",
-    "steamId": "1180573408",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors (Continued)",
-    "steamId": "2246088032",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "RimWriter - Books, Scrolls, Tablets, and Libraries (Continued)"
-  },
-  {
-    "author": "Santa",
-    "name": "Call of Cthulhu - Straitjackets 1.1 + 1.2"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cults (Continued)",
-    "steamId": "2249174783",
-    "version": "1.0.3.0"
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
   },
   {
     "author": "Meltup",
@@ -288,6 +322,20 @@
     "version": "1.0.0"
   },
   {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews"
+  },
+  {
+    "author": "Harkon",
+    "name": "Gun Nut - Community Pack",
+    "steamId": "2268285121",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Crudbone",
     "name": "Bandage Wraps"
   },
@@ -345,12 +393,6 @@
   },
   {
     "author": "NilchEi",
-    "name": "Powerful Faction Bases",
-    "steamId": "1570960972",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NilchEi",
     "name": "Powerful Psycast AI",
     "steamId": "2026063610",
     "version": "1.0.0.0"
@@ -387,7 +429,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7598.33463"
+    "version": "1.0.7617.5500"
   },
   {
     "author": "Nandonalt, Tejko, Alias",
@@ -519,13 +561,13 @@
     "author": "Garwel",
     "name": "Rimocracy",
     "steamId": "2159080853",
-    "version": "1.0.5"
+    "version": "1.1.0"
   },
   {
     "author": "Neptimus7,XeoNovaDan",
     "name": "Visible Pants",
     "steamId": "2264108215",
-    "version": "2.4"
+    "version": "2.7.4"
   },
   {
     "author": "Ogre",
@@ -605,9 +647,7 @@
   },
   {
     "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
+    "name": "Dual Wield"
   },
   {
     "author": "spoonshortage",
@@ -646,22 +686,6 @@
     "name": "The Harvest"
   },
   {
-    "author": "Luca De Petrillo, Edit by yayo",
-    "name": "(YY)Real Fog of War",
-    "steamId": "2267281712",
-    "version": "1.1.8.1"
-  },
-  {
-    "author": "gguake",
-    "name": "Cutting out Head",
-    "steamId": "2204233413",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Vectorial1024",
-    "name": "Desynchronized: Tales and News (Continued)"
-  },
-  {
     "author": "WiseClock, fork: AtrociousCollector",
     "name": "Days Matter (fork)",
     "steamId": "2045496988",
@@ -676,10 +700,40 @@
     "name": "[KIR]No Mechanoid Raids"
   },
   {
-    "author": "Mlie",
-    "name": "Remove Spacer Stuff (Continued)",
-    "steamId": "2260590151",
-    "version": "1.0.1.0"
+    "author": "Uuugggg",
+    "name": "Random Research",
+    "steamId": "1374065851",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Arekan",
+    "name": "Enhanced Vanilla Gun Sounds"
+  },
+  {
+    "author": "Pravus",
+    "name": "High Tech Laboratory Facilities (Continued)",
+    "steamId": "1542048177",
+    "version": "1.0.13.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Reinforced Walls",
+    "steamId": "1929389479",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Luca De Petrillo, Edit by yayo",
+    "name": "(YY)Real Fog of War",
+    "steamId": "2267281712",
+    "version": "1.1.8.1"
+  },
+  {
+    "author": "Kayedon",
+    "name": "[KYD] More Pawns Get Prosthetics!"
+  },
+  {
+    "author": "brucethemoose",
+    "name": "Optimization: Meats (1.2)"
   },
   {
     "author": "Andreas Pardeike",
