@@ -10,7 +10,7 @@
       "abr": "alpaca",
       "category": "Animal",
       "defname": "Alpaca",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "alpacawool",
@@ -22,7 +22,7 @@
       "abr": "alphabeaver",
       "category": "Animal",
       "defname": "Alphabeaver",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "ambrosia",
@@ -76,13 +76,13 @@
       "abr": "arcticfox",
       "category": "Animal",
       "defname": "Fox_Arctic",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "arcticwolf",
       "category": "Animal",
       "defname": "Wolf_Arctic",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "armchair",
@@ -154,7 +154,7 @@
       "abr": "bison",
       "category": "Animal",
       "defname": "Bison",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "bisonwool",
@@ -172,7 +172,7 @@
       "abr": "boomalope",
       "category": "Animal",
       "defname": "Boomalope",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "boomrat",
@@ -214,13 +214,13 @@
       "abr": "capybara",
       "category": "Animal",
       "defname": "Capybara",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "caribou",
       "category": "Animal",
       "defname": "Caribou",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "carving",
@@ -232,7 +232,7 @@
       "abr": "cassowary",
       "category": "Animal",
       "defname": "Cassowary",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "cassowaryegg(fert.)",
@@ -244,7 +244,7 @@
       "abr": "cat",
       "category": "Animal",
       "defname": "Cat",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "catfish",
@@ -256,7 +256,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "chesstable",
@@ -268,7 +268,7 @@
       "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "chickenegg(fert.)",
@@ -286,7 +286,7 @@
       "abr": "chinchilla",
       "category": "Animal",
       "defname": "Chinchilla",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "chinchillafur",
@@ -322,7 +322,7 @@
       "abr": "cobra",
       "category": "Animal",
       "defname": "Cobra",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "cobraegg(fert.)",
@@ -352,7 +352,7 @@
       "abr": "cougar",
       "category": "Animal",
       "defname": "Cougar",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "countertop",
@@ -364,7 +364,7 @@
       "abr": "cow",
       "category": "Animal",
       "defname": "Cow",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "cowboyhat",
@@ -376,7 +376,7 @@
       "abr": "deer",
       "category": "Animal",
       "defname": "Deer",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "devilstrand",
@@ -400,7 +400,7 @@
       "abr": "donkey",
       "category": "Animal",
       "defname": "Donkey",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "doublebed",
@@ -424,7 +424,7 @@
       "abr": "dromedary",
       "category": "Animal",
       "defname": "Dromedary",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "drugcabinet",
@@ -436,7 +436,7 @@
       "abr": "duck",
       "category": "Animal",
       "defname": "Duck",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "duckegg(fert.)",
@@ -466,7 +466,7 @@
       "abr": "elephant",
       "category": "Animal",
       "defname": "Elephant",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "elephantleather",
@@ -484,13 +484,13 @@
       "abr": "elk",
       "category": "Animal",
       "defname": "Elk",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "emu",
       "category": "Animal",
       "defname": "Emu",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "emuegg(fert.)",
@@ -508,7 +508,7 @@
       "abr": "fennecfox",
       "category": "Animal",
       "defname": "Fox_Fennec",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "fermentingbarrel",
@@ -562,7 +562,7 @@
       "abr": "gazelle",
       "category": "Animal",
       "defname": "Gazelle",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "gladius",
@@ -580,7 +580,7 @@
       "abr": "goat",
       "category": "Animal",
       "defname": "Goat",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "gold",
@@ -598,7 +598,7 @@
       "abr": "goose",
       "category": "Animal",
       "defname": "Goose",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "gooseegg(fert.)",
@@ -646,13 +646,13 @@
       "abr": "grizzlybear",
       "category": "Animal",
       "defname": "Bear_Grizzly",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "guineapig",
       "category": "Animal",
       "defname": "GuineaPig",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "guineapigfur",
@@ -688,7 +688,7 @@
       "abr": "hare",
       "category": "Animal",
       "defname": "Hare",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "hay",
@@ -712,7 +712,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "herring",
@@ -736,7 +736,7 @@
       "abr": "horse",
       "category": "Animal",
       "defname": "Horse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "horseshoespin",
@@ -760,19 +760,19 @@
       "abr": "husky",
       "category": "Animal",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "ibex",
       "category": "Animal",
       "defname": "Ibex",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "iguana",
       "category": "Animal",
       "defname": "Iguana",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "iguanaegg(fert.)",
@@ -814,7 +814,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "kidney",
@@ -844,7 +844,7 @@
       "abr": "labradorretriever",
       "category": "Animal",
       "defname": "LabradorRetriever",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "largerug",
@@ -916,7 +916,7 @@
       "abr": "lynx",
       "category": "Animal",
       "defname": "Lynx",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "mace",
@@ -946,7 +946,7 @@
       "abr": "megasloth",
       "category": "Animal",
       "defname": "Megasloth",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "megaslothwool",
@@ -976,7 +976,7 @@
       "abr": "monkey",
       "category": "Animal",
       "defname": "Monkey",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "monument",
@@ -988,7 +988,7 @@
       "abr": "muffalo",
       "category": "Animal",
       "defname": "Muffalo",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "muffalowool",
@@ -1018,7 +1018,7 @@
       "abr": "ostrich",
       "category": "Animal",
       "defname": "Ostrich",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "ostrichegg(fert.)",
@@ -1036,7 +1036,7 @@
       "abr": "panther",
       "category": "Animal",
       "defname": "Panther",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "pantherafur",
@@ -1078,7 +1078,7 @@
       "abr": "pig",
       "category": "Animal",
       "defname": "Pig",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "pigskin",
@@ -1144,7 +1144,7 @@
       "abr": "polarbear",
       "category": "Animal",
       "defname": "Bear_Polar",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "potatoes",
@@ -1180,13 +1180,13 @@
       "abr": "raccoon",
       "category": "Animal",
       "defname": "Raccoon",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "rat",
       "category": "Animal",
       "defname": "Rat",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "rawfungus",
@@ -1204,7 +1204,7 @@
       "abr": "redfox",
       "category": "Animal",
       "defname": "Fox_Red",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "relief",
@@ -1216,7 +1216,7 @@
       "abr": "rhinoceros",
       "category": "Animal",
       "defname": "Rhinoceros",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "rhinocerosleather",
@@ -1324,7 +1324,7 @@
       "abr": "sheep",
       "category": "Animal",
       "defname": "Sheep",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "sheepwool",
@@ -1354,7 +1354,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "simplebed",
@@ -1366,7 +1366,7 @@
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simpleresearchbench",
@@ -1432,7 +1432,7 @@
       "abr": "snowhare",
       "category": "Animal",
       "defname": "Snowhare",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "spear",
@@ -1468,7 +1468,7 @@
       "abr": "squirrel",
       "category": "Animal",
       "defname": "Squirrel",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "steel",
@@ -1540,7 +1540,7 @@
       "abr": "thrumbo",
       "category": "Animal",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "thrumbohorn",
@@ -1558,7 +1558,7 @@
       "abr": "timberwolf",
       "category": "Animal",
       "defname": "Wolf_Timber",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "toolcabinet",
@@ -1570,7 +1570,7 @@
       "abr": "tortoise",
       "category": "Animal",
       "defname": "Tortoise",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "tortoiseegg(fert.)",
@@ -1618,7 +1618,7 @@
       "abr": "turkey",
       "category": "Animal",
       "defname": "Turkey",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "turkeyegg(fert.)",
@@ -1654,7 +1654,7 @@
       "abr": "warg",
       "category": "Animal",
       "defname": "Warg",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "weaponrack",
@@ -1666,7 +1666,7 @@
       "abr": "wildboar",
       "category": "Animal",
       "defname": "WildBoar",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "wolfskin",
@@ -1690,13 +1690,13 @@
       "abr": "yak",
       "category": "Animal",
       "defname": "Yak",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animal",
       "defname": "YorkshireTerrier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "clothingrack",
@@ -1846,7 +1846,7 @@
       "abr": "alligator",
       "category": "Animal",
       "defname": "AEXP_Alligator",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "alligatoregg(fert.)",
@@ -1858,7 +1858,7 @@
       "abr": "anaconda",
       "category": "Animal",
       "defname": "AEXP_Anaconda",
-      "price": -10
+      "price": 1292
     },
     {
       "abr": "anacondaegg(fert.)",
@@ -1870,13 +1870,13 @@
       "abr": "arcticcoyote",
       "category": "Animal",
       "defname": "AEXP_ArcticCoyote",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "blackbear",
       "category": "Animal",
       "defname": "AEXP_BlackBear",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "boombat",
@@ -1888,7 +1888,7 @@
       "abr": "camel",
       "category": "Animal",
       "defname": "AEXP_Camel",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "camelwool",
@@ -1900,19 +1900,19 @@
       "abr": "cheetah",
       "category": "Animal",
       "defname": "AEXP_Cheetah",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "coyote",
       "category": "Animal",
       "defname": "AEXP_Coyote",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "crocodile",
       "category": "Animal",
       "defname": "AEXP_Crocodile",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "crocodileegg(fert.)",
@@ -1930,7 +1930,7 @@
       "abr": "deserttortoise",
       "category": "Animal",
       "defname": "AEXP_DesertTortoise",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "deserttortoiseegg(fert.)",
@@ -1948,7 +1948,7 @@
       "abr": "gilamonster",
       "category": "Animal",
       "defname": "AEXP_GilaMonster",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "gilamonsteregg(fert.)",
@@ -1966,19 +1966,19 @@
       "abr": "giraffe",
       "category": "Animal",
       "defname": "AEXP_Giraffe",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "gorilla",
       "category": "Animal",
       "defname": "AEXP_Gorilla",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "hippopotamus",
       "category": "Animal",
       "defname": "AEXP_Hippopotamus",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "hippopotamusleather",
@@ -1990,43 +1990,43 @@
       "abr": "hyena",
       "category": "Animal",
       "defname": "AEXP_Hyena",
-      "price": -10
+      "price": 308
     },
     {
       "abr": "indiantelephant",
       "category": "Animal",
       "defname": "AEXP_IndianElephant",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "jaguar",
       "category": "Animal",
       "defname": "AEXP_Jaguar",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "kangaroo",
       "category": "Animal",
       "defname": "AEXP_Kangaroo",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "koala",
       "category": "Animal",
       "defname": "AEXP_Koala",
-      "price": -10
+      "price": 125
     },
     {
       "abr": "lemur",
       "category": "Animal",
       "defname": "AEXP_Lemur",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "lion",
       "category": "Animal",
       "defname": "AEXP_Lion",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "lionpelt",
@@ -2038,7 +2038,7 @@
       "abr": "mandrill",
       "category": "Animal",
       "defname": "AEXP_Mandrill",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "megascorpion",
@@ -2050,19 +2050,19 @@
       "abr": "megawolverine",
       "category": "Animal",
       "defname": "AEXP_MegaWolverine",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "moose",
       "category": "Animal",
       "defname": "AEXP_Moose",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "muskox",
       "category": "Animal",
       "defname": "AEXP_Muskox",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "muskoxwool",
@@ -2074,13 +2074,13 @@
       "abr": "otter",
       "category": "Animal",
       "defname": "AEXP_Otter",
-      "price": -10
+      "price": 283
     },
     {
       "abr": "penguin",
       "category": "Animal",
       "defname": "AEXP_Penguin",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "penguinegg(fert.)",
@@ -2098,7 +2098,7 @@
       "abr": "platypus",
       "category": "Animal",
       "defname": "AEXP_Platypus",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "platypusegg(fert.)",
@@ -2116,13 +2116,13 @@
       "abr": "porcupine",
       "category": "Animal",
       "defname": "AEXP_Porcupine",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "rattlesnake",
       "category": "Animal",
       "defname": "AEXP_Rattlesnake",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "rattlesnakeegg(fert.)",
@@ -2248,7 +2248,7 @@
       "abr": "seal",
       "category": "Animal",
       "defname": "AEXP_Seal",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "statueofcolonist",
@@ -2260,7 +2260,7 @@
       "abr": "tapir",
       "category": "Animal",
       "defname": "AEXP_Tapir",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "techprint(artificialmetabolism)",
@@ -2338,7 +2338,7 @@
       "abr": "tiger",
       "category": "Animal",
       "defname": "AEXP_Tiger",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "tigerleather",
@@ -3784,7 +3784,7 @@
       "abr": "vodka",
       "category": "Drugs",
       "defname": "VBE_Vodka",
-      "price": 13
+      "price": 60
     },
     {
       "abr": "vodkadrum",
@@ -3808,7 +3808,7 @@
       "abr": "walrus",
       "category": "Animal",
       "defname": "AEXP_Walrus",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "walrustusk",
@@ -3856,7 +3856,7 @@
       "abr": "wildebeest",
       "category": "Animal",
       "defname": "AEXP_Wildebeest",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "wildebeestpelt",
@@ -3868,7 +3868,7 @@
       "abr": "zebra",
       "category": "Animal",
       "defname": "AEXP_Zebra",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "ammobox",
@@ -4438,30 +4438,6 @@
       "abr": "wheelbarrow",
       "category": "Furniture",
       "defname": "JDSwheelbarrow",
-      "price": -10
-    },
-    {
-      "abr": "inspectorparrot",
-      "category": "Security",
-      "defname": "InspectorParrot",
-      "price": -10
-    },
-    {
-      "abr": "securitybell",
-      "category": "Security",
-      "defname": "SecurityBell",
-      "price": -10
-    },
-    {
-      "abr": "surveillancecamera",
-      "category": "Security",
-      "defname": "SurveillanceCamera",
-      "price": -10
-    },
-    {
-      "abr": "watchtelescope",
-      "category": "Security",
-      "defname": "WatchTelescope",
       "price": -10
     },
     {
@@ -10060,7 +10036,7 @@
       "abr": "pilothelmet",
       "category": "Headgear",
       "defname": "Apparel_PilotHelmet",
-      "price": -10
+      "price": 508
     },
     {
       "abr": "pincushioncactus",
@@ -11923,12 +11899,6 @@
       "price": -10
     },
     {
-      "abr": "watchtower",
-      "category": "Misc",
-      "defname": "WatchTower",
-      "price": -10
-    },
-    {
       "abr": "waterbucket",
       "category": "Misc",
       "defname": "VFEPD_BucketwithWater",
@@ -12313,11 +12283,335 @@
       "price": -10
     },
     {
+      "abr": "blueairpipe",
+      "category": "Misc",
+      "defname": "blueAirPipe",
+      "price": 3
+    },
+    {
+      "abr": "bluecoveredairpipe",
+      "category": "Misc",
+      "defname": "blueAirPipeHidden",
+      "price": 16
+    },
+    {
+      "abr": "climatecontrolunit",
+      "category": "Climate",
+      "defname": "AirThermal",
+      "price": 800
+    },
+    {
+      "abr": "cyanairpipe",
+      "category": "Misc",
+      "defname": "cyanAirPipe",
+      "price": 3
+    },
+    {
+      "abr": "cyancoveredairpipe",
+      "category": "Misc",
+      "defname": "cyanAirPipeHidden",
+      "price": 16
+    },
+    {
+      "abr": "intakefan",
+      "category": "Climate",
+      "defname": "IntakeFan",
+      "price": 383
+    },
+    {
+      "abr": "largeclimatecontrolunit",
+      "category": "Climate",
+      "defname": "LargeAirThermal",
+      "price": 2408
+    },
+    {
+      "abr": "largeintakefan",
+      "category": "Climate",
+      "defname": "LargeIntakeFan",
+      "price": 1142
+    },
+    {
+      "abr": "largesurroundairvent",
+      "category": "Climate",
+      "defname": "SurroundAirVentWide",
+      "price": 1342
+    },
+    {
+      "abr": "redairpipe",
+      "category": "Misc",
+      "defname": "redAirPipe",
+      "price": 3
+    },
+    {
+      "abr": "redcoveredairpipe",
+      "category": "Misc",
+      "defname": "redAirPipeHidden",
+      "price": 16
+    },
+    {
+      "abr": "smallwallairvent",
+      "category": "Climate",
+      "defname": "WallAirVentSmall",
+      "price": 112
+    },
+    {
+      "abr": "standinglamp(rainbow)",
+      "category": "Furniture",
+      "defname": "StandingLamp_Rainbow",
+      "price": 65
+    },
+    {
+      "abr": "surroundairvent",
+      "category": "Climate",
+      "defname": "SurroundAirVent",
+      "price": 675
+    },
+    {
+      "abr": "wallairvent",
+      "category": "Climate",
+      "defname": "WallAirVent",
+      "price": 224
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLight",
+      "price": 16
+    },
+    {
+      "abr": "walllight(azure)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightAzure",
+      "price": 16
+    },
+    {
+      "abr": "walllight(blue)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightBlue",
+      "price": 16
+    },
+    {
+      "abr": "walllight(chartreuse)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightChartreuse",
+      "price": 16
+    },
+    {
+      "abr": "walllight(cyan)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightCyan",
+      "price": 16
+    },
+    {
+      "abr": "walllight(green)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightGreen",
+      "price": 16
+    },
+    {
+      "abr": "walllight(magenta)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightMagenta",
+      "price": 16
+    },
+    {
+      "abr": "walllight(orange)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightOrange",
+      "price": 16
+    },
+    {
+      "abr": "walllight(rainbow)",
+      "category": "Furniture",
+      "defname": "Lighting_WallLightRainbow",
+      "price": 16
+    },
+    {
+      "abr": "walllight(red)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightRed",
+      "price": 16
+    },
+    {
+      "abr": "walllight(rose)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightRose",
+      "price": 16
+    },
+    {
+      "abr": "walllight(springgreen)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightSpringGreen",
+      "price": 16
+    },
+    {
+      "abr": "walllight(violet)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightViolet",
+      "price": 16
+    },
+    {
+      "abr": "walllight(yellow)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightYellow",
+      "price": 16
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16
+    },
+    {
+      "abr": "m240bbravo",
+      "category": "Gun Nut",
+      "defname": "GN_M240B",
+      "price": -10
+    },
+    {
+      "abr": "m4corp",
+      "category": "Gun Nut",
+      "defname": "GN_M4US",
+      "price": -10
+    },
+    {
+      "abr": "ak-103magpul",
+      "category": "Gun Nut",
+      "defname": "GN_AKOneOThree",
+      "price": -10
+    },
+    {
+      "abr": "ak-105aggressor",
+      "category": "Gun Nut",
+      "defname": "GN_AKOneOFive",
+      "price": -10
+    },
+    {
+      "abr": "asvaloperator",
+      "category": "Gun Nut",
+      "defname": "GN_ASVAL",
+      "price": -10
+    },
+    {
+      "abr": "ash-12bear",
+      "category": "Gun Nut",
+      "defname": "GN_AShTwelve",
+      "price": -10
+    },
+    {
+      "abr": "bullpuppkphotpipe",
+      "category": "Gun Nut",
+      "defname": "GN_BullpupPKP",
+      "price": -10
+    },
+    {
+      "abr": "g36oberndorf",
+      "category": "Gun Nut",
+      "defname": "GN_GThirtySix",
+      "price": -10
+    },
+    {
+      "abr": "glock17zevtech",
+      "category": "Gun Nut",
+      "defname": "GN_GlockSeventeen",
+      "price": -10
+    },
+    {
+      "abr": "gm6lynx",
+      "category": "Gun Nut",
+      "defname": "GN_GMSix",
+      "price": -10
+    },
+    {
+      "abr": "icepickredrebel",
+      "category": "Melee weapons",
+      "defname": "GN_RedRebel",
+      "price": 333
+    },
+    {
+      "abr": "m1aarchangel",
+      "category": "Gun Nut",
+      "defname": "GN_MOneA",
+      "price": -10
+    },
+    {
+      "abr": "m320trooper",
+      "category": "Gun Nut",
+      "defname": "GN_HKGL",
+      "price": -10
+    },
+    {
+      "abr": "m3e1carlgustaf",
+      "category": "Gun Nut",
+      "defname": "GN_MThreeEOne",
+      "price": -10
+    },
+    {
+      "abr": "m4a1gunnut",
+      "category": "Gun Nut",
+      "defname": "GN_MFourAOne",
+      "price": -10
+    },
+    {
+      "abr": "m56smartgun",
+      "category": "Gun Nut",
+      "defname": "GN_M56SG",
+      "price": -10
+    },
+    {
+      "abr": "mg338norma",
+      "category": "Gun Nut",
+      "defname": "GN_SSMG",
+      "price": -10
+    },
+    {
+      "abr": "mp7a1hornet",
+      "category": "Gun Nut",
+      "defname": "GN_MPSevenAOne",
+      "price": -10
+    },
+    {
+      "abr": "neopuppaw",
+      "category": "Gun Nut",
+      "defname": "GN_Neopup",
+      "price": -10
+    },
+    {
+      "abr": "iwing5negev",
+      "category": "Gun Nut",
+      "defname": "GN_NGFive",
+      "price": -10
+    },
+    {
+      "abr": "r700hawk",
+      "category": "Gun Nut",
+      "defname": "GN_RSevenHundred",
+      "price": -10
+    },
+    {
+      "abr": "sa-58juicecannon",
+      "category": "Gun Nut",
+      "defname": "GN_SAFiftyEight",
+      "price": -10
+    },
+    {
+      "abr": "saiga12ksweeper",
+      "category": "Gun Nut",
+      "defname": "GN_SaigaTwelveK",
+      "price": -10
+    },
+    {
+      "abr": "skstapco",
+      "category": "Gun Nut",
+      "defname": "GN_SKS",
+      "price": -10
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2053
+  "total": 2102
 }
