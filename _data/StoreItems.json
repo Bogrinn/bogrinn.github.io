@@ -304,7 +304,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "clownfish",
@@ -12316,7 +12316,7 @@
       "abr": "intakefan",
       "category": "Climate",
       "defname": "IntakeFan",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "largeclimatecontrolunit",
@@ -12328,13 +12328,13 @@
       "abr": "largeintakefan",
       "category": "Climate",
       "defname": "LargeIntakeFan",
-      "price": 1142
+      "price": -10
     },
     {
       "abr": "largesurroundairvent",
       "category": "Climate",
       "defname": "SurroundAirVentWide",
-      "price": 1342
+      "price": -10
     },
     {
       "abr": "redairpipe",
@@ -12352,25 +12352,25 @@
       "abr": "smallwallairvent",
       "category": "Climate",
       "defname": "WallAirVentSmall",
-      "price": 112
+      "price": -10
     },
     {
       "abr": "standinglamp(rainbow)",
       "category": "Furniture",
       "defname": "StandingLamp_Rainbow",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "surroundairvent",
       "category": "Climate",
       "defname": "SurroundAirVent",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "wallairvent",
       "category": "Climate",
       "defname": "WallAirVent",
-      "price": 224
+      "price": -10
     },
     {
       "abr": "walllight",
