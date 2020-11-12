@@ -12286,31 +12286,31 @@
       "abr": "blueairpipe",
       "category": "Misc",
       "defname": "blueAirPipe",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "bluecoveredairpipe",
       "category": "Misc",
       "defname": "blueAirPipeHidden",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "climatecontrolunit",
       "category": "Climate",
       "defname": "AirThermal",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "cyanairpipe",
       "category": "Misc",
       "defname": "cyanAirPipe",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "cyancoveredairpipe",
       "category": "Misc",
       "defname": "cyanAirPipeHidden",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "intakefan",
@@ -12322,7 +12322,7 @@
       "abr": "largeclimatecontrolunit",
       "category": "Climate",
       "defname": "LargeAirThermal",
-      "price": 2408
+      "price": -10
     },
     {
       "abr": "largeintakefan",
@@ -12340,13 +12340,13 @@
       "abr": "redairpipe",
       "category": "Misc",
       "defname": "redAirPipe",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "redcoveredairpipe",
       "category": "Misc",
       "defname": "redAirPipeHidden",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "smallwallairvent",
@@ -12376,91 +12376,91 @@
       "abr": "walllight",
       "category": "Furniture",
       "defname": "Lighting_MURWallLight",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(azure)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightAzure",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(blue)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightBlue",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(cyan)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightCyan",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(green)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightGreen",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(magenta)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(orange)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightOrange",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(rainbow)",
       "category": "Furniture",
       "defname": "Lighting_WallLightRainbow",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(red)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRed",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(rose)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRose",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(violet)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightViolet",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(yellow)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightYellow",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "m240bbravo",
@@ -12610,7 +12610,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     }
   ],
   "total": 2102
