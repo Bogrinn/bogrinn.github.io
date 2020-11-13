@@ -331,6 +331,18 @@
   },
   {
     "author": "Harkon",
+    "name": "Gun Nut - Chapter #1",
+    "steamId": "2208576613",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "Gun Nut - Chapter #2",
+    "steamId": "2239800263",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
     "name": "Gun Nut - Community Pack",
     "steamId": "2268285121",
     "version": "1.0.0.0"
@@ -722,10 +734,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Luca De Petrillo, Edit by yayo",
-    "name": "(YY)Real Fog of War",
-    "steamId": "2267281712",
-    "version": "1.1.8.1"
+    "author": "ColdToad",
+    "name": "Centralized Climate Control (Continued)"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "tikubonn",
+    "name": "RainbowLamp[1.1-1.2]"
+  },
+  {
+    "author": "tikubonn",
+    "name": "RaibowWallLight[1.1-1.2]"
   },
   {
     "author": "Kayedon",
