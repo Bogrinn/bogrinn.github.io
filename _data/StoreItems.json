@@ -16,7 +16,7 @@
       "abr": "alpacawool",
       "category": "Textiles",
       "defname": "WoolAlpaca",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "alphabeaver",
@@ -160,7 +160,7 @@
       "abr": "bisonwool",
       "category": "Textiles",
       "defname": "WoolBison",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bluefur",
@@ -382,7 +382,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "diningchair",
@@ -952,7 +952,7 @@
       "abr": "megaslothwool",
       "category": "Textiles",
       "defname": "WoolMegasloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "megaspider",
@@ -994,7 +994,7 @@
       "abr": "muffalowool",
       "category": "Textiles",
       "defname": "WoolMuffalo",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "neutroamine",
@@ -1330,7 +1330,7 @@
       "abr": "sheepwool",
       "category": "Textiles",
       "defname": "WoolSheep",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "shelf",
@@ -1642,7 +1642,7 @@
       "abr": "warmask",
       "category": "Headgear",
       "defname": "Apparel_WarMask",
-      "price": -10
+      "price": 101
     },
     {
       "abr": "warveil",
@@ -1894,7 +1894,7 @@
       "abr": "camelwool",
       "category": "Textiles",
       "defname": "WoolCamel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "cheetah",
@@ -2068,7 +2068,7 @@
       "abr": "muskoxwool",
       "category": "Textiles",
       "defname": "AEXP_MuskOxWool",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "otter",
@@ -2950,7 +2950,7 @@
       "abr": "hyperweave",
       "category": "Textiles",
       "defname": "Hyperweave",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "icedcoffee",
@@ -3640,7 +3640,7 @@
       "abr": "synthread",
       "category": "Textiles",
       "defname": "Synthread",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "tea",
@@ -4600,7 +4600,7 @@
       "abr": "gasmask",
       "category": "Headgear",
       "defname": "VAE_Headgear_GasMask",
-      "price": -10
+      "price": 193
     },
     {
       "abr": "glasses",
@@ -4630,7 +4630,7 @@
       "abr": "hammer",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Hammer",
-      "price": -10
+      "price": 281
     },
     {
       "abr": "handcannon",
@@ -4648,7 +4648,7 @@
       "abr": "hatchet",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Axe",
-      "price": -10
+      "price": 147
     },
     {
       "abr": "hmg",
@@ -4756,7 +4756,7 @@
       "abr": "pickaxe",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Pickaxe",
-      "price": -10
+      "price": 248
     },
     {
       "abr": "sawed-offshotgun",
@@ -4768,7 +4768,7 @@
       "abr": "scalpel",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Scalpel",
-      "price": -10
+      "price": 277
     },
     {
       "abr": "scarf",
@@ -4816,7 +4816,7 @@
       "abr": "shovel",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Shovel",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "simplestew",
@@ -4858,7 +4858,7 @@
       "abr": "surgicalmask",
       "category": "Headgear",
       "defname": "VAE_Headgear_SurgicalMask",
-      "price": -10
+      "price": 121
     },
     {
       "abr": "tanktop",
@@ -4936,7 +4936,7 @@
       "abr": "wrench",
       "category": "Melee weapons",
       "defname": "VWE_MeleeWeapon_Wrench",
-      "price": -10
+      "price": 277
     },
     {
       "abr": "aestheticnose",
@@ -5986,7 +5986,7 @@
       "abr": "advancedrepairgun",
       "category": "Melee weapons",
       "defname": "LB_AdvancedRepairGun",
-      "price": -10
+      "price": 1017
     },
     {
       "abr": "advancedresearchintegrator",
@@ -6010,7 +6010,7 @@
       "abr": "advancedtablet",
       "category": "Melee weapons",
       "defname": "SC7_AdvancedTablet",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "advancedworkspeedintegrator",
@@ -8092,7 +8092,7 @@
       "abr": "gasmask",
       "category": "Headgear",
       "defname": "Apparel_GasMask",
-      "price": -10
+      "price": 193
     },
     {
       "abr": "gasstorageunit",
@@ -8578,7 +8578,7 @@
       "abr": "improvisedgasmask",
       "category": "Headgear",
       "defname": "Apparel_ImprovGasMask",
-      "price": -10
+      "price": 156
     },
     {
       "abr": "independenteye",
@@ -9688,19 +9688,19 @@
       "abr": "moppmask(desert)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskDesert",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "moppmask(snow)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskSnow",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "moppmask(woodland)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskWoodland",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "moppsuit(desert)",
@@ -10564,7 +10564,7 @@
       "abr": "radiationmask",
       "category": "Hazmat",
       "defname": "Apparel_RadiationMask",
-      "price": -10
+      "price": 244
     },
     {
       "abr": "radiationsuit",
