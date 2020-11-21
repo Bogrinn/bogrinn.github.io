@@ -526,7 +526,7 @@
       "abr": "finemeal",
       "category": "Meals",
       "defname": "MealFine",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "foxfur",
@@ -634,7 +634,7 @@
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "greatbow",
@@ -808,7 +808,7 @@
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "kibble",
@@ -880,7 +880,7 @@
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "liver",
@@ -934,7 +934,7 @@
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "megascarab",
@@ -1084,12 +1084,6 @@
       "abr": "pigskin",
       "category": "Leathers",
       "defname": "Leather_Pig",
-      "price": -10
-    },
-    {
-      "abr": "pila",
-      "category": "Ranged weapons",
-      "defname": "Pila",
       "price": -10
     },
     {
@@ -1306,7 +1300,7 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "scarecrow",
@@ -1390,7 +1384,7 @@
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "smallrug",
@@ -2716,7 +2710,7 @@
       "abr": "empshell",
       "category": "81mm mortar shell",
       "defname": "Shell_EMP",
-      "price": -10
+      "price": 387
     },
     {
       "abr": "energydrink",
@@ -2926,7 +2920,7 @@
       "abr": "high-explosiveshell",
       "category": "81mm mortar shell",
       "defname": "Shell_HighExplosive",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "hood",
@@ -3004,7 +2998,7 @@
       "abr": "incendiaryshell",
       "category": "81mm mortar shell",
       "defname": "Shell_Incendiary",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "industrialradio",
@@ -3664,7 +3658,7 @@
       "abr": "tequila",
       "category": "Drugs",
       "defname": "VBE_Tequila",
-      "price": 25
+      "price": 125
     },
     {
       "abr": "tequilabarrel",
@@ -4582,7 +4576,7 @@
       "abr": "flamethrower",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_Flamethrower",
-      "price": -10
+      "price": 20375
     },
     {
       "abr": "fleeceshirt",
@@ -5947,33 +5941,9 @@
       "price": -10
     },
     {
-      "abr": "advancedbedintegrator",
-      "category": "Buildings",
-      "defname": "GNAdvancedBedIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "advancedglitternetprocessor",
-      "category": "Buildings",
-      "defname": "GNAdvancedGlitterNetProcessor",
-      "price": -10
-    },
-    {
       "abr": "advancedlegprosthesis",
       "category": "Prosthetic",
       "defname": "TP_Advanced_Leg_Prosthesis",
-      "price": -10
-    },
-    {
-      "abr": "advancedmedicalintegrator",
-      "category": "Buildings",
-      "defname": "GNAdvancedMedicalIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "advancedpowerintegrator",
-      "category": "Buildings",
-      "defname": "GNAdvancedPowerIntegrator",
       "price": -10
     },
     {
@@ -5987,12 +5957,6 @@
       "category": "Melee weapons",
       "defname": "LB_AdvancedRepairGun",
       "price": 1017
-    },
-    {
-      "abr": "advancedresearchintegrator",
-      "category": "Buildings",
-      "defname": "GNAdvancedResearchIntegrator",
-      "price": -10
     },
     {
       "abr": "advancedrotor",
@@ -6011,12 +5975,6 @@
       "category": "Melee weapons",
       "defname": "SC7_AdvancedTablet",
       "price": 808
-    },
-    {
-      "abr": "advancedworkspeedintegrator",
-      "category": "Buildings",
-      "defname": "GNAdvancedWorkspeedIntegrator",
-      "price": -10
     },
     {
       "abr": "agarilux",
@@ -6526,42 +6484,6 @@
       "abr": "basedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallBase",
-      "price": -10
-    },
-    {
-      "abr": "basicbedintegrator",
-      "category": "Buildings",
-      "defname": "GNBasicBedIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "basicglitternetprocessor",
-      "category": "Buildings",
-      "defname": "GNBasicGlitterNetProcessor",
-      "price": -10
-    },
-    {
-      "abr": "basicmedicalintegrator",
-      "category": "Buildings",
-      "defname": "GNBasicMedicalIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "basicpowerintegrator",
-      "category": "Buildings",
-      "defname": "GNBasicPowerIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "basicresearchintegrator",
-      "category": "Buildings",
-      "defname": "GNBasicResearchIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "basicworkspeedintegrator",
-      "category": "Buildings",
-      "defname": "GNBasicWorkspeedIntegrator",
       "price": -10
     },
     {
@@ -8137,24 +8059,6 @@
       "price": -10
     },
     {
-      "abr": "glitternetcable",
-      "category": "Misc",
-      "defname": "GNGlitterNetCable",
-      "price": -10
-    },
-    {
-      "abr": "glitternetcable(hidden)",
-      "category": "Misc",
-      "defname": "GNGlitterNetCableHidden",
-      "price": -10
-    },
-    {
-      "abr": "glitternethub",
-      "category": "Buildings",
-      "defname": "GNGlitterNetHub",
-      "price": -10
-    },
-    {
       "abr": "glowstool",
       "category": "Misc",
       "defname": "VFEPD_Glowstool",
@@ -8254,7 +8158,7 @@
       "abr": "aa-12jak",
       "category": "Gun Nut",
       "defname": "GN_AATwelve",
-      "price": -10
+      "price": 30000
     },
     {
       "abr": "at-4",
@@ -8266,19 +8170,19 @@
       "abr": "g-98flux",
       "category": "Gun Nut",
       "defname": "GN_GlockFLUX",
-      "price": -10
+      "price": 28000
     },
     {
       "abr": "galilaceindumil",
       "category": "Gun Nut",
       "defname": "GN_GalilACE",
-      "price": -10
+      "price": 16000
     },
     {
       "abr": "greyhawk55fairview",
       "category": "Gun Nut",
       "defname": "GN_GreyHawk",
-      "price": -10
+      "price": 13000
     },
     {
       "abr": "healroot",
@@ -8539,42 +8443,6 @@
       "price": -10
     },
     {
-      "abr": "improvedbedintegrator",
-      "category": "Buildings",
-      "defname": "GNImprovedBedIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "improvedglitternetprocessor",
-      "category": "Buildings",
-      "defname": "GNImprovedGlitterNetProcessor",
-      "price": -10
-    },
-    {
-      "abr": "improvedmedicalintegrator",
-      "category": "Buildings",
-      "defname": "GNImprovedMedicalIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "improvedpowerintegrator",
-      "category": "Buildings",
-      "defname": "GNImprovedPowerIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "improvedresearchintegrator",
-      "category": "Buildings",
-      "defname": "GNImprovedResearchIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "improvedworkspeedintegrator",
-      "category": "Buildings",
-      "defname": "GNImprovedWorkspeedIntegrator",
-      "price": -10
-    },
-    {
       "abr": "improvisedgasmask",
       "category": "Headgear",
       "defname": "Apparel_ImprovGasMask",
@@ -8710,7 +8578,7 @@
       "abr": "ks-23spetsialniy",
       "category": "Gun Nut",
       "defname": "GN_KSTwentyThree",
-      "price": -10
+      "price": 9000
     },
     {
       "abr": "lsymbol",
@@ -9442,7 +9310,7 @@
       "abr": "m16a4terminalboot",
       "category": "Gun Nut",
       "defname": "GN_M16AFour",
-      "price": -10
+      "price": 12000
     },
     {
       "abr": "label_gncp_m202_nn",
@@ -9460,7 +9328,7 @@
       "abr": "m2hbbrowning",
       "category": "Gun Nut",
       "defname": "GN_M2HB",
-      "price": -10
+      "price": 32000
     },
     {
       "abr": "machinebits",
@@ -9640,7 +9508,7 @@
       "abr": "mg3gpmg",
       "category": "Gun Nut",
       "defname": "GN_MGThree",
-      "price": -10
+      "price": 18850
     },
     {
       "abr": "microwave",
@@ -9946,7 +9814,7 @@
       "abr": "p90herstal",
       "category": "Gun Nut",
       "defname": "GN_PNinety",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "paddecal",
@@ -11335,30 +11203,6 @@
       "price": -10
     },
     {
-      "abr": "specializedconcurrencyprocessor",
-      "category": "Buildings",
-      "defname": "GNSpecializedConcurrencyProcessor",
-      "price": -10
-    },
-    {
-      "abr": "specializedefficiencyprocessor",
-      "category": "Buildings",
-      "defname": "GNSpecializedEfficiencyProcessor",
-      "price": -10
-    },
-    {
-      "abr": "specializedoverdriveprocessor",
-      "category": "Buildings",
-      "defname": "GNSpecializedOverdriveProcessor",
-      "price": -10
-    },
-    {
-      "abr": "specializedoverheadprocessor",
-      "category": "Buildings",
-      "defname": "GNSpecializedOverheadProcessor",
-      "price": -10
-    },
-    {
       "abr": "speechimplant",
       "category": "Bionic",
       "defname": "TP_Speech_Implant",
@@ -11380,7 +11224,7 @@
       "abr": "sr-25m110",
       "category": "Gun Nut",
       "defname": "GN_SRTwentyFive",
-      "price": -10
+      "price": 18850
     },
     {
       "abr": "sraf:canary",
@@ -11554,7 +11398,7 @@
       "abr": "stg44kurz",
       "category": "Gun Nut",
       "defname": "GN_StGFortyFour",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "stickbomb",
@@ -11824,7 +11668,7 @@
       "abr": "uscmm41apulserifle",
       "category": "Gun Nut",
       "defname": "GN_PulseRifle",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "vent",
@@ -12457,70 +12301,52 @@
       "price": -10
     },
     {
-      "abr": "wallsunlight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallSunLight",
-      "price": -10
-    },
-    {
-      "abr": "m240bbravo",
-      "category": "Gun Nut",
-      "defname": "GN_M240B",
-      "price": -10
-    },
-    {
-      "abr": "m4corp",
-      "category": "Gun Nut",
-      "defname": "GN_M4US",
-      "price": -10
-    },
-    {
       "abr": "ak-103magpul",
       "category": "Gun Nut",
       "defname": "GN_AKOneOThree",
-      "price": -10
+      "price": 18000
     },
     {
       "abr": "ak-105aggressor",
       "category": "Gun Nut",
       "defname": "GN_AKOneOFive",
-      "price": -10
+      "price": 18000
     },
     {
       "abr": "asvaloperator",
       "category": "Gun Nut",
       "defname": "GN_ASVAL",
-      "price": -10
+      "price": 19000
     },
     {
       "abr": "ash-12bear",
       "category": "Gun Nut",
       "defname": "GN_AShTwelve",
-      "price": -10
+      "price": 18000
     },
     {
       "abr": "bullpuppkphotpipe",
       "category": "Gun Nut",
       "defname": "GN_BullpupPKP",
-      "price": -10
+      "price": 28000
     },
     {
       "abr": "g36oberndorf",
       "category": "Gun Nut",
       "defname": "GN_GThirtySix",
-      "price": -10
+      "price": 14000
     },
     {
       "abr": "glock17zevtech",
       "category": "Gun Nut",
       "defname": "GN_GlockSeventeen",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "gm6lynx",
       "category": "Gun Nut",
       "defname": "GN_GMSix",
-      "price": -10
+      "price": 20000
     },
     {
       "abr": "icepickredrebel",
@@ -12532,86 +12358,566 @@
       "abr": "m1aarchangel",
       "category": "Gun Nut",
       "defname": "GN_MOneA",
-      "price": -10
+      "price": 11000
+    },
+    {
+      "abr": "m240bbravo",
+      "category": "Gun Nut",
+      "defname": "GN_M240B",
+      "price": 19000
     },
     {
       "abr": "m320trooper",
       "category": "Gun Nut",
       "defname": "GN_HKGL",
-      "price": -10
+      "price": 13000
     },
     {
       "abr": "m3e1carlgustaf",
       "category": "Gun Nut",
       "defname": "GN_MThreeEOne",
-      "price": -10
+      "price": 10000
+    },
+    {
+      "abr": "m4corp",
+      "category": "Gun Nut",
+      "defname": "GN_M4US",
+      "price": 16750
     },
     {
       "abr": "m4a1gunnut",
       "category": "Gun Nut",
       "defname": "GN_MFourAOne",
-      "price": -10
+      "price": 16750
     },
     {
       "abr": "m56smartgun",
       "category": "Gun Nut",
       "defname": "GN_M56SG",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "mg338norma",
       "category": "Gun Nut",
       "defname": "GN_SSMG",
-      "price": -10
+      "price": 22000
     },
     {
       "abr": "mp7a1hornet",
       "category": "Gun Nut",
       "defname": "GN_MPSevenAOne",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "neopuppaw",
       "category": "Gun Nut",
       "defname": "GN_Neopup",
-      "price": -10
+      "price": 14000
     },
     {
       "abr": "iwing5negev",
       "category": "Gun Nut",
       "defname": "GN_NGFive",
-      "price": -10
+      "price": 20000
     },
     {
       "abr": "r700hawk",
       "category": "Gun Nut",
       "defname": "GN_RSevenHundred",
-      "price": -10
+      "price": 18000
     },
     {
       "abr": "sa-58juicecannon",
       "category": "Gun Nut",
       "defname": "GN_SAFiftyEight",
-      "price": -10
+      "price": 17750
     },
     {
       "abr": "saiga12ksweeper",
       "category": "Gun Nut",
       "defname": "GN_SaigaTwelveK",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "skstapco",
       "category": "Gun Nut",
       "defname": "GN_SKS",
-      "price": -10
+      "price": 15000
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16
+    },
+    {
+      "abr": "advancedbattery",
+      "category": "Power",
+      "defname": "VFE_AdvancedBattery",
+      "price": 750
+    },
+    {
+      "abr": "advancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBed",
+      "price": 833
+    },
+    {
+      "abr": "advancedchair",
+      "category": "Furniture",
+      "defname": "Seat_AdvChair",
+      "price": 1267
+    },
+    {
+      "abr": "advanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBed",
+      "price": 1483
+    },
+    {
+      "abr": "advancedsolargenerator",
+      "category": "Misc",
+      "defname": "VFE_AdvancedSolarGenerator",
+      "price": 1842
+    },
+    {
+      "abr": "advancedwatermillgenerator",
+      "category": "Misc",
+      "defname": "VFE_AdvancedWatermillGenerator",
+      "price": 1817
+    },
+    {
+      "abr": "advancedwindturbine",
+      "category": "Misc",
+      "defname": "VFE_AdvancedWindTurbine",
+      "price": 1850
+    },
+    {
+      "abr": "ammocrate",
+      "category": "Furniture",
+      "defname": "VFES_AmmoCrate",
+      "price": 533
+    },
+    {
+      "abr": "archotechshieldgenerator",
+      "category": "Special",
+      "defname": "VFES_ShieldGenerator_Archotech",
+      "price": 4667
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Special",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": 5667
+    },
+    {
+      "abr": "artillery",
+      "category": "Security",
+      "defname": "VFES_Turret_Artillery",
+      "price": 1408
+    },
+    {
+      "abr": "ballista",
+      "category": "Misc",
+      "defname": "VFES_Turret_Ballista",
+      "price": 650
+    },
+    {
+      "abr": "barbedwire",
+      "category": "Misc",
+      "defname": "VFES_BarbedWire",
+      "price": 35
+    },
+    {
+      "abr": "barrier",
+      "category": "Misc",
+      "defname": "VFES_Barrier",
+      "price": 39
+    },
+    {
+      "abr": "beartrap",
+      "category": "Security",
+      "defname": "VFES_BearTrap",
+      "price": 236
+    },
+    {
+      "abr": "biolabsunlamp",
+      "category": "Furniture",
+      "defname": "Spacer_SunLamp",
+      "price": 1442
+    },
+    {
+      "abr": "catapult",
+      "category": "Misc",
+      "defname": "VFES_Turret_Catapult",
+      "price": 1192
+    },
+    {
+      "abr": "cavalryspikes",
+      "category": "Misc",
+      "defname": "VFES_CavalrySpikes",
+      "price": 12
+    },
+    {
+      "abr": "chargecomplex",
+      "category": "Misc",
+      "defname": "VFES_Turret_ChargeComplex",
+      "price": 1692
+    },
+    {
+      "abr": "chargerailgun",
+      "category": "Misc",
+      "defname": "VFES_Turret_ChargeRailgunTurret",
+      "price": 4658
+    },
+    {
+      "abr": "chargeturret",
+      "category": "Security",
+      "defname": "VFES_Turret_ChargeTurret",
+      "price": 1358
+    },
+    {
+      "abr": "chemfuelbarrel",
+      "category": "Security",
+      "defname": "VFES_ChemfuelBarrel",
+      "price": 296
+    },
+    {
+      "abr": "chemfuelpump",
+      "category": "Misc",
+      "defname": "VPE_ChemfuelPump",
+      "price": 542
+    },
+    {
+      "abr": "decoy",
+      "category": "Security",
+      "defname": "VFES_Turret_Decoy",
+      "price": 140
+    },
+    {
+      "abr": "deployablebarrier",
+      "category": "Misc",
+      "defname": "VFES_DeployableBarrier",
+      "price": 96
+    },
+    {
+      "abr": "deployableturret",
+      "category": "Security",
+      "defname": "VFES_Turret_FloorTurret",
+      "price": 983
+    },
+    {
+      "abr": "doubleautocannon",
+      "category": "Misc",
+      "defname": "VFES_Turret_AutocannonDouble",
+      "price": 3475
+    },
+    {
+      "abr": "empcannon",
+      "category": "Misc",
+      "defname": "VFES_Turret_EMPTurret",
+      "price": 4225
+    },
+    {
+      "abr": "flameturret",
+      "category": "Security",
+      "defname": "VFES_Turret_Flame",
+      "price": 808
+    },
+    {
+      "abr": "gascooler",
+      "category": "Misc",
+      "defname": "VPE_GasCooler",
+      "price": 458
+    },
+    {
+      "abr": "gasheater",
+      "category": "Temperature",
+      "defname": "VPE_GasHeater",
+      "price": 218
+    },
+    {
+      "abr": "gaspipe",
+      "category": "Misc",
+      "defname": "VPE_GasPipe",
+      "price": 3
+    },
+    {
+      "abr": "gaspipevalve",
+      "category": "Misc",
+      "defname": "VPE_GasPipeValve",
+      "price": 102
+    },
+    {
+      "abr": "gaspoweredexcavator",
+      "category": "Production",
+      "defname": "VPE_GasDrill",
+      "price": 483
+    },
+    {
+      "abr": "gassunlamp",
+      "category": "Furniture",
+      "defname": "VPE_GasSunLamp",
+      "price": 160
+    },
+    {
+      "abr": "gastank",
+      "category": "Power",
+      "defname": "VPE_GasTank",
+      "price": 321
+    },
+    {
+      "abr": "heavyartillery",
+      "category": "Security",
+      "defname": "Raider_Turret_Artillery",
+      "price": 1408
+    },
+    {
+      "abr": "helixiengascrematorium",
+      "category": "Misc",
+      "defname": "VPE_GasCrematorium",
+      "price": 700
+    },
+    {
+      "abr": "helixiengaspoweredgenerator",
+      "category": "Misc",
+      "defname": "VPE_HelixienGenerator",
+      "price": 492
+    },
+    {
+      "abr": "helixiengassmelter",
+      "category": "Production",
+      "defname": "VPE_GasSmelter",
+      "price": 667
+    },
+    {
+      "abr": "helixiengasstove",
+      "category": "Production",
+      "defname": "VPE_GasStove",
+      "price": 375
+    },
+    {
+      "abr": "helixienpump",
+      "category": "Misc",
+      "defname": "VPE_HelixienPump",
+      "price": 542
+    },
+    {
+      "abr": "hmgcomplex",
+      "category": "Misc",
+      "defname": "VFES_Turret_HMGComplex",
+      "price": 750
+    },
+    {
+      "abr": "illuminateddresser",
+      "category": "Furniture",
+      "defname": "Table_IlluminatedDresser",
+      "price": 367
+    },
+    {
+      "abr": "illuminatedendtable",
+      "category": "Furniture",
+      "defname": "Table_IlluminatedEndTable",
+      "price": 286
+    },
+    {
+      "abr": "industrialchemfuelpoweredgenerator",
+      "category": "Misc",
+      "defname": "VFE_IndustrialChemfuelPoweredGenerator",
+      "price": 908
+    },
+    {
+      "abr": "industrialhelixiengaspoweredgenerator",
+      "category": "Misc",
+      "defname": "VPE_IndustrialHelixienGenerator",
+      "price": 908
+    },
+    {
+      "abr": "industrialwood-firedgenerator",
+      "category": "Misc",
+      "defname": "VFE_IndustrialWoodFiredGenerator",
+      "price": 808
+    },
+    {
+      "abr": "interactivetable(1x1)",
+      "category": "Furniture",
+      "defname": "Table_interactive_1x1c",
+      "price": 500
+    },
+    {
+      "abr": "interactivetable(2x2)",
+      "category": "Furniture",
+      "defname": "Table_interactive_2x2c",
+      "price": 925
+    },
+    {
+      "abr": "landmine",
+      "category": "Security",
+      "defname": "VFES_Landmine",
+      "price": 236
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Power",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": 1467
+    },
+    {
+      "abr": "largebattery",
+      "category": "Power",
+      "defname": "VFE_LargeBattery",
+      "price": 667
+    },
+    {
+      "abr": "largeshieldgenerator",
+      "category": "Misc",
+      "defname": "VFES_ShieldGenerator_Large",
+      "price": 7458
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": 4000
+    },
+    {
+      "abr": "lightningrod",
+      "category": "Special",
+      "defname": "VPE_LightningRod",
+      "price": 667
+    },
+    {
+      "abr": "militaryturret",
+      "category": "Security",
+      "defname": "VFES_Turret_MilitaryTurret",
+      "price": 842
+    },
+    {
+      "abr": "nuclearreactor",
+      "category": "Misc",
+      "defname": "VPE_NuclearGenerator",
+      "price": 4475
+    },
+    {
+      "abr": "outdoorsolarlamp",
+      "category": "Furniture",
+      "defname": "Spacer_OutdoorLamp",
+      "price": 184
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": 242
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": 189
+    },
+    {
+      "abr": "psychicpylon",
+      "category": "Special",
+      "defname": "VFES_PsychicPylon",
+      "price": 2167
+    },
+    {
+      "abr": "reinforcedwall",
+      "category": "Misc",
+      "defname": "Reinforced_WallAT",
+      "price": 52
+    },
+    {
+      "abr": "repairshelf",
+      "category": "Furniture",
+      "defname": "Shelf_RepairRack",
+      "price": 2908
+    },
+    {
+      "abr": "rocketturret",
+      "category": "Misc",
+      "defname": "VFES_Turret_TriRocket",
+      "price": 2508
+    },
+    {
+      "abr": "searchlight",
+      "category": "Security",
+      "defname": "VFES_Turret_Searchlight",
+      "price": 475
+    },
+    {
+      "abr": "sentrygun",
+      "category": "Security",
+      "defname": "VFES_Turret_SentryGun",
+      "price": 1058
+    },
+    {
+      "abr": "shortwall",
+      "category": "Misc",
+      "defname": "VFES_ShortWall",
+      "price": 14
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Power",
+      "defname": "VFE_SmallBattery",
+      "price": 182
+    },
+    {
+      "abr": "smallshieldgenerator",
+      "category": "Security",
+      "defname": "VFES_ShieldGenerator_Small",
+      "price": 3983
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": 667
+    },
+    {
+      "abr": "spacerlamp",
+      "category": "Furniture",
+      "defname": "Light_SpacerLamp",
+      "price": 184
+    },
+    {
+      "abr": "subterraneangaspipe",
+      "category": "Misc",
+      "defname": "VPE_GasPipeSub",
+      "price": 17
+    },
+    {
+      "abr": "tidalgenerator",
+      "category": "Misc",
+      "defname": "VFE_TidalGenerator",
+      "price": 1500
+    },
+    {
+      "abr": "trench",
+      "category": "Misc",
+      "defname": "VFES_Trench",
+      "price": 40
+    },
+    {
+      "abr": "ultrascreentelevision",
+      "category": "Recreation",
+      "defname": "UltrascreenTV",
+      "price": 3075
+    },
+    {
+      "abr": "boulder",
+      "category": "Catapult ammo",
+      "defname": "Ammo_Catapult_Boulder",
+      "price": 1
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 2102
+  "total": 2153
 }
