@@ -754,7 +754,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "husky",
@@ -964,7 +964,7 @@
       "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "minnow",
@@ -4966,7 +4966,7 @@
       "abr": "ambrandy(legendary)",
       "category": "Drugs",
       "defname": "VBE_AmbrandyLegendary",
-      "price": -10
+      "price": 30000
     },
     {
       "abr": "ambrandy(masterwork)",
@@ -12448,7 +12448,7 @@
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "advancedbattery",
@@ -12502,7 +12502,7 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechviolencegenerator",
@@ -12796,7 +12796,7 @@
       "abr": "nuclearreactor",
       "category": "Misc",
       "defname": "VPE_NuclearGenerator",
-      "price": 4475
+      "price": -10
     },
     {
       "abr": "outdoorsolarlamp",
@@ -12826,7 +12826,7 @@
       "abr": "reinforcedwall",
       "category": "Misc",
       "defname": "Reinforced_WallAT",
-      "price": 52
+      "price": -10
     },
     {
       "abr": "repairshelf",
@@ -12844,7 +12844,7 @@
       "abr": "searchlight",
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "sentrygun",
@@ -12856,7 +12856,7 @@
       "abr": "shortwall",
       "category": "Misc",
       "defname": "VFES_ShortWall",
-      "price": 14
+      "price": -10
     },
     {
       "abr": "smallbattery",
@@ -12913,11 +12913,47 @@
       "price": 1
     },
     {
+      "abr": "advancedgeothermalgenerator",
+      "category": "Misc",
+      "defname": "VPE_AdvancedGeothermalGenerator",
+      "price": 3058
+    },
+    {
+      "abr": "gasfloodlight",
+      "category": "Furniture",
+      "defname": "VPE_GasFloodlight",
+      "price": 255
+    },
+    {
+      "abr": "gas-operatedpodlauncher",
+      "category": "Misc",
+      "defname": "VPE_GasPodLauncher",
+      "price": 230
+    },
+    {
+      "abr": "helixiengassmithy",
+      "category": "Production",
+      "defname": "VPE_GasSmithy",
+      "price": 492
+    },
+    {
+      "abr": "helixiengasvent",
+      "category": "Misc",
+      "defname": "VPE_GasVent",
+      "price": 97
+    },
+    {
+      "abr": "standinggaslamp",
+      "category": "Furniture",
+      "defname": "VPE_GasLamp",
+      "price": 65
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2153
+  "total": 2159
 }
