@@ -1467,7 +1467,7 @@
       "bypassLimit": false
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -2332,7 +2332,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 6500,
+      "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NaturalMood",
       "degree": 2,
@@ -2788,7 +2788,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 10500,
+      "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Tough",
       "degree": 0,
@@ -2980,23 +2980,70 @@
         "brawler"
       ],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Xenophobia",
+      "degree": -1,
+      "name": "xenophile",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Xenophobia",
+      "degree": 1,
+      "name": "xenophobe",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
     {
-      "price": 2917,
-      "defName": "Human",
+      "price": 10000,
+      "defName": "LotRE_ElfStandardRace",
       "enabled": true,
-      "name": "human",
+      "name": "elf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1,
-      "defName": "Zombie",
-      "enabled": true,
-      "name": "Zombie",
+      "price": 2083,
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": false,
+      "name": "half-elf",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 10000,
+      "defName": "Human",
+      "enabled": false,
+      "name": "human",
       "data": {
         "customName": false
       }
