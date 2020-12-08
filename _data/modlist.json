@@ -30,6 +30,12 @@
     "version": "1.1.2.2"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vectorial1024",
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
@@ -46,16 +52,16 @@
     "version": "3.8.1038"
   },
   {
+    "author": "Kikohi",
+    "name": "Wave Survival",
+    "steamId": "1781679122",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.2202"
   },
   {
     "author": "UnlimitedHugs",
@@ -65,12 +71,6 @@
     "author": "Zylle",
     "name": "Map Designer",
     "steamId": "2111424996",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Cabbage",
-    "name": "RimCities - Citadel Update",
-    "steamId": "1775170117",
     "version": "1.0.0.0"
   },
   {
@@ -86,24 +86,10 @@
     "version": "1.0.7393.34550"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.0.9.0"
-  },
-  {
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "1631756268",
     "version": "1.2.3.2"
-  },
-  {
-    "author": "Lelbaro",
-    "name": "[LB] SectorVII"
-  },
-  {
-    "author": "Lelbaro",
-    "name": "[LB] SectorVII CE PATCH"
   },
   {
     "author": "DimonSever000",
@@ -120,26 +106,14 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "HIGGS",
-    "name": "Death Stranding Faction: Homo Demens"
-  },
-  {
-    "author": "HIGGS",
-    "name": "Death Stranding Faction: Homo Demens - CE Patch"
-  },
-  {
-    "author": "HIGGS",
-    "name": "Death Stranding Factions - MULEs"
-  },
-  {
     "author": "Neceros",
     "name": "SRTS Expanded",
     "steamId": "1845423808",
     "version": "1.4.6"
   },
   {
-    "author": "Fuji",
-    "name": "RimHeli"
+    "author": "OutboundLegend",
+    "name": "UN-Colony Vanilla Resources"
   },
   {
     "author": "Nif",
@@ -338,6 +312,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Jecrell,lbmaian",
+    "name": "Doors Expanded (Dev)",
+    "steamId": "2195733555",
+    "version": "1.3.2.1"
+  },
+  {
     "author": "Harkon",
     "name": "Gun Nut - Community Pack",
     "steamId": "2268285121",
@@ -400,6 +380,10 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades"
+  },
+  {
     "author": "NilchEi",
     "name": "Powerful Psycast AI",
     "steamId": "2026063610",
@@ -434,6 +418,12 @@
     "name": "Stackable Chunks"
   },
   {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Elves (Continued)",
+    "steamId": "2244183992",
+    "version": "1.0.7.0"
+  },
+  {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
@@ -448,6 +438,10 @@
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.7.1"
+  },
+  {
+    "author": "Kikohi, Trunken",
+    "name": "Advanced Parka"
   },
   {
     "author": "Uuugggg",
@@ -528,8 +522,8 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "",
-    "version": "5.0.1.10"
+    "steamId": "2009500580",
+    "version": "5.0.2.2"
   },
   {
     "author": "民火",
@@ -569,7 +563,7 @@
     "author": "Garwel",
     "name": "Rimocracy",
     "steamId": "2159080853",
-    "version": "1.1.0"
+    "version": "1.1.2"
   },
   {
     "author": "Neptimus7,XeoNovaDan",
@@ -602,12 +596,6 @@
   {
     "author": "Ogliss",
     "name": "Easy Extra Apparel Layers"
-  },
-  {
-    "author": "Jecrell,lbmaian",
-    "name": "Doors Expanded (Dev)",
-    "steamId": "2195733555",
-    "version": "1.3.2.1"
   },
   {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
@@ -680,6 +668,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi",
+    "name": "Vanilla Christmas Expanded (Continued)"
+  },
+  {
     "author": "Oskar Potocki, Alestria",
     "name": "Vanilla Plants Expanded - Succulents"
   },
@@ -716,20 +714,6 @@
     "name": "Ranged DPS"
   },
   {
-    "author": "Kirby23590",
-    "name": "[KIR]No Mechanoid Raids"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Random Research",
-    "steamId": "1374065851",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LadyCookie",
-    "name": "Cookie Traits"
-  },
-  {
     "author": "Arekan",
     "name": "Enhanced Vanilla Gun Sounds"
   },
@@ -737,7 +721,7 @@
     "author": "Pravus",
     "name": "High Tech Laboratory Facilities (Continued)",
     "steamId": "1542048177",
-    "version": "1.0.13.0"
+    "version": "1.0.14.0"
   },
   {
     "author": "Neceros",
@@ -756,6 +740,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zylle",
+    "name": "Gemstones"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "LadyCookie",
+    "name": "Cookie Traits"
+  },
+  {
+    "author": "Lakuna",
+    "name": "Christmas Hats"
+  },
+  {
     "author": "tikubonn",
     "name": "RainbowLamp[1.1-1.2]"
   },
@@ -768,8 +770,28 @@
     "name": "[KYD] More Pawns Get Prosthetics!"
   },
   {
+    "author": "Madara Uchiha",
+    "name": "Undraft After Tucking"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
     "author": "Oskar Potocki, Helixien, Erin, Cody Spring",
     "name": "Vanilla Textures Expanded - Mod Edition"
+  },
+  {
+    "author": "Abe Vriens",
+    "name": "Colonists' Deco",
+    "steamId": "2181788064",
+    "version": "0.1.0"
   },
   {
     "author": "brucethemoose",
