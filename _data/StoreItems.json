@@ -806,7 +806,7 @@
     },
     {
       "abr": "jade",
-      "category": "Raw resources",
+      "category": "Gemstones",
       "defname": "Jade",
       "price": 8
     },
@@ -5929,12 +5929,6 @@
       "price": -10
     },
     {
-      "abr": "ads",
-      "category": "Misc",
-      "defname": "PPCADS",
-      "price": -10
-    },
-    {
       "abr": "advancedarmprosthesis",
       "category": "Prosthetic",
       "defname": "TP_Advanced_Hand_Prosthesis",
@@ -5953,12 +5947,6 @@
       "price": -10
     },
     {
-      "abr": "advancedrepairgun",
-      "category": "Melee weapons",
-      "defname": "LB_AdvancedRepairGun",
-      "price": 1017
-    },
-    {
       "abr": "advancedrotor",
       "category": "Misc",
       "defname": "VFEPD_AdvancedRotor",
@@ -5969,12 +5957,6 @@
       "category": "Misc",
       "defname": "VFEPD_SpacerStorage",
       "price": -10
-    },
-    {
-      "abr": "advancedtablet",
-      "category": "Melee weapons",
-      "defname": "SC7_AdvancedTablet",
-      "price": 808
     },
     {
       "abr": "agarilux",
@@ -5998,12 +5980,6 @@
       "abr": "airconditioningunit",
       "category": "Misc",
       "defname": "AirConditioningUnit",
-      "price": -10
-    },
-    {
-      "abr": "alc",
-      "category": "Rimatomics Product",
-      "defname": "ALC",
       "price": -10
     },
     {
@@ -6325,12 +6301,6 @@
       "price": -10
     },
     {
-      "abr": "armedhelicopter",
-      "category": "Buildings",
-      "defname": "Huey_Armed",
-      "price": -10
-    },
-    {
       "abr": "armorydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordArmory",
@@ -6370,12 +6340,6 @@
       "abr": "ash",
       "category": "Misc",
       "defname": "VFEPD_FilthAsh",
-      "price": -10
-    },
-    {
-      "abr": "atom",
-      "category": "Rimatomics Product",
-      "defname": "ATOM",
       "price": -10
     },
     {
@@ -6424,12 +6388,6 @@
       "abr": "backpack",
       "category": "Loadbearing gear",
       "defname": "Apparel_Backpack",
-      "price": -10
-    },
-    {
-      "abr": "balaclava(mule)",
-      "category": "Headgear",
-      "defname": "DSApparel_MULE_Balaclava",
       "price": -10
     },
     {
@@ -6496,12 +6454,6 @@
       "abr": "baydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallBay",
-      "price": -10
-    },
-    {
-      "abr": "beamsplitter",
-      "category": "Rimatomics Product",
-      "defname": "BeamSplitter",
       "price": -10
     },
     {
@@ -6865,12 +6817,6 @@
       "price": -10
     },
     {
-      "abr": "cargohelicopter",
-      "category": "Buildings",
-      "defname": "Hip",
-      "price": -10
-    },
-    {
       "abr": "catear",
       "category": "Archotech",
       "defname": "TP_Cat_Ear",
@@ -7003,18 +6949,6 @@
       "price": -10
     },
     {
-      "abr": "coldwaterpipe",
-      "category": "Misc",
-      "defname": "waterPipe",
-      "price": -10
-    },
-    {
-      "abr": "coldwatervalve",
-      "category": "Misc",
-      "defname": "waterValve",
-      "price": -10
-    },
-    {
       "abr": "column",
       "category": "Misc",
       "defname": "Column",
@@ -7123,21 +7057,9 @@
       "price": -10
     },
     {
-      "abr": "consoleloom",
-      "category": "Misc",
-      "defname": "controllerLoom",
-      "price": -10
-    },
-    {
       "abr": "controldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordControl",
-      "price": -10
-    },
-    {
-      "abr": "controlrodactuator",
-      "category": "Rimatomics Product",
-      "defname": "ControlRodActuator",
       "price": -10
     },
     {
@@ -7153,27 +7075,9 @@
       "price": -10
     },
     {
-      "abr": "coolantpipe",
-      "category": "Misc",
-      "defname": "coolingPipe",
-      "price": -10
-    },
-    {
-      "abr": "coolantvalve",
-      "category": "Misc",
-      "defname": "coolantValve",
-      "price": -10
-    },
-    {
       "abr": "cooler",
       "category": "Misc",
       "defname": "Cooler",
-      "price": -10
-    },
-    {
-      "abr": "coolingtower",
-      "category": "Misc",
-      "defname": "CoolingTower",
       "price": -10
     },
     {
@@ -7555,12 +7459,6 @@
       "price": -10
     },
     {
-      "abr": "depleteduranium",
-      "category": "Rimatomics Product",
-      "defname": "DepletedUraniumPellets",
-      "price": -10
-    },
-    {
       "abr": "dermalplating",
       "category": "Cyborg",
       "defname": "ANN_Dermalplating",
@@ -7636,24 +7534,6 @@
       "abr": "dragotree",
       "category": "Misc",
       "defname": "VFEPD_DragoTree",
-      "price": -10
-    },
-    {
-      "abr": "driveactuator",
-      "category": "Rimatomics Product",
-      "defname": "DriveActuator",
-      "price": -10
-    },
-    {
-      "abr": "dublastdoor",
-      "category": "Misc",
-      "defname": "DU_Blastdoor",
-      "price": -10
-    },
-    {
-      "abr": "dusabotround",
-      "category": "Sabot Rounds",
-      "defname": "RailgunSabotDU",
       "price": -10
     },
     {
@@ -7861,12 +7741,6 @@
       "price": -10
     },
     {
-      "abr": "ers",
-      "category": "Rimatomics Product",
-      "defname": "ERS",
-      "price": -10
-    },
-    {
       "abr": "exhaust",
       "category": "Misc",
       "defname": "VFEPD_Exhaust",
@@ -7978,18 +7852,6 @@
       "abr": "fsx",
       "category": "Raw resources",
       "defname": "FSX",
-      "price": -10
-    },
-    {
-      "abr": "fuelrods",
-      "category": "Nuclear fuel",
-      "defname": "FuelRods",
-      "price": -10
-    },
-    {
-      "abr": "fuelrodsmox",
-      "category": "Nuclear fuel",
-      "defname": "FuelRodsMOX",
       "price": -10
     },
     {
@@ -8197,12 +8059,6 @@
       "price": -10
     },
     {
-      "abr": "heavyattackhelicopter",
-      "category": "Buildings",
-      "defname": "Hind",
-      "price": -10
-    },
-    {
       "abr": "heavyauto-turret",
       "category": "Security",
       "defname": "Turret_Heavy",
@@ -8227,18 +8083,6 @@
       "price": -10
     },
     {
-      "abr": "hel",
-      "category": "Misc",
-      "defname": "PPCHEL",
-      "price": -10
-    },
-    {
-      "abr": "helicopter",
-      "category": "Buildings",
-      "defname": "Huey",
-      "price": -10
-    },
-    {
       "abr": "highsecurityfence",
       "category": "Misc",
       "defname": "TechFence",
@@ -8257,63 +8101,9 @@
       "price": -10
     },
     {
-      "abr": "highvoltage",
-      "category": "Misc",
-      "defname": "HighVoltage",
-      "price": -10
-    },
-    {
-      "abr": "highvoltagetransformer",
-      "category": "Misc",
-      "defname": "Transformer",
-      "price": -10
-    },
-    {
       "abr": "hologram",
       "category": "Misc",
       "defname": "VFE_HologramOn",
-      "price": -10
-    },
-    {
-      "abr": "homodemensassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "DS_HD_AssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "homodemenshelm",
-      "category": "Headgear",
-      "defname": "DSApparel_HD_Helm",
-      "price": -10
-    },
-    {
-      "abr": "homodemensrocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "DS_RocketLauncher",
-      "price": -10
-    },
-    {
-      "abr": "homodemensshotgun",
-      "category": "Ranged weapons",
-      "defname": "DS_Shotgun",
-      "price": -10
-    },
-    {
-      "abr": "homodemensuniform",
-      "category": "Apparel",
-      "defname": "DSApparel_HD_Uniform",
-      "price": -10
-    },
-    {
-      "abr": "homodemonbodyarmor",
-      "category": "Apparel",
-      "defname": "DSApparel_HD_Armor",
-      "price": -10
-    },
-    {
-      "abr": "hoodedbalaclava(mule)",
-      "category": "Headgear",
-      "defname": "DSApparel_MULE_Hood",
       "price": -10
     },
     {
@@ -8590,12 +8380,6 @@
       "abr": "labcoat",
       "category": "Apparel",
       "defname": "LabCoat",
-      "price": -10
-    },
-    {
-      "abr": "labcoat",
-      "category": "Worker apparel",
-      "defname": "LB_LabCoat",
       "price": -10
     },
     {
@@ -9241,27 +9025,9 @@
       "price": -10
     },
     {
-      "abr": "lensmodule",
-      "category": "Rimatomics Product",
-      "defname": "LenseModule",
-      "price": -10
-    },
-    {
-      "abr": "liberator",
-      "category": "Misc",
-      "defname": "MissileSilo",
-      "price": -10
-    },
-    {
       "abr": "lifesupportapparatus",
       "category": "Simple parts",
       "defname": "TP_Life_Support_Apparatus",
-      "price": -10
-    },
-    {
-      "abr": "lighthelicopter",
-      "category": "Buildings",
-      "defname": "HeliGazelle",
       "price": -10
     },
     {
@@ -9340,12 +9106,6 @@
       "abr": "mapletree",
       "category": "Misc",
       "defname": "VFEPD_MapleTree",
-      "price": -10
-    },
-    {
-      "abr": "marauder",
-      "category": "Misc",
-      "defname": "PPCMarauder",
       "price": -10
     },
     {
@@ -9475,12 +9235,6 @@
       "price": -10
     },
     {
-      "abr": "meps",
-      "category": "Rimatomics Product",
-      "defname": "MEPS",
-      "price": -10
-    },
-    {
       "abr": "messdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMess",
@@ -9535,12 +9289,6 @@
       "price": -10
     },
     {
-      "abr": "missilefuselage",
-      "category": "Rimatomics Product",
-      "defname": "MissileFuselage",
-      "price": -10
-    },
-    {
       "abr": "moisturepump",
       "category": "Misc",
       "defname": "MoisturePump",
@@ -9553,42 +9301,6 @@
       "price": -10
     },
     {
-      "abr": "moppmask(desert)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskDesert",
-      "price": 500
-    },
-    {
-      "abr": "moppmask(snow)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskSnow",
-      "price": 500
-    },
-    {
-      "abr": "moppmask(woodland)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskWoodland",
-      "price": 500
-    },
-    {
-      "abr": "moppsuit(desert)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitDesert",
-      "price": -10
-    },
-    {
-      "abr": "moppsuit(snow)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitSnow",
-      "price": -10
-    },
-    {
-      "abr": "moppsuit(woodland)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitWoodland",
-      "price": -10
-    },
-    {
       "abr": "morguedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMorgue",
@@ -9598,24 +9310,6 @@
       "abr": "mortardecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMortar",
-      "price": -10
-    },
-    {
-      "abr": "mulearmor",
-      "category": "Apparel",
-      "defname": "DSApparel_MULE_ARMOR",
-      "price": -10
-    },
-    {
-      "abr": "mulecoat",
-      "category": "Apparel",
-      "defname": "DSApparel_MULE_Coat",
-      "price": -10
-    },
-    {
-      "abr": "muleuniform",
-      "category": "Apparel",
-      "defname": "DSApparel_MULE_Uniform",
       "price": -10
     },
     {
@@ -9745,12 +9439,6 @@
       "price": -10
     },
     {
-      "abr": "nuclearwarhead",
-      "category": "Rimatomics Product",
-      "defname": "FissionWarhead",
-      "price": -10
-    },
-    {
       "abr": "nutrientpastedispenser",
       "category": "Misc",
       "defname": "NutrientPasteDispenser",
@@ -9766,12 +9454,6 @@
       "abr": "oaktree",
       "category": "Misc",
       "defname": "VFEPD_OakTree",
-      "price": -10
-    },
-    {
-      "abr": "obelisk",
-      "category": "Misc",
-      "defname": "PPCObelisk",
       "price": -10
     },
     {
@@ -9901,12 +9583,6 @@
       "price": -10
     },
     {
-      "abr": "pilothelmet",
-      "category": "Headgear",
-      "defname": "Apparel_PilotHelmet",
-      "price": 508
-    },
-    {
       "abr": "pincushioncactus",
       "category": "Misc",
       "defname": "VFEPD_PincushionCactus",
@@ -10021,18 +9697,6 @@
       "price": -10
     },
     {
-      "abr": "plutonium",
-      "category": "Rimatomics Product",
-      "defname": "Plutonium",
-      "price": -10
-    },
-    {
-      "abr": "plutoniumprocessor",
-      "category": "Misc",
-      "defname": "PlutoniumProcessor",
-      "price": -10
-    },
-    {
       "abr": "podlauncher",
       "category": "Misc",
       "defname": "PodLauncher",
@@ -10043,18 +9707,6 @@
       "category": "Misc",
       "defname": "VFEPD_PoplarTree",
       "price": -10
-    },
-    {
-      "abr": "porterprod",
-      "category": "Ranged weapons",
-      "defname": "DS_Porter_Prod",
-      "price": -10
-    },
-    {
-      "abr": "potassiumiodide",
-      "category": "Drugs",
-      "defname": "PotassiumIodide",
-      "price": 53
     },
     {
       "abr": "potatoplant",
@@ -10090,12 +9742,6 @@
       "abr": "powerswitch",
       "category": "Misc",
       "defname": "PowerSwitch",
-      "price": -10
-    },
-    {
-      "abr": "ppc",
-      "category": "Misc",
-      "defname": "PPC",
       "price": -10
     },
     {
@@ -10387,12 +10033,6 @@
       "price": -10
     },
     {
-      "abr": "punisher",
-      "category": "Misc",
-      "defname": "PPCRailgun",
-      "price": -10
-    },
-    {
       "abr": "quadrefrigerator",
       "category": "Furniture",
       "defname": "RimFridge_QuadRefrigerator",
@@ -10417,63 +10057,9 @@
       "price": -10
     },
     {
-      "abr": "r.t.g",
-      "category": "Nuclear",
-      "defname": "RimatomicsRTG",
-      "price": -10
-    },
-    {
-      "abr": "radiationdetector",
-      "category": "Misc",
-      "defname": "RadiationDetector",
-      "price": -10
-    },
-    {
-      "abr": "radiationmask",
-      "category": "Hazmat",
-      "defname": "Apparel_RadiationMask",
-      "price": 244
-    },
-    {
-      "abr": "radiationsuit",
-      "category": "Hazmat",
-      "defname": "Apparel_RadiationSuit",
-      "price": -10
-    },
-    {
-      "abr": "radiator",
-      "category": "Misc",
-      "defname": "CoolingRadiator",
-      "price": -10
-    },
-    {
-      "abr": "reactorconsole",
-      "category": "Misc",
-      "defname": "ReactorControl",
-      "price": -10
-    },
-    {
       "abr": "reactordecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordReactor",
-      "price": -10
-    },
-    {
-      "abr": "reactortypea",
-      "category": "Misc",
-      "defname": "ReactorCoreA",
-      "price": -10
-    },
-    {
-      "abr": "reactortypev",
-      "category": "Misc",
-      "defname": "ReactorCoreC",
-      "price": -10
-    },
-    {
-      "abr": "reactortypex",
-      "category": "Misc",
-      "defname": "ReactorCoreB",
       "price": -10
     },
     {
@@ -10546,12 +10132,6 @@
       "abr": "refinerydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordRefinery",
-      "price": -10
-    },
-    {
-      "abr": "reinforcedduwall",
-      "category": "Misc",
-      "defname": "RadiationShielding",
       "price": -10
     },
     {
@@ -10633,12 +10213,6 @@
       "price": -10
     },
     {
-      "abr": "researchreactor",
-      "category": "Misc",
-      "defname": "ResearchReactor",
-      "price": -10
-    },
-    {
       "abr": "researchterminal",
       "category": "Production",
       "defname": "LabTerminal",
@@ -10651,27 +10225,9 @@
       "price": -10
     },
     {
-      "abr": "rimatomicsmachiningtable",
-      "category": "Misc",
-      "defname": "TableRimatomicsMachining",
-      "price": -10
-    },
-    {
-      "abr": "rimatomicsresearchbench",
-      "category": "Misc",
-      "defname": "NuclearResearchBench",
-      "price": -10
-    },
-    {
       "abr": "rockrubble",
       "category": "Misc",
       "defname": "VFEPD_FilthRubbleRock",
-      "price": -10
-    },
-    {
-      "abr": "rocketengine",
-      "category": "Rimatomics Product",
-      "defname": "RocketEngine",
       "price": -10
     },
     {
@@ -10705,18 +10261,6 @@
       "price": -10
     },
     {
-      "abr": "sabotround",
-      "category": "Sabot Rounds",
-      "defname": "RailgunSabot",
-      "price": -10
-    },
-    {
-      "abr": "sacs",
-      "category": "Misc",
-      "defname": "PPCWeaponsConsole",
-      "price": -10
-    },
-    {
       "abr": "saguarocactus",
       "category": "Misc",
       "defname": "VFEPD_SaguaroCactus",
@@ -10738,96 +10282,6 @@
       "abr": "sarcophagus",
       "category": "Misc",
       "defname": "Sarcophagus",
-      "price": -10
-    },
-    {
-      "abr": "sarcophagustypea",
-      "category": "Misc",
-      "defname": "ReactorSacrophagus",
-      "price": -10
-    },
-    {
-      "abr": "sarcophagustypev",
-      "category": "Misc",
-      "defname": "ReactorSacrophagusC",
-      "price": -10
-    },
-    {
-      "abr": "sarcophagustypex",
-      "category": "Misc",
-      "defname": "ReactorSacrophagusB",
-      "price": -10
-    },
-    {
-      "abr": "sc7assaultrifle",
-      "category": "Ranged weapons",
-      "defname": "SC7_AssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "sc7chargerifle",
-      "category": "Ranged weapons",
-      "defname": "SC7_ChargeRifle",
-      "price": -10
-    },
-    {
-      "abr": "sc7combatjumpsuit",
-      "category": "Armor",
-      "defname": "LBSC7_CombatJumpsuit",
-      "price": -10
-    },
-    {
-      "abr": "sc7engineerhelmet",
-      "category": "Worker headgear",
-      "defname": "LBSC7_EngineerHelmet",
-      "price": -10
-    },
-    {
-      "abr": "sc7engineerjumpsuit",
-      "category": "Worker apparel",
-      "defname": "LBSC7_EngineerJumpsuit",
-      "price": -10
-    },
-    {
-      "abr": "sc7engineervest",
-      "category": "Worker apparel",
-      "defname": "LBSC7_EngineerVest",
-      "price": -10
-    },
-    {
-      "abr": "sc7medicjumpsuit",
-      "category": "Worker apparel",
-      "defname": "LBSC7_MedicJumpsuit",
-      "price": -10
-    },
-    {
-      "abr": "sc7powerarmor",
-      "category": "Armor",
-      "defname": "LBSC7_PowerArmor",
-      "price": -10
-    },
-    {
-      "abr": "sc7powerhelmet",
-      "category": "Combat headgear",
-      "defname": "LBSC7_PowerHelmet",
-      "price": -10
-    },
-    {
-      "abr": "sc7reconarmor",
-      "category": "Armor",
-      "defname": "LBSC7_ReconArmor",
-      "price": -10
-    },
-    {
-      "abr": "sc7reconhelmet",
-      "category": "Combat headgear",
-      "defname": "LBSC7_ReconHelmet",
-      "price": -10
-    },
-    {
-      "abr": "scad",
-      "category": "Rimatomics Product",
-      "defname": "SCAD",
       "price": -10
     },
     {
@@ -11299,18 +10753,6 @@
       "price": -10
     },
     {
-      "abr": "steampipe",
-      "category": "Misc",
-      "defname": "steamPipe",
-      "price": -10
-    },
-    {
-      "abr": "steamvalve",
-      "category": "Misc",
-      "defname": "steamValve",
-      "price": -10
-    },
-    {
       "abr": "steelatm",
       "category": "Misc",
       "defname": "VFEPD_SteelATM",
@@ -11425,12 +10867,6 @@
       "price": -10
     },
     {
-      "abr": "storagepool",
-      "category": "Misc",
-      "defname": "storagePool",
-      "price": -10
-    },
-    {
       "abr": "strawberryplant",
       "category": "Misc",
       "defname": "VFEPD_Strawberry",
@@ -11485,12 +10921,6 @@
       "price": -10
     },
     {
-      "abr": "tacs",
-      "category": "Misc",
-      "defname": "RadarDish",
-      "price": -10
-    },
-    {
       "abr": "tacticalvest",
       "category": "Loadbearing gear",
       "defname": "Apparel_TacVest",
@@ -11500,12 +10930,6 @@
       "abr": "tanningrack",
       "category": "Misc",
       "defname": "VFEPD_TanningRack",
-      "price": -10
-    },
-    {
-      "abr": "targetingchip",
-      "category": "Rimatomics Product",
-      "defname": "TargetingChip",
       "price": -10
     },
     {
@@ -11527,12 +10951,6 @@
       "price": -10
     },
     {
-      "abr": "teslacoil",
-      "category": "Misc",
-      "defname": "PPCTeslaCoil",
-      "price": -10
-    },
-    {
       "abr": "thermalmechanitesmk2",
       "category": "Bionic",
       "defname": "TP_Thermal_Mechanites_MK_Two",
@@ -11542,12 +10960,6 @@
       "abr": "thermalmechanitesmk3",
       "category": "Archotech",
       "defname": "TP_Thermal_Mechanites_MK_Three",
-      "price": -10
-    },
-    {
-      "abr": "thorturbine",
-      "category": "Misc",
-      "defname": "Turbine",
       "price": -10
     },
     {
@@ -11605,12 +11017,6 @@
       "price": -10
     },
     {
-      "abr": "turbineblades",
-      "category": "Rimatomics Product",
-      "defname": "turbineBlade",
-      "price": -10
-    },
-    {
       "abr": "usymbol",
       "category": "Misc",
       "defname": "VFEPD_DecalSymbolU",
@@ -11656,12 +11062,6 @@
       "abr": "unstablethermalmechanitesmk1",
       "category": "Bionic",
       "defname": "TP_Unstable_Thermal_Mechanites_MK_One",
-      "price": -10
-    },
-    {
-      "abr": "uraniumpellets",
-      "category": "Rimatomics Product",
-      "defname": "UraniumPellets",
       "price": -10
     },
     {
@@ -11749,12 +11149,6 @@
       "price": -10
     },
     {
-      "abr": "watercooling",
-      "category": "Misc",
-      "defname": "CoolingWater",
-      "price": -10
-    },
-    {
       "abr": "waterdispenser",
       "category": "Misc",
       "defname": "VFEPD_WaterDispenser",
@@ -11776,12 +11170,6 @@
       "abr": "waterproofconduit",
       "category": "Misc",
       "defname": "WaterproofConduit",
-      "price": -10
-    },
-    {
-      "abr": "weaponsresearchbench",
-      "category": "Misc",
-      "defname": "WeaponsBench",
       "price": -10
     },
     {
@@ -12013,87 +11401,9 @@
       "price": -10
     },
     {
-      "abr": "zeusturbine",
-      "category": "Misc",
-      "defname": "BigTurbine",
-      "price": -10
-    },
-    {
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
-    },
-    {
-      "abr": "zombieextract",
-      "category": "Serum",
-      "defname": "ZombieExtract",
-      "price": -10
-    },
-    {
-      "abr": "zombiemeat",
-      "category": "Meat",
-      "defname": "Meat_Zombie",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum10%",
-      "category": "Serum",
-      "defname": "Zombie10Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum100%",
-      "category": "Serum",
-      "defname": "Zombie100Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum20%",
-      "category": "Serum",
-      "defname": "Zombie20Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum30%",
-      "category": "Serum",
-      "defname": "Zombie30Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum40%",
-      "category": "Serum",
-      "defname": "Zombie40Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum50%",
-      "category": "Serum",
-      "defname": "Zombie50Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum60%",
-      "category": "Serum",
-      "defname": "Zombie60Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum70%",
-      "category": "Serum",
-      "defname": "Zombie70Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum80%",
-      "category": "Serum",
-      "defname": "Zombie80Serum",
-      "price": -10
-    },
-    {
-      "abr": "zombieserum90%",
-      "category": "Serum",
-      "defname": "Zombie90Serum",
       "price": -10
     },
     {
@@ -12343,114 +11653,6 @@
       "price": 10000
     },
     {
-      "abr": "gm6lynx",
-      "category": "Gun Nut",
-      "defname": "GN_GMSix",
-      "price": 20000
-    },
-    {
-      "abr": "icepickredrebel",
-      "category": "Melee weapons",
-      "defname": "GN_RedRebel",
-      "price": 333
-    },
-    {
-      "abr": "m1aarchangel",
-      "category": "Gun Nut",
-      "defname": "GN_MOneA",
-      "price": 11000
-    },
-    {
-      "abr": "m240bbravo",
-      "category": "Gun Nut",
-      "defname": "GN_M240B",
-      "price": 19000
-    },
-    {
-      "abr": "m320trooper",
-      "category": "Gun Nut",
-      "defname": "GN_HKGL",
-      "price": 13000
-    },
-    {
-      "abr": "m3e1carlgustaf",
-      "category": "Gun Nut",
-      "defname": "GN_MThreeEOne",
-      "price": 10000
-    },
-    {
-      "abr": "m4corp",
-      "category": "Gun Nut",
-      "defname": "GN_M4US",
-      "price": 16750
-    },
-    {
-      "abr": "m4a1gunnut",
-      "category": "Gun Nut",
-      "defname": "GN_MFourAOne",
-      "price": 16750
-    },
-    {
-      "abr": "m56smartgun",
-      "category": "Gun Nut",
-      "defname": "GN_M56SG",
-      "price": 25000
-    },
-    {
-      "abr": "mg338norma",
-      "category": "Gun Nut",
-      "defname": "GN_SSMG",
-      "price": 22000
-    },
-    {
-      "abr": "mp7a1hornet",
-      "category": "Gun Nut",
-      "defname": "GN_MPSevenAOne",
-      "price": 15000
-    },
-    {
-      "abr": "neopuppaw",
-      "category": "Gun Nut",
-      "defname": "GN_Neopup",
-      "price": 14000
-    },
-    {
-      "abr": "iwing5negev",
-      "category": "Gun Nut",
-      "defname": "GN_NGFive",
-      "price": 20000
-    },
-    {
-      "abr": "r700hawk",
-      "category": "Gun Nut",
-      "defname": "GN_RSevenHundred",
-      "price": 18000
-    },
-    {
-      "abr": "sa-58juicecannon",
-      "category": "Gun Nut",
-      "defname": "GN_SAFiftyEight",
-      "price": 17750
-    },
-    {
-      "abr": "saiga12ksweeper",
-      "category": "Gun Nut",
-      "defname": "GN_SaigaTwelveK",
-      "price": 25000
-    },
-    {
-      "abr": "skstapco",
-      "category": "Gun Nut",
-      "defname": "GN_SKS",
-      "price": 15000
-    },
-    {
-      "abr": "wallsunlight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallSunLight",
-      "price": -10
-    },
-    {
       "abr": "advancedbattery",
       "category": "Power",
       "defname": "VFE_AdvancedBattery",
@@ -12475,6 +11677,12 @@
       "price": 1483
     },
     {
+      "abr": "advancedgeothermalgenerator",
+      "category": "Misc",
+      "defname": "VPE_AdvancedGeothermalGenerator",
+      "price": 3058
+    },
+    {
       "abr": "advancedsolargenerator",
       "category": "Misc",
       "defname": "VFE_AdvancedSolarGenerator",
@@ -12493,6 +11701,12 @@
       "price": 1850
     },
     {
+      "abr": "amethyst",
+      "category": "Raw resources",
+      "defname": "Z_Amethyst",
+      "price": 8
+    },
+    {
       "abr": "ammocrate",
       "category": "Furniture",
       "defname": "VFES_AmmoCrate",
@@ -12502,13 +11716,109 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechviolencegenerator",
       "category": "Special",
       "defname": "VPE_ArchotechViolenceGenerator",
       "price": 5667
+    },
+    {
+      "abr": "armoreddoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorJA",
+      "price": 1317
+    },
+    {
+      "abr": "armoreddoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorKA",
+      "price": 1317
+    },
+    {
+      "abr": "armoreddoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorJB",
+      "price": 1317
+    },
+    {
+      "abr": "armoreddoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorKB",
+      "price": 1317
+    },
+    {
+      "abr": "armoredembrasurea",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureEA",
+      "price": 69
+    },
+    {
+      "abr": "armoredembrasureb",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureEB",
+      "price": 69
+    },
+    {
+      "abr": "armoredembrasurec",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureEC",
+      "price": 69
+    },
+    {
+      "abr": "armoredembrasured",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureED",
+      "price": 69
+    },
+    {
+      "abr": "armoredgeneratorf",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorF",
+      "price": 1642
+    },
+    {
+      "abr": "armoredgeneratorg",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorG",
+      "price": 2150
+    },
+    {
+      "abr": "armoredgeneratorm",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorM",
+      "price": 3050
+    },
+    {
+      "abr": "armoredgeneratorn",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorN",
+      "price": 2108
+    },
+    {
+      "abr": "armoredwalla",
+      "category": "Misc",
+      "defname": "SadjuukWallEA",
+      "price": 69
+    },
+    {
+      "abr": "armoredwallb",
+      "category": "Misc",
+      "defname": "SadjuukWallEB",
+      "price": 69
+    },
+    {
+      "abr": "armoredwallc",
+      "category": "Misc",
+      "defname": "SadjuukWallEC",
+      "price": 69
+    },
+    {
+      "abr": "armoredwalld",
+      "category": "Misc",
+      "defname": "SadjuukWallED",
+      "price": 69
     },
     {
       "abr": "artillery",
@@ -12529,6 +11839,12 @@
       "price": 35
     },
     {
+      "abr": "barber'stable",
+      "category": "Misc",
+      "defname": "VHE_TableBarber",
+      "price": 328
+    },
+    {
       "abr": "barrier",
       "category": "Misc",
       "defname": "VFES_Barrier",
@@ -12547,6 +11863,42 @@
       "price": 1442
     },
     {
+      "abr": "bluechristmastree",
+      "category": "Furniture",
+      "defname": "ChristmasTreeD",
+      "price": -10
+    },
+    {
+      "abr": "bluedoublelines",
+      "category": "Misc",
+      "defname": "SadjuukPaintAC",
+      "price": 4
+    },
+    {
+      "abr": "bluepaintedarrow",
+      "category": "Misc",
+      "defname": "SadjuukPaintBC",
+      "price": 4
+    },
+    {
+      "abr": "bluesimpleline",
+      "category": "Misc",
+      "defname": "SadjuukPaintAG",
+      "price": 4
+    },
+    {
+      "abr": "bomberjacket",
+      "category": "Apparel",
+      "defname": "Apparel_2ParkaCiv",
+      "price": 450
+    },
+    {
+      "abr": "bracelet",
+      "category": "Apparel",
+      "defname": "Jewelry_Bracelet",
+      "price": 417
+    },
+    {
       "abr": "catapult",
       "category": "Misc",
       "defname": "VFES_Turret_Catapult",
@@ -12557,6 +11909,12 @@
       "category": "Misc",
       "defname": "VFES_CavalrySpikes",
       "price": 12
+    },
+    {
+      "abr": "chalcedony",
+      "category": "Raw resources",
+      "defname": "Z_Chalcedony",
+      "price": 8
     },
     {
       "abr": "chargecomplex",
@@ -12589,6 +11947,168 @@
       "price": 542
     },
     {
+      "abr": "citrine",
+      "category": "Raw resources",
+      "defname": "Z_Citrine",
+      "price": 8
+    },
+    {
+      "abr": "civilparka",
+      "category": "Apparel",
+      "defname": "Apparel_1ParkaCiv",
+      "price": 450
+    },
+    {
+      "abr": "concreteembrasurea",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureCA",
+      "price": 44
+    },
+    {
+      "abr": "concreteembrasureb",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureCB",
+      "price": 44
+    },
+    {
+      "abr": "concreteembrasurec",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureCC",
+      "price": 44
+    },
+    {
+      "abr": "concreteembrasured",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureCD",
+      "price": 44
+    },
+    {
+      "abr": "concreteembrasuree",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureCE",
+      "price": 44
+    },
+    {
+      "abr": "concretefence",
+      "category": "Misc",
+      "defname": "SadjuukConcreteFence",
+      "price": 11
+    },
+    {
+      "abr": "concretewalla",
+      "category": "Misc",
+      "defname": "SadjuukWallCA",
+      "price": 40
+    },
+    {
+      "abr": "concretewallb",
+      "category": "Misc",
+      "defname": "SadjuukWallCB",
+      "price": 44
+    },
+    {
+      "abr": "concretewallc",
+      "category": "Misc",
+      "defname": "SadjuukWallCC",
+      "price": 44
+    },
+    {
+      "abr": "concretewalld",
+      "category": "Misc",
+      "defname": "SadjuukWallCD",
+      "price": 44
+    },
+    {
+      "abr": "concretewalle",
+      "category": "Misc",
+      "defname": "SadjuukWallCE",
+      "price": 44
+    },
+    {
+      "abr": "decorativebook",
+      "category": "Misc",
+      "defname": "DECOBedsideBook",
+      "price": 1
+    },
+    {
+      "abr": "decorativebottle",
+      "category": "Misc",
+      "defname": "DECOBedsideBottle",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterStar",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterEarth",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterAlien",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterCat",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterDogs",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterMeteor",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterTorn",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterBadge",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterDelight",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterRanger",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterTalk",
+      "price": 1
+    },
+    {
+      "abr": "decorativeposter",
+      "category": "Misc",
+      "defname": "DECOPosterSierra",
+      "price": 1
+    },
+    {
       "abr": "decoy",
       "category": "Security",
       "defname": "VFES_Turret_Decoy",
@@ -12607,10 +12127,52 @@
       "price": 983
     },
     {
+      "abr": "desertcamoembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDE",
+      "price": 67
+    },
+    {
+      "abr": "desertcamowall",
+      "category": "Misc",
+      "defname": "SadjuukWallDE",
+      "price": 67
+    },
+    {
+      "abr": "diamond",
+      "category": "Raw resources",
+      "defname": "Diamond",
+      "price": 12
+    },
+    {
       "abr": "doubleautocannon",
       "category": "Misc",
       "defname": "VFES_Turret_AutocannonDouble",
       "price": 3475
+    },
+    {
+      "abr": "earring",
+      "category": "Apparel",
+      "defname": "Jewelry_Earring",
+      "price": 267
+    },
+    {
+      "abr": "eggnog",
+      "category": "Drugs",
+      "defname": "Eggnog",
+      "price": 17
+    },
+    {
+      "abr": "elfhat",
+      "category": "Headgear",
+      "defname": "Apparel_ElfHat",
+      "price": 91
+    },
+    {
+      "abr": "emerald",
+      "category": "Raw resources",
+      "defname": "Z_Emerald",
+      "price": 60
     },
     {
       "abr": "empcannon",
@@ -12619,16 +12181,64 @@
       "price": 4225
     },
     {
+      "abr": "fireplace",
+      "category": "Misc",
+      "defname": "Fireplace",
+      "price": 408
+    },
+    {
       "abr": "flameturret",
       "category": "Security",
       "defname": "VFES_Turret_Flame",
       "price": 808
     },
     {
+      "abr": "flecktarncamoembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDD",
+      "price": 67
+    },
+    {
+      "abr": "flecktarncamowall",
+      "category": "Misc",
+      "defname": "SadjuukWallDD",
+      "price": 67
+    },
+    {
+      "abr": "fueloilgeneratora",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorA",
+      "price": 1508
+    },
+    {
+      "abr": "fueloilgeneratorb",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorB",
+      "price": 1700
+    },
+    {
+      "abr": "fueloilgeneratord",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorD",
+      "price": 1208
+    },
+    {
+      "abr": "garnet",
+      "category": "Raw resources",
+      "defname": "Z_Garnet",
+      "price": 8
+    },
+    {
       "abr": "gascooler",
       "category": "Misc",
       "defname": "VPE_GasCooler",
       "price": 458
+    },
+    {
+      "abr": "gasfloodlight",
+      "category": "Furniture",
+      "defname": "VPE_GasFloodlight",
+      "price": 255
     },
     {
       "abr": "gasheater",
@@ -12667,6 +12277,66 @@
       "price": 321
     },
     {
+      "abr": "gas-operatedpodlauncher",
+      "category": "Misc",
+      "defname": "VPE_GasPodLauncher",
+      "price": 230
+    },
+    {
+      "abr": "glassdoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorCA",
+      "price": 367
+    },
+    {
+      "abr": "glassdoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorCB",
+      "price": 367
+    },
+    {
+      "abr": "glasspartition",
+      "category": "Misc",
+      "defname": "SadjuukGlassFenceA",
+      "price": 49
+    },
+    {
+      "abr": "gm6lynx",
+      "category": "Gun Nut",
+      "defname": "GN_GMSix",
+      "price": 925
+    },
+    {
+      "abr": "greenshieldedembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDB",
+      "price": 67
+    },
+    {
+      "abr": "greenshieldedwall",
+      "category": "Misc",
+      "defname": "SadjuukWallDB",
+      "price": 67
+    },
+    {
+      "abr": "gridfence",
+      "category": "Misc",
+      "defname": "SadjuukGridFence",
+      "price": 17
+    },
+    {
+      "abr": "gridgate(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorBA",
+      "price": 144
+    },
+    {
+      "abr": "gridgate(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorBB",
+      "price": 144
+    },
+    {
       "abr": "heavyartillery",
       "category": "Security",
       "defname": "Raider_Turret_Artillery",
@@ -12691,10 +12361,22 @@
       "price": 667
     },
     {
+      "abr": "helixiengassmithy",
+      "category": "Production",
+      "defname": "VPE_GasSmithy",
+      "price": 492
+    },
+    {
       "abr": "helixiengasstove",
       "category": "Production",
       "defname": "VPE_GasStove",
       "price": 375
+    },
+    {
+      "abr": "helixiengasvent",
+      "category": "Misc",
+      "defname": "VPE_GasVent",
+      "price": 97
     },
     {
       "abr": "helixienpump",
@@ -12707,6 +12389,24 @@
       "category": "Misc",
       "defname": "VFES_Turret_HMGComplex",
       "price": 750
+    },
+    {
+      "abr": "icecamoembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDF",
+      "price": 67
+    },
+    {
+      "abr": "icecamowall",
+      "category": "Misc",
+      "defname": "SadjuukWallDF",
+      "price": 67
+    },
+    {
+      "abr": "icepickredrebel",
+      "category": "Melee weapons",
+      "defname": "GN_RedRebel",
+      "price": 333
     },
     {
       "abr": "illuminateddresser",
@@ -12757,6 +12457,12 @@
       "price": 236
     },
     {
+      "abr": "lapis",
+      "category": "Raw resources",
+      "defname": "Z_Lapis",
+      "price": 8
+    },
+    {
       "abr": "largeadvancedbattery",
       "category": "Power",
       "defname": "VFE_LargeAdvancedBattery",
@@ -12767,6 +12473,12 @@
       "category": "Power",
       "defname": "VFE_LargeBattery",
       "price": 667
+    },
+    {
+      "abr": "largefuelcell",
+      "category": "Misc",
+      "defname": "SadjuukGeneratorY",
+      "price": 1625
     },
     {
       "abr": "largeshieldgenerator",
@@ -12781,10 +12493,322 @@
       "price": 4000
     },
     {
+      "abr": "lasersculptingtable",
+      "category": "Production",
+      "defname": "LaserTableSculpting",
+      "price": 850
+    },
+    {
       "abr": "lightningrod",
       "category": "Special",
       "defname": "VPE_LightningRod",
       "price": 667
+    },
+    {
+      "abr": "m1aarchangel",
+      "category": "Gun Nut",
+      "defname": "GN_MOneA",
+      "price": 650
+    },
+    {
+      "abr": "empgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeEMPBelt",
+      "price": 179
+    },
+    {
+      "abr": "flashgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeFlashBelt",
+      "price": 72
+    },
+    {
+      "abr": "fraggrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeFragBelt",
+      "price": 105
+    },
+    {
+      "abr": "m240bbravo",
+      "category": "Gun Nut",
+      "defname": "GN_M240B",
+      "price": 833
+    },
+    {
+      "abr": "m320trooper",
+      "category": "Gun Nut",
+      "defname": "GN_HKGL",
+      "price": 392
+    },
+    {
+      "abr": "m3e1carlgustaf",
+      "category": "Gun Nut",
+      "defname": "GN_MThreeEOne",
+      "price": 758
+    },
+    {
+      "abr": "elf",
+      "category": "Animal",
+      "defname": "LotRE_ElfStandardRace",
+      "price": -10
+    },
+    {
+      "abr": "elfbuckler",
+      "category": "Melee weapons",
+      "defname": "LotRE_ElvenShieldBuckler",
+      "price": 212
+    },
+    {
+      "abr": "elfcrown",
+      "category": "Headgear",
+      "defname": "LotRE_ElfApparel_WoodElfCrown",
+      "price": 171
+    },
+    {
+      "abr": "elfleather",
+      "category": "Leathers",
+      "defname": "LotRE_Leather_Elf",
+      "price": 8
+    },
+    {
+      "abr": "elflhang",
+      "category": "Melee weapons",
+      "defname": "LotRE_MeleeWeapon_Lhang",
+      "price": 808
+    },
+    {
+      "abr": "elfmeat",
+      "category": "Meat",
+      "defname": "Meat_LotRE_ElfStandardRace",
+      "price": 3
+    },
+    {
+      "abr": "elfsaber",
+      "category": "Melee weapons",
+      "defname": "LotRE_MeleeWeapon_Saber",
+      "price": 700
+    },
+    {
+      "abr": "elfwhiteknives",
+      "category": "Melee weapons",
+      "defname": "LotRE_MeleeWeapon_WhiteKnives",
+      "price": 608
+    },
+    {
+      "abr": "elf-cape(coastal)",
+      "category": "Apparel",
+      "defname": "LotRE_Apparel_CapeCoastal",
+      "price": 191
+    },
+    {
+      "abr": "elf-cape(woodland)",
+      "category": "Apparel",
+      "defname": "LotRE_Apparel_Cape",
+      "price": 191
+    },
+    {
+      "abr": "elf-robe(coastal)",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_SimpleRobeSea",
+      "price": 245
+    },
+    {
+      "abr": "elf-robe(noble)",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_SimpleRobeHigh",
+      "price": 245
+    },
+    {
+      "abr": "elf-robe(woodland)",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_SimpleRobeWoodland",
+      "price": 245
+    },
+    {
+      "abr": "elvencandelabra",
+      "category": "Furniture",
+      "defname": "LotRE_ElvenCandelabra",
+      "price": 209
+    },
+    {
+      "abr": "elvencarvedembrasure",
+      "category": "Misc",
+      "defname": "LotRE_WallElvenEmbrasure",
+      "price": 25
+    },
+    {
+      "abr": "elvencarvedwall",
+      "category": "Misc",
+      "defname": "LotRE_WallElven",
+      "price": 25
+    },
+    {
+      "abr": "elvenchair",
+      "category": "Furniture",
+      "defname": "LotRE_Chair",
+      "price": 236
+    },
+    {
+      "abr": "elvengrandgate(2x2)",
+      "category": "Misc",
+      "defname": "PH_DoorDoubleElvishGrand",
+      "price": 675
+    },
+    {
+      "abr": "elvenloungebed",
+      "category": "Furniture",
+      "defname": "LotRE_ElvenBed",
+      "price": 105
+    },
+    {
+      "abr": "elvenroyalbed",
+      "category": "Furniture",
+      "defname": "LotRE_ElvenRoyalBed",
+      "price": 1225
+    },
+    {
+      "abr": "elventable(2x2)",
+      "category": "Furniture",
+      "defname": "LotRE_ElvishTable2x2c",
+      "price": 176
+    },
+    {
+      "abr": "elven,decorativefence",
+      "category": "Misc",
+      "defname": "LotRE_FenceElven",
+      "price": 18
+    },
+    {
+      "abr": "elven,decorativefencegate.",
+      "category": "Misc",
+      "defname": "Elven_Fence_GateA",
+      "price": 172
+    },
+    {
+      "abr": "elven,decorativefencegate.",
+      "category": "Misc",
+      "defname": "Elven_Fence_GateB",
+      "price": 172
+    },
+    {
+      "abr": "elvishbread",
+      "category": "Meals",
+      "defname": "LotRE_ElvishBread",
+      "price": 33
+    },
+    {
+      "abr": "falathrim-elfarmor",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_BattleArmorSea",
+      "price": 287
+    },
+    {
+      "abr": "falathrim-elfhelmet",
+      "category": "Headgear",
+      "defname": "LotRE_ElfApparel_BattleHelmetSea",
+      "price": 86
+    },
+    {
+      "abr": "galadhrim-elfarmor",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_BattleArmorTree",
+      "price": 358
+    },
+    {
+      "abr": "galadhrim-elfbow",
+      "category": "Ranged weapons",
+      "defname": "LotRE_Bow_Galadhrim",
+      "price": 467
+    },
+    {
+      "abr": "galadhrim-elfhelmet",
+      "category": "Headgear",
+      "defname": "LotRE_ElfApparel_BattleHelmetTree",
+      "price": 350
+    },
+    {
+      "abr": "half-elf",
+      "category": "Animal",
+      "defname": "LotRE_ElfStandardRaceHalf",
+      "price": -10
+    },
+    {
+      "abr": "half-elfleather",
+      "category": "Leathers",
+      "defname": "LotRE_Leather_ElfHalf",
+      "price": 8
+    },
+    {
+      "abr": "half-elfmeat",
+      "category": "Meat",
+      "defname": "Meat_LotRE_ElfStandardRaceHalf",
+      "price": 3
+    },
+    {
+      "abr": "horse",
+      "category": "Animal",
+      "defname": "LotR_HorseRace",
+      "price": 500
+    },
+    {
+      "abr": "lembas",
+      "category": "Meals",
+      "defname": "LotRE_LembasWaybread",
+      "price": 42
+    },
+    {
+      "abr": "lembascorn",
+      "category": "Vegetarian",
+      "defname": "LotRE_RawLembasCorn",
+      "price": 2
+    },
+    {
+      "abr": "lembasflour",
+      "category": "Vegetarian",
+      "defname": "LotRE_Lembasflour",
+      "price": 6
+    },
+    {
+      "abr": "lóriendeer",
+      "category": "Animal",
+      "defname": "LotRE_DeerMallorn",
+      "price": 417
+    },
+    {
+      "abr": "m4corp",
+      "category": "Gun Nut",
+      "defname": "GN_M4US",
+      "price": 675
+    },
+    {
+      "abr": "m4a1gunnut",
+      "category": "Gun Nut",
+      "defname": "GN_MFourAOne",
+      "price": 675
+    },
+    {
+      "abr": "m56smartgun",
+      "category": "Gun Nut",
+      "defname": "GN_M56SG",
+      "price": 775
+    },
+    {
+      "abr": "mallorn-wood",
+      "category": "Raw resources",
+      "defname": "LotRE_WoodLogMallorn",
+      "price": 2
+    },
+    {
+      "abr": "mg338norma",
+      "category": "Gun Nut",
+      "defname": "GN_SSMG",
+      "price": 875
+    },
+    {
+      "abr": "militaryparka",
+      "category": "Apparel",
+      "defname": "Apparel_2MilitaryParka",
+      "price": 558
     },
     {
       "abr": "militaryturret",
@@ -12793,10 +12817,64 @@
       "price": 842
     },
     {
+      "abr": "mirkwood-elfbow",
+      "category": "Ranged weapons",
+      "defname": "LotRE_Bow_Mirkwood",
+      "price": 260
+    },
+    {
+      "abr": "molotovbelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeMolotovBelt",
+      "price": 62
+    },
+    {
+      "abr": "mp7a1hornet",
+      "category": "Gun Nut",
+      "defname": "GN_MPSevenAOne",
+      "price": 575
+    },
+    {
+      "abr": "necklace",
+      "category": "Apparel",
+      "defname": "Jewelry_Necklace",
+      "price": 600
+    },
+    {
+      "abr": "neopuppaw",
+      "category": "Gun Nut",
+      "defname": "GN_Neopup",
+      "price": 492
+    },
+    {
+      "abr": "iwing5negev",
+      "category": "Gun Nut",
+      "defname": "GN_NGFive",
+      "price": 825
+    },
+    {
+      "abr": "ñoldorin-elfarmor",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_BattleArmor",
+      "price": 1467
+    },
+    {
+      "abr": "ñoldorin-elfhelmet",
+      "category": "Headgear",
+      "defname": "LotRE_ElfApparel_BattleHelmet",
+      "price": 186
+    },
+    {
+      "abr": "ñoldorin-elfshield",
+      "category": "Melee weapons",
+      "defname": "LotRE_ElvenShield",
+      "price": 400
+    },
+    {
       "abr": "nuclearreactor",
       "category": "Misc",
       "defname": "VPE_NuclearGenerator",
-      "price": -10
+      "price": 4475
     },
     {
       "abr": "outdoorsolarlamp",
@@ -12811,10 +12889,34 @@
       "price": 242
     },
     {
+      "abr": "portablefuelcellx",
+      "category": "Furniture",
+      "defname": "SadjuukGeneratorX",
+      "price": 2600
+    },
+    {
+      "abr": "portablegeneratorv",
+      "category": "Furniture",
+      "defname": "SadjuukGeneratorV",
+      "price": 617
+    },
+    {
+      "abr": "portablegeneratorw",
+      "category": "Furniture",
+      "defname": "SadjuukGeneratorW",
+      "price": 1358
+    },
+    {
       "abr": "portablewood-firedgenerator",
       "category": "Power",
       "defname": "VFE_PortableWoodFiredGenerator",
       "price": 189
+    },
+    {
+      "abr": "powerconduit",
+      "category": "Misc",
+      "defname": "SadjuukPowerConduit",
+      "price": 3
     },
     {
       "abr": "psychicpylon",
@@ -12823,10 +12925,64 @@
       "price": 2167
     },
     {
+      "abr": "psyfocusnecklace",
+      "category": "Apparel",
+      "defname": "Jewelry_PsychicNecklace",
+      "price": 750
+    },
+    {
+      "abr": "quartz",
+      "category": "Raw resources",
+      "defname": "Z_Quartz",
+      "price": 3
+    },
+    {
+      "abr": "r700hawk",
+      "category": "Gun Nut",
+      "defname": "GN_RSevenHundred",
+      "price": 725
+    },
+    {
+      "abr": "redchristmastree",
+      "category": "Furniture",
+      "defname": "ChristmasTreeB",
+      "price": -10
+    },
+    {
+      "abr": "reddoublelines",
+      "category": "Misc",
+      "defname": "SadjuukPaintAD",
+      "price": 4
+    },
+    {
+      "abr": "redpaintedarrow",
+      "category": "Misc",
+      "defname": "SadjuukPaintBD",
+      "price": 4
+    },
+    {
+      "abr": "redsimpleline",
+      "category": "Misc",
+      "defname": "SadjuukPaintAH",
+      "price": 4
+    },
+    {
+      "abr": "redzebra(l)",
+      "category": "Misc",
+      "defname": "SadjuukPaintCA",
+      "price": 8
+    },
+    {
+      "abr": "redzebra(r)",
+      "category": "Misc",
+      "defname": "SadjuukPaintCB",
+      "price": 8
+    },
+    {
       "abr": "reinforcedwall",
       "category": "Misc",
       "defname": "Reinforced_WallAT",
-      "price": -10
+      "price": 52
     },
     {
       "abr": "repairshelf",
@@ -12835,16 +12991,58 @@
       "price": 2908
     },
     {
+      "abr": "ring",
+      "category": "Apparel",
+      "defname": "Jewelry_Ring",
+      "price": 250
+    },
+    {
+      "abr": "rivendell-elfbow",
+      "category": "Ranged weapons",
+      "defname": "LotRE_Bow_Rivendell",
+      "price": 775
+    },
+    {
       "abr": "rocketturret",
       "category": "Misc",
       "defname": "VFES_Turret_TriRocket",
       "price": 2508
     },
     {
+      "abr": "ruby",
+      "category": "Raw resources",
+      "defname": "Ruby",
+      "price": 10
+    },
+    {
+      "abr": "sa-58juicecannon",
+      "category": "Gun Nut",
+      "defname": "GN_SAFiftyEight",
+      "price": 675
+    },
+    {
+      "abr": "saiga12ksweeper",
+      "category": "Gun Nut",
+      "defname": "GN_SaigaTwelveK",
+      "price": 492
+    },
+    {
+      "abr": "santahat",
+      "category": "Headgear",
+      "defname": "Apparel_SantaHat",
+      "price": 91
+    },
+    {
+      "abr": "sapphire",
+      "category": "Raw resources",
+      "defname": "Sapphire",
+      "price": 10
+    },
+    {
       "abr": "searchlight",
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
-      "price": -10
+      "price": 475
     },
     {
       "abr": "sentrygun",
@@ -12853,10 +13051,70 @@
       "price": 1058
     },
     {
+      "abr": "serpentine",
+      "category": "Raw resources",
+      "defname": "Z_Serpentine",
+      "price": 8
+    },
+    {
+      "abr": "shieldeddoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorHA",
+      "price": 558
+    },
+    {
+      "abr": "shieldeddoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorIA",
+      "price": 558
+    },
+    {
+      "abr": "shieldeddoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorHB",
+      "price": 558
+    },
+    {
+      "abr": "shieldeddoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorIB",
+      "price": 558
+    },
+    {
+      "abr": "shieldedembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDA",
+      "price": 67
+    },
+    {
+      "abr": "shieldedwall",
+      "category": "Misc",
+      "defname": "SadjuukWallDA",
+      "price": 67
+    },
+    {
       "abr": "shortwall",
       "category": "Misc",
       "defname": "VFES_ShortWall",
-      "price": -10
+      "price": 14
+    },
+    {
+      "abr": "silvan-elfarmor",
+      "category": "Apparel",
+      "defname": "LotRE_ElfApparel_BattleArmorWood",
+      "price": 269
+    },
+    {
+      "abr": "silvan-elfhelmet",
+      "category": "Headgear",
+      "defname": "LotRE_ElfApparel_BattleHelmetWood",
+      "price": 350
+    },
+    {
+      "abr": "skstapco",
+      "category": "Gun Nut",
+      "defname": "GN_SKS",
+      "price": 492
     },
     {
       "abr": "smallbattery",
@@ -12877,10 +13135,106 @@
       "price": 667
     },
     {
+      "abr": "smokegrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeSmokeBelt",
+      "price": 88
+    },
+    {
+      "abr": "solarpanela",
+      "category": "Misc",
+      "defname": "SadjuukSolarA",
+      "price": 1292
+    },
+    {
+      "abr": "solarpanelb",
+      "category": "Misc",
+      "defname": "SadjuukSolarB",
+      "price": 1292
+    },
+    {
+      "abr": "solarpanelc",
+      "category": "Misc",
+      "defname": "SadjuukSolarC",
+      "price": 1292
+    },
+    {
+      "abr": "soldierparka",
+      "category": "Apparel",
+      "defname": "Apparel_1MilitaryParka",
+      "price": 558
+    },
+    {
       "abr": "spacerlamp",
       "category": "Furniture",
       "defname": "Light_SpacerLamp",
       "price": 184
+    },
+    {
+      "abr": "standinggaslamp",
+      "category": "Furniture",
+      "defname": "VPE_GasLamp",
+      "price": 65
+    },
+    {
+      "abr": "steeldoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorEA",
+      "price": 153
+    },
+    {
+      "abr": "steeldoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorFA",
+      "price": 242
+    },
+    {
+      "abr": "steeldoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorGA",
+      "price": 242
+    },
+    {
+      "abr": "steeldoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorEB",
+      "price": 153
+    },
+    {
+      "abr": "steeldoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorFB",
+      "price": 242
+    },
+    {
+      "abr": "steeldoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorGB",
+      "price": 242
+    },
+    {
+      "abr": "steelembrasurea",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureBA",
+      "price": 35
+    },
+    {
+      "abr": "steelembrasureb",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureBB",
+      "price": 35
+    },
+    {
+      "abr": "steelwalla",
+      "category": "Misc",
+      "defname": "SadjuukWallBA",
+      "price": 41
+    },
+    {
+      "abr": "steelwallb",
+      "category": "Misc",
+      "defname": "SadjuukWallBB",
+      "price": 41
     },
     {
       "abr": "subterraneangaspipe",
@@ -12895,10 +13249,22 @@
       "price": 1500
     },
     {
+      "abr": "toxicgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeToxicBelt",
+      "price": 7
+    },
+    {
       "abr": "trench",
       "category": "Misc",
       "defname": "VFES_Trench",
       "price": 40
+    },
+    {
+      "abr": "turquoise",
+      "category": "Raw resources",
+      "defname": "Z_Turquoise",
+      "price": 7
     },
     {
       "abr": "ultrascreentelevision",
@@ -12907,46 +13273,178 @@
       "price": 3075
     },
     {
+      "abr": "wallfirefoampopper",
+      "category": "Furniture",
+      "defname": "SadjuukFirefoamPopper",
+      "price": 177
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16
+    },
+    {
+      "abr": "whitechristmastree",
+      "category": "Furniture",
+      "defname": "ChristmasTreeBase",
+      "price": -10
+    },
+    {
+      "abr": "whitedoublelines",
+      "category": "Misc",
+      "defname": "SadjuukPaintAB",
+      "price": 4
+    },
+    {
+      "abr": "whitepaintedarrow",
+      "category": "Misc",
+      "defname": "SadjuukPaintBB",
+      "price": 4
+    },
+    {
+      "abr": "whitesimpleline",
+      "category": "Misc",
+      "defname": "SadjuukPaintAF",
+      "price": 4
+    },
+    {
+      "abr": "woodfence",
+      "category": "Misc",
+      "defname": "SadjuukWoodFence",
+      "price": 5
+    },
+    {
+      "abr": "woodgenerator",
+      "category": "Misc",
+      "defname": "SadjuukWoodGeneratorA",
+      "price": 475
+    },
+    {
+      "abr": "woodendoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorDA",
+      "price": 32
+    },
+    {
+      "abr": "woodendoor(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorLA",
+      "price": 32
+    },
+    {
+      "abr": "woodendoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorDB",
+      "price": 32
+    },
+    {
+      "abr": "woodendoor(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorLB",
+      "price": 32
+    },
+    {
+      "abr": "woodenembrasurea",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureAA",
+      "price": 15
+    },
+    {
+      "abr": "woodenembrasureb",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureAB",
+      "price": 15
+    },
+    {
+      "abr": "woodengate(h)",
+      "category": "Misc",
+      "defname": "SadjuukDoorAA",
+      "price": 21
+    },
+    {
+      "abr": "woodengate(v)",
+      "category": "Misc",
+      "defname": "SadjuukDoorAB",
+      "price": 21
+    },
+    {
+      "abr": "woodenpallet",
+      "category": "Furniture",
+      "defname": "SadjuukWoodenPallet",
+      "price": 10
+    },
+    {
+      "abr": "woodenwalla",
+      "category": "Misc",
+      "defname": "SadjuukWallAA",
+      "price": 13
+    },
+    {
+      "abr": "woodenwallb",
+      "category": "Misc",
+      "defname": "SadjuukWallAB",
+      "price": 13
+    },
+    {
+      "abr": "woodlandcamoembrasure",
+      "category": "Misc",
+      "defname": "SadjuukEmbrasureDC",
+      "price": 67
+    },
+    {
+      "abr": "woodlandcamowall",
+      "category": "Misc",
+      "defname": "SadjuukWallDC",
+      "price": 67
+    },
+    {
+      "abr": "workerparka",
+      "category": "Apparel",
+      "defname": "Apparel_1ParkaWork",
+      "price": 558
+    },
+    {
+      "abr": "yellowchristmastree",
+      "category": "Furniture",
+      "defname": "ChristmasTreeC",
+      "price": -10
+    },
+    {
+      "abr": "yellowdoublelines",
+      "category": "Misc",
+      "defname": "SadjuukPaintAA",
+      "price": 4
+    },
+    {
+      "abr": "yellowpaintedarrow",
+      "category": "Misc",
+      "defname": "SadjuukPaintBA",
+      "price": 4
+    },
+    {
+      "abr": "yellowsimplelines",
+      "category": "Misc",
+      "defname": "SadjuukPaintAE",
+      "price": 4
+    },
+    {
+      "abr": "yellowzebra(l)",
+      "category": "Misc",
+      "defname": "SadjuukPaintCC",
+      "price": 8
+    },
+    {
+      "abr": "yellowzebra(r)",
+      "category": "Misc",
+      "defname": "SadjuukPaintCD",
+      "price": 8
+    },
+    {
       "abr": "boulder",
       "category": "Catapult ammo",
       "defname": "Ammo_Catapult_Boulder",
       "price": 1
-    },
-    {
-      "abr": "advancedgeothermalgenerator",
-      "category": "Misc",
-      "defname": "VPE_AdvancedGeothermalGenerator",
-      "price": 3058
-    },
-    {
-      "abr": "gasfloodlight",
-      "category": "Furniture",
-      "defname": "VPE_GasFloodlight",
-      "price": 255
-    },
-    {
-      "abr": "gas-operatedpodlauncher",
-      "category": "Misc",
-      "defname": "VPE_GasPodLauncher",
-      "price": 230
-    },
-    {
-      "abr": "helixiengassmithy",
-      "category": "Production",
-      "defname": "VPE_GasSmithy",
-      "price": 492
-    },
-    {
-      "abr": "helixiengasvent",
-      "category": "Misc",
-      "defname": "VPE_GasVent",
-      "price": 97
-    },
-    {
-      "abr": "standinggaslamp",
-      "category": "Furniture",
-      "defname": "VPE_GasLamp",
-      "price": 65
     },
     {
       "abr": "zombrella",
@@ -12955,5 +13453,5 @@
       "price": 3333
     }
   ],
-  "total": 2159
+  "total": 2242
 }
